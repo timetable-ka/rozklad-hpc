@@ -22,6 +22,9 @@ public class LessonsDto {
     @JsonProperty("group_id")
     String groupId;
 
+    @JsonProperty("day_number")
+    String dayNumber;
+
     @JsonProperty("day_name")
     String dayName;
 
