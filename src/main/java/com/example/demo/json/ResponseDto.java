@@ -12,7 +12,7 @@ import java.time.Instant;
 public class ResponseDto<T> {
 
     private final int statusCode = 200;
-    private final long timeStamp = 1600162757602L;
+    private final long timeStamp = 1600071948;
     private final String message = "Ok";
     private String debugInfo;
     private String meta;
