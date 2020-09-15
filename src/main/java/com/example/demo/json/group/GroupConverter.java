@@ -12,6 +12,7 @@ public class GroupConverter implements Converter<Group, GroupDto> {
         return GroupDto.builder()
                 .id(source.getId())
                 .fullName(source.getName())
+                .okr("bachelor")
                 .build();
     }
 
