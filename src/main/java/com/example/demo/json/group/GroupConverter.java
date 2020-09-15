@@ -13,6 +13,9 @@ public class GroupConverter implements Converter<Group, GroupDto> {
                 .id(source.getId())
                 .fullName(source.getName())
                 .okr("bachelor")
+                .prefix(source.getName().substring(0, 2).toLowerCase())
+                .type("extramural")
+                .url("http://google.com")
                 .build();
     }
 
