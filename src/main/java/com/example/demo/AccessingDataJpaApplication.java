@@ -1,6 +1,7 @@
 package com.example.demo;
 
 import com.example.demo.json.group.GroupService;
+import com.example.demo.model.repo.TimeTableRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -18,11 +19,14 @@ public class AccessingDataJpaApplication {
     }
 
     @Bean
-    public CommandLineRunner demo(GroupService groupService) {
+    public CommandLineRunner demo(GroupService groupService, TimeTableRepository timeTableRepository) {
         return (args) -> {
-            groupService.buildGroupInfoById();
-            groupService.buildGroupInfoByName();
-            groupService.buildGroupSearchJson();
+
+            timeTableRepository.findAll()
+                    .forEach(timeTable -> log.error(timeTable.toString()));
+//            groupService.buildGroupInfoById();
+//            groupService.buildGroupInfoByName();
+//            groupService.buildGroupSearchJson();
         };
     }
 

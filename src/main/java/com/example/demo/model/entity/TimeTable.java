@@ -1,0 +1,53 @@
+package com.example.demo.model.entity;
+
+import lombok.*;
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
+
+import javax.persistence.*;
+
+@Table(name = "timetable")
+@Entity
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@ToString
+public class TimeTable {
+
+    @Id
+    private Long id;
+
+    @Fetch(FetchMode.JOIN)
+    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @JoinColumn(name = "teacher_id")
+    private Teacher teacher;
+
+    @Fetch(FetchMode.JOIN)
+    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @JoinColumn(name = "teacher_id_optional")
+    private Teacher teacherSecond;
+
+    @Fetch(FetchMode.JOIN)
+    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @JoinColumn(name = "lesson_id")
+    private Lesson lesson;
+
+    @Fetch(FetchMode.JOIN)
+    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @JoinColumn(name = "group_id")
+    private Group group;
+
+    @Fetch(FetchMode.JOIN)
+    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @JoinColumn(name = "lesson_room_id")
+    private Room room;
+
+    @Column(name = "lesson_number")
+    private long lessonNumber;
+    @Column(name = "day_number")
+    private long dayNumber;
+    @Column(name = "lesson_week")
+    private long lessonWeek;
+
+}

@@ -1,60 +1,4 @@
-# todo create db schema
-
-CREATE SCHEMA IF NOT EXISTS timetable2;
-
-CREATE TABLE timetable2.college_group
-(
-    id   MEDIUMINT,
-    name TEXT,
-    PRIMARY KEY (id)
-);
-
-CREATE TABLE timetable2.lesson
-(
-    id   MEDIUMINT,
-    name TEXT,
-    PRIMARY KEY (id)
-);
-
-CREATE TABLE timetable2.teacher
-(
-    id   MEDIUMINT,
-    name TEXT,
-    PRIMARY KEY (id)
-);
-
-
-CREATE TABLE timetable2.room
-(
-    id   MEDIUMINT,
-    name TEXT,
-    PRIMARY KEY (id)
-);
-
-CREATE TABLE timetable2.timetable
-(
-    id   MEDIUMINT NOT NULL AUTO_INCREMENT,
-    teacherId int not null, /*1*/
-    teacherIdOptional int  , /*1*/
-    lessonId int not null,  /*1*/
-    groupId int not null,   /*1*/
-    lessonRoomId int,         /*707-22*/
-    lessonNumber int,         /*707-22*/
-    dayNumber int,           /*Понеділок =1*/
-    timeStart text,         /*12:00:00*/
-    timeEnd text,           /*14:00:00*/
-    lessonWeek int,         /*1*/
-    PRIMARY KEY (id)
-);
-
-
-TRUNCATE TABLE timetable2.lesson;
-TRUNCATE TABLE timetable2.college_group;
-TRUNCATE TABLE timetable2.teacher;
-
-
-# todo fill tables with data
-INSERT INTO timetable2.college_group (id, name)
+INSERT INTO timetable3.college_group (id, name)
 VALUES (1, 'КІ-201'),
        (2,'КІ-202'),
        (3,'КІ-203'),
@@ -109,7 +53,7 @@ VALUES (1, 'КІ-201'),
        (52,'АТ-172');
 
 
-INSERT INTO timetable2.lesson (id, name)
+INSERT INTO timetable3.lesson (id, name)
 VALUES (1, 'Інформатика'),
        (2,'Іноземна мова'),
        (3, 'Фізична культура'),
@@ -218,12 +162,12 @@ VALUES (1, 'Інформатика'),
 
 
 
-INSERT INTO timetable2.teacher (id, name)
+INSERT INTO timetable3.teacher (id, name)
 VALUES (1, 'Ковалець. І.М.'),
-       (201, 'Стецюк П.П.');
+       (2, 'Стецюк П.П.');
 
 
-INSERT INTO timetable2.room (id, name)
+INSERT INTO timetable3.room (id, name)
 VALUES (1, '707-22'),
        (2, '707-22');
 
@@ -231,33 +175,29 @@ VALUES (1, '707-22'),
 # lessonNumber 1-5
 # lessonWeek 1,2
 # teacherIdOptional set id teacher if have 2 teacher
-INSERT INTO timetable2.timetable (teacherId, teacherIdOptional, lessonId, groupId,
-                                  lessonRoomId, lessonWeek, lessonNumber, dayNumber )
+INSERT INTO timetable3.timetable (teacher_id, teacher_id_optional, lesson_id, group_id,
+                                  lesson_room_id, lesson_week, lesson_number, day_number )
 VALUES (1, 2, 1,1, 1, 1, 1, 1),
        (1, null, 1,1, 1, 1, 1, 1);
 
 
 SELECT t.*
-FROM timetable2.lesson t
+FROM timetable3.lesson t
 WHERE name like '%янська освіт%'
 LIMIT 501;
 
 SELECT t.*
-FROM timetable2.room t
+FROM timetable3.room t
 WHERE name like '%707%'
 LIMIT 501;
 
 SELECT t.*
-FROM timetable2.teacher t
+FROM timetable3.teacher t
 WHERE name like '%Ковалець%'
 LIMIT 501;
 
 
 SELECT t.*
-FROM timetable2.college_group t
+FROM timetable3.college_group t
 WHERE name like '%201%'
-LIMIT 501
-
-
-
-
+LIMIT 501;
