@@ -2,6 +2,7 @@ package com.example.demo;
 
 import com.example.demo.json.group.GroupService;
 import com.example.demo.json.lessons.LessonService;
+import com.example.demo.json.teacher.TeacherService;
 import com.example.demo.model.repo.TimeTableRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
@@ -21,12 +22,14 @@ public class AccessingDataJpaApplication {
 
     @Bean
     public CommandLineRunner demo(GroupService groupService,
-                                  LessonService lessonService) {
+                                  LessonService lessonService,
+                                  TeacherService teacherService) {
         return (args) -> {
-            lessonService.buildLessonInfoByName();
-            groupService.buildGroupInfoById();
-            groupService.buildGroupInfoByName();
-            groupService.buildGroupSearchJson();
+            teacherService.buildTeacherInfoByName();
+//            lessonService.buildLessonInfoByName();
+//            groupService.buildGroupInfoById();
+//            groupService.buildGroupInfoByName();
+//            groupService.buildGroupSearchJson();
         };
     }
 
