@@ -41,6 +41,9 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
                 .teachers(List.of(teacherDto))
                 .rooms(List.of(roomDto))
                 .dayName(requireNonNull(Day.findByKey(source.getDayNumber())).getName())
+                .lessonType("Лек")
+                .timeStart("10:25:00")
+                .timeEnd("12:00:00")
                 .build();
     }
 
