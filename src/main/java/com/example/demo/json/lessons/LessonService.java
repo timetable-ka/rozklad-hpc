@@ -43,7 +43,7 @@ public class LessonService {
         lessonsDtos.forEach((groupId, lessonsDto) -> {
             String json = null;
             try {
-                ResponseDto<Object> responseDto = ResponseDto.builder().data(lessonsDtos).build();
+                ResponseDto<Object> responseDto = ResponseDto.builder().data(lessonsDto).build();
                 json = objectMapper.writeValueAsString(responseDto);
             } catch (Exception e) {
                 log.error("Error", e);
