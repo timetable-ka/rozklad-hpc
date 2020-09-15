@@ -24,9 +24,9 @@ public class AccessingDataJpaApplication {
                                   LessonService lessonService) {
         return (args) -> {
             lessonService.buildLessonInfoByName();
-//            groupService.buildGroupInfoById();
-//            groupService.buildGroupInfoByName();
-//            groupService.buildGroupSearchJson();
+            groupService.buildGroupInfoById();
+            groupService.buildGroupInfoByName();
+            groupService.buildGroupSearchJson();
         };
     }
 
