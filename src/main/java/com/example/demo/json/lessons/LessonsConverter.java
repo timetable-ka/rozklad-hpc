@@ -30,6 +30,8 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
         TeacherDto teacherDto = requireNonNull(teacherConverter.convert(teacher));
         RoomDto roomDto = requireNonNull(roomConverter.convert(room));
 
+        LessonTime lessonTime = LessonTime.findByKey(source.getLessonNumber());
+
         return LessonsDto.builder()
                 .lessonId(String.valueOf(source.getId()))
                 .groupId(String.valueOf(source.getGroup().getId()))
@@ -43,10 +45,35 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
                 .dayName(requireNonNull(Day.findByKey(source.getDayNumber())).getName())
                 .dayNumber(String.valueOf(source.getDayNumber()))
                 .lessonType("Лек")
-                .timeStart("10:25:00")
-                .timeEnd("12:00:00")
+                .timeStart(lessonTime.getStart())
+                .timeEnd(lessonTime.getEnd())
                 .lessonWeek(String.valueOf(source.getLessonWeek()))
                 .build();
+    }
+
+    @RequiredArgsConstructor
+    @Getter
+    enum LessonTime {
+
+        FIRST("8:30","9:50", 1),
+        SECOND("10:00","11:20", 2),
+        THIRD("11:50","13:10", 3),
+        FOURTH("13:20","14:40", 4),
+        FIFTH("14:50","16:10", 4);
+
+        private final String start;
+        private final String end;
+        private  final long numberDayInWeek;
+
+        public static LessonTime findByKey(long i) {
+            LessonTime[] testEnums = LessonTime.values();
+            for (LessonTime testEnum : testEnums) {
+                if (Long.valueOf(testEnum.getNumberDayInWeek()).equals(i)) {
+                    return testEnum;
+                }
+            }
+            return null;
+        }
     }
 
     @RequiredArgsConstructor
@@ -61,8 +88,8 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
         SA("Субота", 6),
         SU("Неділя", 7);
 
-        final String name;
-        final long numberDayInWeek;
+        private final String name;
+        private final long numberDayInWeek;
 
         public static Day findByKey(long i) {
             Day[] testEnums = Day.values();
