@@ -1,4 +1,4 @@
-package com.example.demo.json.lessons;
+package com.example.demo.json.teacher;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,6 +1,8 @@
 package com.example.demo.json.lessons;
 
 
+import com.example.demo.json.room.RoomDto;
+import com.example.demo.json.teacher.TeacherDto;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 

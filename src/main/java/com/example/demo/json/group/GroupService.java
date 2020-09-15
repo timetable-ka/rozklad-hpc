@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+import static com.example.demo.json.FileUtil.createFile;
 import static org.apache.commons.io.FileUtils.writeByteArrayToFile;
 
 @Slf4j
@@ -67,15 +68,6 @@ public class GroupService {
                     }
                 });
         log.info("Finish build");
-    }
-
-    public static void createFile(byte[] bytes, String pathname) {
-        try {
-            writeByteArrayToFile(new File(pathname), bytes);
-        }
-        catch (IOException e) {
-            throw new RuntimeException(e);
-        }
     }
 
 }
