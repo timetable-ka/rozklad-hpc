@@ -40,6 +40,7 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
                 .teacherName(teacher.getName())
                 .teachers(List.of(teacherDto))
                 .rooms(List.of(roomDto))
+                .dayName(requireNonNull(Day.findByKey(source.getDayNumber())).getName())
                 .build();
     }
 
@@ -56,7 +57,16 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
         SU("Неділя", 7);
 
         final String name;
-        final int numberDayInWeek;
+        final long numberDayInWeek;
 
+        public static Day findByKey(long i) {
+            Day[] testEnums = Day.values();
+            for (Day testEnum : testEnums) {
+                if (Long.valueOf(testEnum.getNumberDayInWeek()).equals(i)) {
+                    return testEnum;
+                }
+            }
+            return null;
+        }
     }
 }
