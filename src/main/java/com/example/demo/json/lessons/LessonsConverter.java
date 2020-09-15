@@ -44,6 +44,7 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
                 .lessonType("Лек")
                 .timeStart("10:25:00")
                 .timeEnd("12:00:00")
+                .lessonWeek(String.valueOf(source.getLessonWeek()))
                 .build();
     }
 
