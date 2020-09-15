@@ -55,11 +55,11 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
     @Getter
     enum LessonTime {
 
-        FIRST("8:30:00","9:50:00", 1),
-        SECOND("10:00:00","11:20:00", 2),
-        THIRD("11:50:00","13:10:00", 3),
-        FOURTH("13:20:00","14:40:00", 4),
-        FIFTH("14:50:00","16:10:00", 4);
+        FIRST("8:30","9:50", 1),
+        SECOND("10:00","11:20", 2),
+        THIRD("11:50","13:10:00", 3),
+        FOURTH("13:20","14:40:00", 4),
+        FIFTH("14:50","16:10", 4);
 
         private final String start;
         private final String end;
