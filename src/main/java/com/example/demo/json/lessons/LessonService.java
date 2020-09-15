@@ -76,7 +76,7 @@ public class LessonService {
                     log.error("Error", e);
                 }
 
-                createFile(json.getBytes(), "C:\\Users\\pc\\IdeaProjects\\demo\\teachers\\" + teacher.getId() + "\\timeTables.json");
+                createFile(json.getBytes(), "C:\\Users\\pc\\IdeaProjects\\demo\\teachers\\" + teacher.getId() + "\\teachers.json");
                 log.info("Finish build");
             });
         });
