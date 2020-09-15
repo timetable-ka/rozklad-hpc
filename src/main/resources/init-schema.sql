@@ -1,20 +1,20 @@
 CREATE SCHEMA IF NOT EXISTS timetable3;
 
-CREATE TABLE timetable3.college_group
+CREATE TABLE IF NOT EXISTS timetable3.college_group
 (
     id   MEDIUMINT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
-CREATE TABLE timetable3.lesson
+CREATE TABLE IF NOT EXISTS timetable3.lesson
 (
     id   MEDIUMINT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
-CREATE TABLE timetable3.teacher
+CREATE TABLE IF NOT EXISTS timetable3.teacher
 (
     id   MEDIUMINT,
     name TEXT,
@@ -22,14 +22,14 @@ CREATE TABLE timetable3.teacher
 );
 
 
-CREATE TABLE timetable3.room
+CREATE TABLE IF NOT EXISTS timetable3.room
 (
     id   MEDIUMINT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
-CREATE TABLE timetable3.timetable
+CREATE TABLE IF NOT EXISTS timetable3.timetable
 (
     id   MEDIUMINT NOT NULL AUTO_INCREMENT,
     teacher_id int not null, /*1*/
@@ -46,6 +46,8 @@ CREATE TABLE timetable3.timetable
 );
 
 
-TRUNCATE TABLE timetable3.lesson;
 TRUNCATE TABLE timetable3.college_group;
+TRUNCATE TABLE timetable3.lesson;
+TRUNCATE TABLE timetable3.room;
 TRUNCATE TABLE timetable3.teacher;
+TRUNCATE TABLE timetable3.timetable;
