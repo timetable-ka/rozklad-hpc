@@ -171,13 +171,11 @@ INSERT INTO timetable3.room (id, name)
 VALUES (1, '707-22'),
        (2, '707-22');
 
-# dayNumber 1-5
-# lessonNumber 1-5
-# lessonWeek 1,2
-# teacherIdOptional set id teacher if have 2 teacher
+TRUNCATE TABLE timetable3.timetable;
 INSERT INTO timetable3.timetable (teacher_id, teacher_id_optional, lesson_id, group_id,
                                   lesson_room_id, lesson_week, lesson_number, day_number )
 VALUES (1, 2, 1,1, 1, 1, 1, 1),
+       (1, 2, 1,1, 1, 1, 2, 2),
        (1, null, 1,1, 1, 1, 1, 1);
 
 
