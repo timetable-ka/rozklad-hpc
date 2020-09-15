@@ -3,7 +3,6 @@ package com.example.demo;
 import com.example.demo.json.group.GroupService;
 import com.example.demo.json.lessons.LessonService;
 import com.example.demo.json.teacher.TeacherService;
-import com.example.demo.model.repo.TimeTableRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -26,10 +25,11 @@ public class AccessingDataJpaApplication {
                                   TeacherService teacherService) {
         return (args) -> {
             teacherService.buildTeacherInfoByName();
-//            lessonService.buildLessonInfoByName();
-//            groupService.buildGroupInfoById();
-//            groupService.buildGroupInfoByName();
-//            groupService.buildGroupSearchJson();
+            lessonService.buildTeacherInfoForEveryTeacher();
+            lessonService.buildLessonInfoByName();
+            groupService.buildGroupInfoById();
+            groupService.buildGroupInfoByName();
+            groupService.buildGroupSearchJson();
         };
     }
 
