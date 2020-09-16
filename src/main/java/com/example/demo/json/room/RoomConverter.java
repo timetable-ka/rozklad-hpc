@@ -13,8 +13,8 @@ public class RoomConverter implements Converter<Room, RoomDto> {
         return RoomDto.builder()
                 .roomId(String.valueOf(room.getId()))
                 .roomName(room.getName())
-                .roomLatitude("49.4336469")
-                .roomLongitude("27.0025341")
+                .roomLatitude("49.4330545")
+                .roomLongitude("27.0043892")
                 .build();
     }
 }
