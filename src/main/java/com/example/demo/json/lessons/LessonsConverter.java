@@ -12,6 +12,7 @@ import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Optional;
 
@@ -32,11 +33,11 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
     public LessonsDto convert(TimeTable source) {
         Teacher teacher = source.getTeacher();
         TeacherDto teacherDto = requireNonNull(teacherConverter.convert(teacher));
-        List<TeacherDto> teacherDtos = new ArrayList<>(List.of(teacherDto));
+        List<TeacherDto> teacherDtos = new LinkedList<>(List.of(teacherDto));
 
         Room room = source.getRoom();
         RoomDto roomDto = requireNonNull(roomConverter.convert(room));
-        List<RoomDto> roomDtos = new ArrayList<>(List.of(roomDto));
+        List<RoomDto> roomDtos = new LinkedList<>(List.of(roomDto));
 
         LessonTime lessonTime = requireNonNull(LessonTime.findByKey(source.getLessonNumber()));
 
