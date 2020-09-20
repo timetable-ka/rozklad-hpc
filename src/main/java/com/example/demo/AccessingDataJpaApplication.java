@@ -7,6 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 
 @Slf4j
@@ -20,7 +21,8 @@ public class AccessingDataJpaApplication {
     @Bean
     public CommandLineRunner demo(GroupService groupService,
                                   LessonService lessonService,
-                                  TeacherService teacherService) {
+                                  TeacherService teacherService,
+                                  ConfigurableApplicationContext ctx) {
         return (args) -> {
             teacherService.buildTeacherInfoByName();
             lessonService.buildTeacherInfoForEveryTeacher();
@@ -28,7 +30,14 @@ public class AccessingDataJpaApplication {
             groupService.buildGroupInfoById();
             groupService.buildGroupInfoByName();
             groupService.buildGroupSearchJson();
+
+            exitApplication(ctx);
         };
+    }
+
+    public static void exitApplication(ConfigurableApplicationContext ctx) {
+        int exitCode = SpringApplication.exit(ctx, () -> 0);
+        System.exit(exitCode);
     }
 
 }

@@ -49,7 +49,7 @@ public class LessonService {
                 log.error("Error", e);
             }
 
-            createFile(json.getBytes(), "C:\\Users\\bruh\\IdeaProjects\\rozklad-hpc\\groups\\" + groupId + "\\lessons.json");
+            createFile(json.getBytes(), "groups\\" + groupId + "\\lessons.json");
             log.info("Finish build");
         });
     }
@@ -76,7 +76,7 @@ public class LessonService {
                     log.error("Error", e);
                 }
 
-                createFile(json.getBytes(), "C:\\Users\\bruh\\IdeaProjects\\rozklad-hpc\\teachers\\" + teacher.getId() + "\\lessons.json");
+                createFile(json.getBytes(), "teachers\\" + teacher.getId() + "\\lessons.json");
                 log.info("Finish build");
             });
         });
