@@ -6,7 +6,6 @@
 1. Fix second teacher view on Android app
 1. Add 2 courses - 14
 1. Add 3 courses - 13
-1. Add 4 courses - 5
 
 
 ## How add new groups - update JSON's
