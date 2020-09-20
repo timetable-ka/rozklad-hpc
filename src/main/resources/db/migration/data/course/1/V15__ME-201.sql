@@ -1,4 +1,4 @@
-# МЕ-201 (ауд.129)   = 6 6
+ # МЕ-201 (ауд.129)   = 6 6
 INSERT INTO timetable (group_id, lesson_room_id, lesson_week,
                        day_number, lesson_number, teacher_id, teacher_id_optional, lesson_id)
 VALUES
