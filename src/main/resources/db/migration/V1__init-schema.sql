@@ -35,16 +35,17 @@ CREATE TABLE IF NOT EXISTS room
 
 CREATE TABLE IF NOT EXISTS timetable
 (
-    id                  MEDIUMINT NOT NULL AUTO_INCREMENT,
-    teacher_id          int       not null,
-    teacher_id_optional int,
-    lesson_id           int       not null,
-    group_id            int       not null,
-    lesson_room_id      int,
-    lesson_number       int,
-    day_number          int,
-    time_start          text,
-    time_end            text,
-    lesson_week         int,
+    id                      MEDIUMINT NOT NULL AUTO_INCREMENT,
+    teacher_id              int       not null,
+    teacher_id_optional     int,
+    lesson_room_id          int       not null,
+    lesson_room_id_optional int,
+    lesson_id               int       not null,
+    group_id                int       not null,
+    lesson_number           int,
+    day_number              int,
+    time_start              text,
+    time_end                text,
+    lesson_week             int,
     PRIMARY KEY (id)
 );

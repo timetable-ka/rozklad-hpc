@@ -29,6 +29,16 @@ public class TimeTable {
     private Teacher teacherSecond;
 
     @Fetch(FetchMode.JOIN)
+    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @JoinColumn(name = "lesson_room_id")
+    private Room room;
+
+    @Fetch(FetchMode.JOIN)
+    @ManyToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @JoinColumn(name = "lesson_room_id_optional")
+    private Room roomSecond;
+
+    @Fetch(FetchMode.JOIN)
     @ManyToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
     @JoinColumn(name = "lesson_id")
     private Lesson lesson;
@@ -38,10 +48,7 @@ public class TimeTable {
     @JoinColumn(name = "group_id")
     private Group group;
 
-    @Fetch(FetchMode.JOIN)
-    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
-    @JoinColumn(name = "lesson_room_id")
-    private Room room;
+
 
     @Column(name = "lesson_number")
     private long lessonNumber;

@@ -7,12 +7,12 @@ import com.example.demo.json.teacher.TeacherDto;
 import com.example.demo.model.entity.*;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import org.springframework.core.convert.ConversionService;
 import org.springframework.core.convert.converter.Converter;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 import static java.util.Objects.requireNonNull;
 
@@ -26,11 +26,38 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
     @Override
     public LessonsDto convert(TimeTable source) {
         Teacher teacher = source.getTeacher();
-        Room room = source.getRoom();
+        Teacher teacherSecond = source.getTeacherSecond();
         TeacherDto teacherDto = requireNonNull(teacherConverter.convert(teacher));
+        List<TeacherDto> teacherDtos = new ArrayList<>(List.of(teacherDto));
+        TeacherDto teacherSecondDto = Optional.ofNullable(teacherSecond)
+                .map(teacherConverter::convert)
+                .orElse(null);
+        Optional.ofNullable(teacherSecondDto)
+                .ifPresent(teacherDtos::add);
+        String secondTeacherName = Optional.ofNullable(teacherSecondDto)
+                .map(TeacherDto::getTeacherName)
+                .map(s -> ", " + s)
+                .orElse("");
+
+
+        Room room = source.getRoom();
+        Room roomSecond = source.getRoomSecond();
         RoomDto roomDto = requireNonNull(roomConverter.convert(room));
+        List<RoomDto> roomDtos = new ArrayList<>(List.of(roomDto));
+
+        RoomDto roomSecondDto = Optional.ofNullable(roomSecond)
+                .map(roomConverter::convert)
+                .orElse(null);
+        Optional.ofNullable(roomSecondDto)
+                .ifPresent(roomDtos::add);
+        String roomSecondName = Optional.ofNullable(roomSecondDto)
+                .map(RoomDto::getRoomName)
+                .map(s -> ", " + s)
+                .orElse("");
+
 
         LessonTime lessonTime = LessonTime.findByKey(source.getLessonNumber());
+
 
         return LessonsDto.builder()
                 .lessonId(String.valueOf(source.getId()))
@@ -38,14 +65,14 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
                 .lessonName(source.getLesson().getName())
                 .lessonFullName(source.getLesson().getName())
                 .lessonNumber(String.valueOf(source.getLessonNumber()))
-                .lessonRoom(source.getRoom().getName())
-                .teacherName(teacher.getName())
-                .teachers(List.of(teacherDto))
-                .rooms(List.of(roomDto))
+                .lessonRoom(room.getName() + roomSecondName)
+                .teacherName(teacher.getName() + secondTeacherName)
+                .teachers(teacherDtos)
+                .rooms(roomDtos)
                 .dayName(requireNonNull(Day.findByKey(source.getDayNumber())).getName())
                 .dayNumber(String.valueOf(source.getDayNumber()))
                 .lessonType("Лек")
-                .timeStart(lessonTime.getStart())
+                .timeStart(requireNonNull(lessonTime).getStart())
                 .timeEnd(lessonTime.getEnd())
                 .lessonWeek(String.valueOf(source.getLessonWeek()))
                 .build();
