@@ -55,7 +55,7 @@ public class TeacherService {
                    log.error("Error", e);
                }
 
-               createFile(json.getBytes(), "C:\\Users\\pc\\IdeaProjects\\demo\\groups\\" + group.getId() + "\\teachers.json");
+               createFile(json.getBytes(), "C:\\Users\\bruh\\IdeaProjects\\rozklad-hpc\\groups\\" + group.getId() + "\\teachers.json");
                log.info("Finish build");
            });
         });

@@ -40,7 +40,7 @@ public class GroupService {
             log.error("Error", e);
         }
 
-        createFile(json.getBytes(), "C:\\Users\\pc\\IdeaProjects\\demo\\groups\\search.json");
+        createFile(json.getBytes(), "C:\\Users\\bruh\\IdeaProjects\\rozklad-hpc\\groups\\search.json");
         log.info("Finish build");
     }
 
@@ -62,7 +62,7 @@ public class GroupService {
                     try {
                         ResponseDto<Object> responseDto = ResponseDto.builder().data(groupDto).build();
                         json = objectMapper.writeValueAsString(responseDto);
-                        createFile(json.getBytes(), "C:\\Users\\pc\\IdeaProjects\\demo\\groups\\" + prefix + "\\" + groupDtoFunction.apply(groupDto) + ".json");
+                        createFile(json.getBytes(), "C:\\Users\\bruh\\IdeaProjects\\rozklad-hpc\\groups\\" + prefix + "\\" + groupDtoFunction.apply(groupDto) + ".json");
                     } catch (Exception e) {
                         log.error("Error", e);
                     }
