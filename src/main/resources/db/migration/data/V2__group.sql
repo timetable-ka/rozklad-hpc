@@ -1,4 +1,4 @@
-INSERT INTO timetable3.college_group (id, name)
+INSERT INTO college_group (id, name)
 VALUES (1, 'КІ-201'),
        (2, 'КІ-202'),
        (3, 'КІ-203'),

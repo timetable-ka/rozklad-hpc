@@ -1,5 +1,4 @@
-
-INSERT INTO timetable3.teacher (id, name)
+INSERT INTO teacher (id, name)
 VALUES (1, 'Ковалець. І.М.'),
        (2, 'Даць С.В.'),
        (3, 'Захватова Л.В.'),

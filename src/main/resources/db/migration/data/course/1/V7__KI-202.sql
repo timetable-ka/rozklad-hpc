@@ -1,4 +1,4 @@
-INSERT INTO timetable3.timetable (teacher_id, teacher_id_optional, lesson_id, group_id,
+INSERT INTO timetable (teacher_id, teacher_id_optional, lesson_id, group_id,
                                   lesson_room_id, lesson_week, lesson_number, day_number)
 VALUES (12, 13, 1, 2, 2, 1, 1, 1),
        (1, 2, 2, 2, 2, 1, 2, 1),

@@ -1,4 +1,4 @@
-INSERT INTO timetable3.lesson (id, name)
+INSERT INTO lesson (id, name)
 VALUES (1, 'Інформатика'),
        (2, 'Іноземна мова'),
        (3, 'Фізична культура'),

@@ -1,26 +1,24 @@
-CREATE SCHEMA IF NOT EXISTS timetable3;
+DROP TABLE IF EXISTS college_group;
+DROP TABLE IF EXISTS lesson;
+DROP TABLE IF EXISTS room;
+DROP TABLE IF EXISTS teacher;
+DROP TABLE IF EXISTS timetable;
 
-DROP TABLE timetable3.college_group;
-DROP TABLE timetable3.lesson;
-DROP TABLE timetable3.room;
-DROP TABLE timetable3.teacher;
-DROP TABLE timetable3.timetable;
-
-CREATE TABLE IF NOT EXISTS timetable3.college_group
+CREATE TABLE IF NOT EXISTS college_group
 (
     id   MEDIUMINT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
-CREATE TABLE IF NOT EXISTS timetable3.lesson
+CREATE TABLE IF NOT EXISTS lesson
 (
     id   MEDIUMINT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
-CREATE TABLE IF NOT EXISTS timetable3.teacher
+CREATE TABLE IF NOT EXISTS teacher
 (
     id   MEDIUMINT,
     name TEXT,
@@ -28,14 +26,14 @@ CREATE TABLE IF NOT EXISTS timetable3.teacher
 );
 
 
-CREATE TABLE IF NOT EXISTS timetable3.room
+CREATE TABLE IF NOT EXISTS room
 (
     id   MEDIUMINT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
-CREATE TABLE IF NOT EXISTS timetable3.timetable
+CREATE TABLE IF NOT EXISTS timetable
 (
     id                  MEDIUMINT NOT NULL AUTO_INCREMENT,
     teacher_id          int       not null,

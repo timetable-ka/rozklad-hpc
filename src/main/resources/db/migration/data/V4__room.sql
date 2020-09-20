@@ -1,4 +1,4 @@
-INSERT INTO timetable3.room (id, name)
+INSERT INTO room (id, name)
 VALUES (1, '123'),
        (2, '131а'),
        (3, '133а'),
