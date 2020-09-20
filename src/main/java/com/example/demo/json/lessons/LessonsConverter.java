@@ -24,7 +24,6 @@ public class LessonsConverter implements Converter<TimeTable, LessonsDto> {
     private static final String BLANK_CHAR = "";
     private static final String COMA_WITH_SPACE = ", ";
 
-
     private final RoomConverter roomConverter;
     private final TeacherConverter teacherConverter;
 
