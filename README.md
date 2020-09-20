@@ -9,7 +9,7 @@
 1. Add 4 courses - 11
 
 
-## Add new groups - update JSON's
+## How add new groups - update JSON's
 
 1. Run application - Shift + F10
 1. Commit changes - Ctrl + K
