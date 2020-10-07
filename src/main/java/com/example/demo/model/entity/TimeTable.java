@@ -12,7 +12,7 @@ import javax.persistence.*;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-//@ToString
+@ToString
 public class TimeTable {
 
     @Id

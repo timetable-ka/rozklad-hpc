@@ -25,5 +25,4 @@ logging:
   level:
     org: ERROR
     com: ERROR
-    com.example.demo.converter: TRACE
-
+    com.example.demo: TRACE

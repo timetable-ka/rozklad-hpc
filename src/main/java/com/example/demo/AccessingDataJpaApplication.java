@@ -31,8 +31,8 @@ public class AccessingDataJpaApplication {
                                   ExportService exportService,
                                   ConfigurableApplicationContext ctx) {
         return (args) -> {
-//            buildFile(groupService, lessonService, teacherService, ctx);
-            exportService.convertExcel();
+            buildFile(groupService, lessonService, teacherService, ctx);
+//            exportService.convertExcel();
             exitApplication(ctx);
         };
     }

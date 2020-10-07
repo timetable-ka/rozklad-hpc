@@ -12,7 +12,7 @@ import java.util.Set;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-//@ToString
+@ToString(exclude = {"timeTable", "timeTable2"})
 public class Teacher {
 
     @Id
