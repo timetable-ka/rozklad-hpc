@@ -48,7 +48,7 @@ public class TimeTableService {
 
         timeTable.setGroup(group);
         System.err.println(timeTable.toString());
-//        timeTableRepository.save(timeTable);
+        timeTableRepository.save(timeTable);
     }
 
     private long getNumber(long lessonsNumber) {

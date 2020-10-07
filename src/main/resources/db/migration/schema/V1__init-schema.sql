@@ -6,21 +6,21 @@ DROP TABLE IF EXISTS timetable;
 
 CREATE TABLE IF NOT EXISTS college_group
 (
-    id   MEDIUMINT,
+    id   MEDIUMINT AUTO_INCREMENT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
 CREATE TABLE IF NOT EXISTS lesson
 (
-    id   MEDIUMINT,
+    id   MEDIUMINT AUTO_INCREMENT,
     name TEXT,
     PRIMARY KEY (id)
 );
 
 CREATE TABLE IF NOT EXISTS teacher
 (
-    id   MEDIUMINT,
+    id   MEDIUMINT AUTO_INCREMENT,
     name TEXT,
     PRIMARY KEY (id)
 );
@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS teacher
 
 CREATE TABLE IF NOT EXISTS room
 (
-    id   MEDIUMINT,
+    id   MEDIUMINT AUTO_INCREMENT,
     name TEXT,
     PRIMARY KEY (id)
 );

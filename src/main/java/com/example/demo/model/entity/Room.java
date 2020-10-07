@@ -2,9 +2,7 @@ package com.example.demo.model.entity;
 
 import lombok.*;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 
 @Table(name = "room")
@@ -17,6 +15,7 @@ import javax.persistence.Table;
 public class Room {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
 }

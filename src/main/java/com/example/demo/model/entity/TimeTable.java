@@ -16,6 +16,7 @@ import javax.persistence.*;
 public class TimeTable {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     @Fetch(FetchMode.JOIN)
