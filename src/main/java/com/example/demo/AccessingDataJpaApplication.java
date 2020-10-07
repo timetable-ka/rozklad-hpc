@@ -37,4 +37,13 @@ public class AccessingDataJpaApplication {
         };
     }
 
+    private void buildFile(GroupService groupService, LessonService lessonService, TeacherService teacherService, ConfigurableApplicationContext ctx) {
+        teacherService.buildTeacherInfoByName();
+        lessonService.buildTeacherInfoForEveryTeacher();
+        lessonService.buildLessonInfoByName();
+        groupService.buildGroupInfoById();
+        groupService.buildGroupInfoByName();
+        groupService.buildGroupSearchJson();
+    }
+
 }

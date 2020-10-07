@@ -1,48 +1,32 @@
 package com.example.demo.converter;
 
-import com.example.demo.json.group.GroupService;
-import com.example.demo.json.lessons.LessonService;
-import com.example.demo.json.teacher.TeacherService;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.xssf.usermodel.XSSFCell;
-import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.springframework.context.ConfigurableApplicationContext;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 import org.springframework.util.ResourceUtils;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.Map;
 import java.util.stream.Stream;
 
 @Component
 public class ExportService {
 
-    public static final int NUMBER_OF_GROUP = 14;
-    public static final int NUMBER_OF_COURSE = 4;
-
+    private static final Logger logger = LoggerFactory.getLogger(ExportService.class);
 
     public void convertExcel() {
-        Map<Integer, Params> courseExcelParams =
-                Map.of(
-                        1, new Params(new HorizontValue(6, 29), new VerticalValue(6, 25)),
-                        2, new Params(new HorizontValue(1, 2), new VerticalValue(6, 25)),
-                        3, new Params(new HorizontValue(1, 2), new VerticalValue(6, 25)),
-                        4, new Params(new HorizontValue(1, 2), new VerticalValue(6, 25))
+        XSSFWorkbook myExcelBook = getSheets();
 
-                );
-
-        Stream.iterate(1, x -> x + 1)
-                .limit(NUMBER_OF_COURSE)
-                .forEach(course -> {
-                    System.err.println("/" + course + "///////////////////////////////////////////////////");
-                    XSSFWorkbook myExcelBook = getSheets();
-                    processSheet(myExcelBook, course);
-                });
+        Stream.of(1).forEach(course -> {
+//        Stream.of(1, 2, 3, 4).forEach(course -> {
+            logger.info(course + "////////////////////////////");
+            processSheet(myExcelBook, course);
+        });
 
     }
 
@@ -59,95 +43,57 @@ public class ExportService {
 
     private void processSheet(XSSFWorkbook myExcelBook, Integer course) {
         if (myExcelBook != null) {
-            XSSFSheet myExcelSheet = myExcelBook.getSheet(course + " курс");
+            XSSFSheet sheet = myExcelBook.getSheetAt(course - 1);
 
-            System.err.println();
-            Stream.iterate(8, x -> x + 1)
-                    .limit(20)
-                    .forEach(integer -> printSerial(myExcelSheet, integer));
+            int firstColumn = 4;
+            int count = 0;
+            while (true) {
+                int rownum = 7;
+                XSSFCell cell = sheet.getRow(rownum - 1).getCell(firstColumn - 1);
+                if (cell == null || !CellType.STRING.equals(cell.getCellType())) {
+                    cell = sheet.getRow(rownum - 1).getCell(firstColumn);
+                    if (cell == null || !CellType.STRING.equals(cell.getCellType())) {
+                        logger.info("Before exit rownum = " + rownum + " firstColumn = " + firstColumn);
+                        return;
+                    }
+                }
+                String message = ++count + " " + cell.getStringCellValue();
+                logger.info(message);
+
+                int columnIndex = cell.getColumnIndex();
+                int rowIndex = cell.getRowIndex() - 2;
+
+                for (int i = 1; i <= 20; i++) {
+                    openOneGroup(i, sheet, columnIndex, rowIndex + 4 * i);
+                }
+
+                firstColumn += 3;
+            }
         }
     }
 
-
-    private void printSerial(XSSFSheet myExcelSheet, int i) {
-        XSSFRow row = myExcelSheet.getRow(i);
-        printFirstLesson(row.getCell(1));
-        Stream.iterate(2, x -> x + 2)
-                .limit(13)
-                .map(row::getCell)
-                .forEach(this::printFirstLesson);
+    private void openOneGroup(int i, XSSFSheet sheet, int columnIndex, int rowIndex) {
+        logger.info("=-=-=-=-=-=");
+        printRow(i, sheet, columnIndex, rowIndex - 1);
+        printRow(i, sheet, columnIndex, rowIndex);
+        printRow(i, sheet, columnIndex, rowIndex + 1);
+        printRow(i, sheet, columnIndex, rowIndex + 2);
     }
 
-    private void printFirstLesson(XSSFCell xssfCell) {
-        if (xssfCell == null) {
-            return;
+    private String printRow(int i, XSSFSheet sheet, int columnIndex, int rowIndex) {
+        String result;
+
+        if (columnIndex == 28) {
+            --columnIndex;
         }
-        if (CellType.NUMERIC.equals(xssfCell.getCellType())) {
-            return;
-        }
-
-        String rawValue = xssfCell.getStringCellValue();
-        String[] lines = rawValue.split("\\r?\\n");
-        System.err.println(Arrays.asList(lines).toString());
-    }
-
-    private void buildFile(GroupService groupService, LessonService lessonService, TeacherService teacherService, ConfigurableApplicationContext ctx) {
-        teacherService.buildTeacherInfoByName();
-        lessonService.buildTeacherInfoForEveryTeacher();
-        lessonService.buildLessonInfoByName();
-        groupService.buildGroupInfoById();
-        groupService.buildGroupInfoByName();
-        groupService.buildGroupSearchJson();
-    }
-
-    public static class Params {
-
-        private final HorizontValue horizontValue;
-        private final VerticalValue verticalValue;
-
-        public Params(HorizontValue horizontValue, VerticalValue verticalValue) {
-            this.horizontValue = horizontValue;
-            this.verticalValue = verticalValue;
+        XSSFCell cell = sheet.getRow(rowIndex).getCell(columnIndex); // 1
+        if (cell == null || !CellType.STRING.equals(cell.getCellType())) {
+            result  = i + " ---" + " rowIndex = " + rowIndex + 1 + ", columnIndex = " + columnIndex + 1;
+        } else {
+            result = cell.getStringCellValue();
         }
 
-        public HorizontValue getHorizontValue() {
-            return horizontValue;
-        }
-
-        public VerticalValue getVerticalValue() {
-            return verticalValue;
-        }
-    }
-
-
-    public static class HorizontValue extends AbstractParam {
-        public HorizontValue(Integer from, Integer to) {
-            super(from, to);
-        }
-    }
-
-    public static class VerticalValue extends AbstractParam {
-        public VerticalValue(Integer from, Integer to) {
-            super(from, to);
-        }
-    }
-
-    private static abstract class AbstractParam {
-
-        private final Integer from;
-        private final Integer to;
-
-        private AbstractParam(Integer from, Integer to) {
-            this.from = from;
-            this.to = to;
-        }
-
-        public Integer getFrom() {
-            return from;
-        }
-
-        public Integer getTo() {
-            return to;
-        }
+        logger.info(result);
+        return result;
     }
 }

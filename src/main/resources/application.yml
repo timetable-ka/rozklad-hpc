@@ -17,5 +17,13 @@ spring:
   jackson:
     serialization:
       write-dates-as-timestamps: true
+
 server:
   port: 0
+
+logging:
+  level:
+    org: ERROR
+    com: ERROR
+    com.example.demo.converter: TRACE
+
