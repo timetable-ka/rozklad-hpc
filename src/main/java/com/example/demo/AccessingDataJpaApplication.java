@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import com.example.demo.converter.ExportService;
 import com.example.demo.json.group.GroupService;
 import com.example.demo.json.lessons.LessonService;
 import com.example.demo.json.teacher.TeacherService;
@@ -18,26 +19,22 @@ public class AccessingDataJpaApplication {
         SpringApplication.run(AccessingDataJpaApplication.class);
     }
 
+    public static void exitApplication(ConfigurableApplicationContext ctx) {
+        int exitCode = SpringApplication.exit(ctx, () -> 0);
+        System.exit(exitCode);
+    }
+
     @Bean
     public CommandLineRunner demo(GroupService groupService,
                                   LessonService lessonService,
                                   TeacherService teacherService,
+                                  ExportService exportService,
                                   ConfigurableApplicationContext ctx) {
         return (args) -> {
-            teacherService.buildTeacherInfoByName();
-            lessonService.buildTeacherInfoForEveryTeacher();
-            lessonService.buildLessonInfoByName();
-            groupService.buildGroupInfoById();
-            groupService.buildGroupInfoByName();
-            groupService.buildGroupSearchJson();
-
+//            buildFile(groupService, lessonService, teacherService, ctx);
+            exportService.convertExcel();
             exitApplication(ctx);
         };
-    }
-
-    public static void exitApplication(ConfigurableApplicationContext ctx) {
-        int exitCode = SpringApplication.exit(ctx, () -> 0);
-        System.exit(exitCode);
     }
 
 }
