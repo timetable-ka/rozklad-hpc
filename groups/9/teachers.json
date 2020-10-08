@@ -1,217 +1,232 @@
 {
-  "statusCode": 200,
-  "timeStamp": 1600071948,
-  "message": "Ok",
-  "debugInfo": null,
-  "meta": null,
-  "data": [
-    {
-      "teacher_id": "60",
-      "teacher_name": "Кульбаба С.О.",
-      "teacher_full_name": "Кульбаба С.О.",
-      "teacher_short_name": "Кульбаба С.О.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "60",
-      "teacher_name": "Кульбаба С.О.",
-      "teacher_full_name": "Кульбаба С.О.",
-      "teacher_short_name": "Кульбаба С.О.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "60",
-      "teacher_name": "Кульбаба С.О.",
-      "teacher_full_name": "Кульбаба С.О.",
-      "teacher_short_name": "Кульбаба С.О.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "60",
-      "teacher_name": "Кульбаба С.О.",
-      "teacher_full_name": "Кульбаба С.О.",
-      "teacher_short_name": "Кульбаба С.О.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "17",
-      "teacher_name": "Докторук О.Д.",
-      "teacher_full_name": "Докторук О.Д.",
-      "teacher_short_name": "Докторук О.Д.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "17",
-      "teacher_name": "Докторук О.Д.",
-      "teacher_full_name": "Докторук О.Д.",
-      "teacher_short_name": "Докторук О.Д.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "20",
-      "teacher_name": "Кілімнік Л.Л.",
-      "teacher_full_name": "Кілімнік Л.Л.",
-      "teacher_short_name": "Кілімнік Л.Л.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "20",
-      "teacher_name": "Кілімнік Л.Л.",
-      "teacher_full_name": "Кілімнік Л.Л.",
-      "teacher_short_name": "Кілімнік Л.Л.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "10",
-      "teacher_name": "Роїк Н.М.",
-      "teacher_full_name": "Роїк Н.М.",
-      "teacher_short_name": "Роїк Н.М.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "34",
-      "teacher_name": "Бондаренко О.П.",
-      "teacher_full_name": "Бондаренко О.П.",
-      "teacher_short_name": "Бондаренко О.П.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "40",
-      "teacher_name": "Янков С.В.",
-      "teacher_full_name": "Янков С.В.",
-      "teacher_short_name": "Янков С.В.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "40",
-      "teacher_name": "Янков С.В.",
-      "teacher_full_name": "Янков С.В.",
-      "teacher_short_name": "Янков С.В.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "19",
-      "teacher_name": "Перетятко І.М.",
-      "teacher_full_name": "Перетятко І.М.",
-      "teacher_short_name": "Перетятко І.М.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "19",
-      "teacher_name": "Перетятко І.М.",
-      "teacher_full_name": "Перетятко І.М.",
-      "teacher_short_name": "Перетятко І.М.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "34",
-      "teacher_name": "Бондаренко О.П.",
-      "teacher_full_name": "Бондаренко О.П.",
-      "teacher_short_name": "Бондаренко О.П.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "34",
-      "teacher_name": "Бондаренко О.П.",
-      "teacher_full_name": "Бондаренко О.П.",
-      "teacher_short_name": "Бондаренко О.П.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "17",
-      "teacher_name": "Докторук О.Д.",
-      "teacher_full_name": "Докторук О.Д.",
-      "teacher_short_name": "Докторук О.Д.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "17",
-      "teacher_name": "Докторук О.Д.",
-      "teacher_full_name": "Докторук О.Д.",
-      "teacher_short_name": "Докторук О.Д.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "33",
-      "teacher_name": "Салямон О.І.",
-      "teacher_full_name": "Салямон О.І.",
-      "teacher_short_name": "Салямон О.І.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "33",
-      "teacher_name": "Салямон О.І.",
-      "teacher_full_name": "Салямон О.І.",
-      "teacher_short_name": "Салямон О.І.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "22",
-      "teacher_name": "Миколюк О.В.",
-      "teacher_full_name": "Миколюк О.В.",
-      "teacher_short_name": "Миколюк О.В.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "22",
-      "teacher_name": "Миколюк О.В.",
-      "teacher_full_name": "Миколюк О.В.",
-      "teacher_short_name": "Миколюк О.В.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "10",
-      "teacher_name": "Роїк Н.М.",
-      "teacher_full_name": "Роїк Н.М.",
-      "teacher_short_name": "Роїк Н.М.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "10",
-      "teacher_name": "Роїк Н.М.",
-      "teacher_full_name": "Роїк Н.М.",
-      "teacher_short_name": "Роїк Н.М.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "15",
-      "teacher_name": "Лункіна О.М.",
-      "teacher_full_name": "Лункіна О.М.",
-      "teacher_short_name": "Лункіна О.М.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    },
-    {
-      "teacher_id": "15",
-      "teacher_name": "Лункіна О.М.",
-      "teacher_full_name": "Лункіна О.М.",
-      "teacher_short_name": "Лункіна О.М.",
-      "teacher_url": "http://google.com",
-      "teacher_rating": "5.000"
-    }
-  ]
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "teacher_id" : "8",
+    "teacher_name" : "Кульбаба С.О.",
+    "teacher_full_name" : "Кульбаба С.О.",
+    "teacher_short_name" : "Кульбаба С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "8",
+    "teacher_name" : "Кульбаба С.О.",
+    "teacher_full_name" : "Кульбаба С.О.",
+    "teacher_short_name" : "Кульбаба С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "8",
+    "teacher_name" : "Кульбаба С.О.",
+    "teacher_full_name" : "Кульбаба С.О.",
+    "teacher_short_name" : "Кульбаба С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "8",
+    "teacher_name" : "Кульбаба С.О.",
+    "teacher_full_name" : "Кульбаба С.О.",
+    "teacher_short_name" : "Кульбаба С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "35",
+    "teacher_name" : "Докторук О.Д.",
+    "teacher_full_name" : "Докторук О.Д.",
+    "teacher_short_name" : "Докторук О.Д.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "35",
+    "teacher_name" : "Докторук О.Д.",
+    "teacher_full_name" : "Докторук О.Д.",
+    "teacher_short_name" : "Докторук О.Д.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "22",
+    "teacher_name" : "Кілімнік Л.Л.",
+    "teacher_full_name" : "Кілімнік Л.Л.",
+    "teacher_short_name" : "Кілімнік Л.Л.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "22",
+    "teacher_name" : "Кілімнік Л.Л.",
+    "teacher_full_name" : "Кілімнік Л.Л.",
+    "teacher_short_name" : "Кілімнік Л.Л.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "14",
+    "teacher_name" : "Роїк Н.М.",
+    "teacher_full_name" : "Роїк Н.М.",
+    "teacher_short_name" : "Роїк Н.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "39",
+    "teacher_name" : "Бондаренко О.П.",
+    "teacher_full_name" : "Бондаренко О.П.",
+    "teacher_short_name" : "Бондаренко О.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "45",
+    "teacher_name" : "Янков С.В.",
+    "teacher_full_name" : "Янков С.В.",
+    "teacher_short_name" : "Янков С.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "45",
+    "teacher_name" : "Янков С.В.",
+    "teacher_full_name" : "Янков С.В.",
+    "teacher_short_name" : "Янков С.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "21",
+    "teacher_name" : "Перетятко І.М.",
+    "teacher_full_name" : "Перетятко І.М.",
+    "teacher_short_name" : "Перетятко І.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "21",
+    "teacher_name" : "Перетятко І.М.",
+    "teacher_full_name" : "Перетятко І.М.",
+    "teacher_short_name" : "Перетятко І.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "28",
+    "teacher_name" : "Микитюк О.В.",
+    "teacher_full_name" : "Микитюк О.В.",
+    "teacher_short_name" : "Микитюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "28",
+    "teacher_name" : "Микитюк О.В.",
+    "teacher_full_name" : "Микитюк О.В.",
+    "teacher_short_name" : "Микитюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "39",
+    "teacher_name" : "Бондаренко О.П.",
+    "teacher_full_name" : "Бондаренко О.П.",
+    "teacher_short_name" : "Бондаренко О.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "39",
+    "teacher_name" : "Бондаренко О.П.",
+    "teacher_full_name" : "Бондаренко О.П.",
+    "teacher_short_name" : "Бондаренко О.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "35",
+    "teacher_name" : "Докторук О.Д.",
+    "teacher_full_name" : "Докторук О.Д.",
+    "teacher_short_name" : "Докторук О.Д.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "35",
+    "teacher_name" : "Докторук О.Д.",
+    "teacher_full_name" : "Докторук О.Д.",
+    "teacher_short_name" : "Докторук О.Д.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "37",
+    "teacher_name" : "Козубець О.І.",
+    "teacher_full_name" : "Козубець О.І.",
+    "teacher_short_name" : "Козубець О.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "37",
+    "teacher_name" : "Козубець О.І.",
+    "teacher_full_name" : "Козубець О.І.",
+    "teacher_short_name" : "Козубець О.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "37",
+    "teacher_name" : "Козубець О.І.",
+    "teacher_full_name" : "Козубець О.І.",
+    "teacher_short_name" : "Козубець О.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "37",
+    "teacher_name" : "Козубець О.І.",
+    "teacher_full_name" : "Козубець О.І.",
+    "teacher_short_name" : "Козубець О.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "22",
+    "teacher_name" : "Кілімнік Л.Л.",
+    "teacher_full_name" : "Кілімнік Л.Л.",
+    "teacher_short_name" : "Кілімнік Л.Л.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "22",
+    "teacher_name" : "Кілімнік Л.Л.",
+    "teacher_full_name" : "Кілімнік Л.Л.",
+    "teacher_short_name" : "Кілімнік Л.Л.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "4",
+    "teacher_name" : "Миколюк О.В.",
+    "teacher_full_name" : "Миколюк О.В.",
+    "teacher_short_name" : "Миколюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "4",
+    "teacher_name" : "Миколюк О.В.",
+    "teacher_full_name" : "Миколюк О.В.",
+    "teacher_short_name" : "Миколюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "14",
+    "teacher_name" : "Роїк Н.М.",
+    "teacher_full_name" : "Роїк Н.М.",
+    "teacher_short_name" : "Роїк Н.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "14",
+    "teacher_name" : "Роїк Н.М.",
+    "teacher_full_name" : "Роїк Н.М.",
+    "teacher_short_name" : "Роїк Н.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "27",
+    "teacher_name" : "Лункіна О.М.",
+    "teacher_full_name" : "Лункіна О.М.",
+    "teacher_short_name" : "Лункіна О.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "27",
+    "teacher_name" : "Лункіна О.М.",
+    "teacher_full_name" : "Лункіна О.М.",
+    "teacher_short_name" : "Лункіна О.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  } ]
 }

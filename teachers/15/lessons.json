@@ -1,621 +1,116 @@
 {
-  "statusCode": 200,
-  "timeStamp": 1600071948,
-  "message": "Ok",
-  "debugInfo": null,
-  "meta": null,
-  "data": [
-    {
-      "lesson_id": "111",
-      "group_id": "13",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Всесвітня історія",
-      "lesson_full_name": "Всесвітня історія",
-      "lesson_number": "4",
-      "lesson_room": "148",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "13",
-          "room_name": "148",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "112",
-      "group_id": "13",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Всесвітня історія",
-      "lesson_full_name": "Всесвітня історія",
-      "lesson_number": "4",
-      "lesson_room": "148",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "13",
-          "room_name": "148",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "119",
-      "group_id": "13",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Всесвітня історія",
-      "lesson_full_name": "Всесвітня історія",
-      "lesson_number": "1",
-      "lesson_room": "148",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "13",
-          "room_name": "148",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "120",
-      "group_id": "13",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Всесвітня історія",
-      "lesson_full_name": "Всесвітня історія",
-      "lesson_number": "1",
-      "lesson_room": "148",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "13",
-          "room_name": "148",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "241",
-      "group_id": "4",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "3",
-      "lesson_room": "131",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "4",
-          "room_name": "131",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "242",
-      "group_id": "4",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "3",
-      "lesson_room": "131",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "4",
-          "room_name": "131",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "261",
-      "group_id": "4",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "2",
-      "lesson_room": "131",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "4",
-          "room_name": "131",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "262",
-      "group_id": "4",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "2",
-      "lesson_room": "131",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "4",
-          "room_name": "131",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "277",
-      "group_id": "5",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "3",
-      "lesson_room": "134а",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "5",
-          "room_name": "134а",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "278",
-      "group_id": "5",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "3",
-      "lesson_room": "134а",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "5",
-          "room_name": "134а",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "287",
-      "group_id": "5",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "1",
-      "lesson_room": "134а",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "5",
-          "room_name": "134а",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "288",
-      "group_id": "5",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "1",
-      "lesson_room": "134а",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "5",
-          "room_name": "134а",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "311",
-      "group_id": "6",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "1",
-      "lesson_room": "129",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "6",
-          "room_name": "129",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "312",
-      "group_id": "6",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "1",
-      "lesson_room": "129",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "6",
-          "room_name": "129",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "343",
-      "group_id": "7",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "2",
-      "lesson_room": "121",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "7",
-          "room_name": "121",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "344",
-      "group_id": "7",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "2",
-      "lesson_room": "121",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "7",
-          "room_name": "121",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "421",
-      "group_id": "9",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "2",
-      "lesson_room": "135а",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "9",
-          "room_name": "135а",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "422",
-      "group_id": "9",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Історія України",
-      "lesson_full_name": "Історія України",
-      "lesson_number": "2",
-      "lesson_room": "135а",
-      "lesson_type": "Лек",
-      "teacher_name": "Лункіна О.М.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "9",
-          "room_name": "135а",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "15",
-          "teacher_name": "Лункіна О.М.",
-          "teacher_full_name": "Лункіна О.М.",
-          "teacher_short_name": "Лункіна О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    }
-  ]
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "33",
+    "group_id" : "2",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Інформатика",
+    "lesson_full_name" : "Інформатика",
+    "lesson_number" : "1",
+    "lesson_room" : "131а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б, Мельник В.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "2",
+      "room_name" : "131а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "5",
+      "teacher_name" : "Мельник В.М.",
+      "teacher_full_name" : "Мельник В.М.",
+      "teacher_short_name" : "Мельник В.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "34",
+    "group_id" : "2",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Інформатика",
+    "lesson_full_name" : "Інформатика",
+    "lesson_number" : "1",
+    "lesson_room" : "131а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б, Мельник В.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "2",
+      "room_name" : "131а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "5",
+      "teacher_name" : "Мельник В.М.",
+      "teacher_full_name" : "Мельник В.М.",
+      "teacher_short_name" : "Мельник В.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "54",
+    "group_id" : "2",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Інформатика",
+    "lesson_full_name" : "Інформатика",
+    "lesson_number" : "1",
+    "lesson_room" : "131а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б, Мельник В.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "2",
+      "room_name" : "131а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "20",
+      "teacher_name" : "Мельник В.В.",
+      "teacher_full_name" : "Мельник В.В.",
+      "teacher_short_name" : "Мельник В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
 }
