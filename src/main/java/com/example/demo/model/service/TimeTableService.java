@@ -41,14 +41,14 @@ public class TimeTableService {
 
             String[] split = firstTeacherName.split("\\. ");
             if (split.length == 1 || firstTeacherName.equals("Ковалець. І.М.")) {
-                saveTeacher(firstTeacherName, secondTeacherName, timeTable);
+                saveTeachers(firstTeacherName, secondTeacherName, timeTable);
             } else if (split.length == 2) {
                 String firstTeacherNameNew = split[0];
                 String[] split1 = firstTeacherNameNew.split(" ");
                 if (split1.length == 2) {
-                    saveTeacher(firstTeacherNameNew, secondTeacherName, timeTable);
+                    saveTeachers(firstTeacherNameNew, secondTeacherName, timeTable);
                 } else if (split1.length == 3) {
-                    saveTeacher(split1[1] + split1[2], secondTeacherName, timeTable);
+                    saveTeachers(split1[1] + split1[2], secondTeacherName, timeTable);
                 }
             }
 
@@ -76,26 +76,25 @@ public class TimeTableService {
 
             timeTable.setDayNumber(getDayNumber(lessonsNumber));
 
-            timeTableRepository.saveAndFlush(timeTable);
+            TimeTable savedTimeTable = timeTableRepository.saveAndFlush(timeTable);
+            log.info("Save timeTable with id = {}", savedTimeTable.getId());
         } catch (Exception e) {
             log.error("Teacher name = {}", firstTeacherName);
             throw e;
         }
     }
 
-    private void saveTeacher(String firstTeacherName, String secondTeacherName, TimeTable timeTable) {
+    private void saveTeachers(String firstTeacherName, String secondTeacherName, TimeTable timeTable) {
+        timeTable.setTeacher(getTeacher(firstTeacherName));
+        timeTable.setTeacherSecond(getTeacher(secondTeacherName));
+    }
+
+    private Teacher getTeacher(String firstTeacherName) {
         Teacher teacher = new Teacher();
         teacher.setName(firstTeacherName);
         teacher = teacherRepository.findByName(firstTeacherName).orElse(teacher);
         teacherRepository.saveAndFlush(teacher);
-
-        Teacher teacherSecond = new Teacher();
-        teacherSecond.setName(secondTeacherName);
-        teacherSecond = teacherRepository.findByName(secondTeacherName).orElse(teacher);
-        teacherRepository.saveAndFlush(teacherSecond);
-
-        timeTable.setTeacher(teacher);
-        timeTable.setTeacherSecond(teacherSecond);
+        return teacher;
     }
 
     private long getDayNumber(long lessonsNumber) {
