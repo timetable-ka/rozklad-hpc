@@ -13,9 +13,6 @@ import org.springframework.util.ResourceUtils;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @Slf4j
@@ -106,7 +103,7 @@ public class ExportService {
                 // create 1,2 lessons
                 String[] teacherNames = row2.trim().split("\\. ");
                 if (teacherNames.length > 1) {
-                    timeTableService.createNewLessons(row1, i, 1,teacherNames[0], teacherNames[1], roomNumber, groupName);
+                    timeTableService.createNewLessons(row1, i, 1, teacherNames[0], teacherNames[1], roomNumber, groupName);
                 } else {
                     timeTableService.createNewLessons(row1, i, 1, row2, null, roomNumber, groupName);
                 }
@@ -161,6 +158,7 @@ public class ExportService {
         } else if (row1 == null && row2 == null && row3 == null && row4 == null) {
             log.info("NULL");
         } else {
+            log.error("row1 = {} row2 = {} row3 = {} row4 = {}", row1, row2, row3, row4);
             throw new RuntimeException();
         }
     }
