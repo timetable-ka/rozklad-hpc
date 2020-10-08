@@ -1,5 +1,7 @@
 # rozklad-hpc
 
+Source: http://hpk.edu.ua/timetable
+
 ## TODO
 
 1. Fix second room for lessons
