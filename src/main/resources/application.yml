@@ -3,7 +3,7 @@ spring:
     active: default
     include: local
   datasource:
-    url: jdbc:mysql://localhost:3306/ro123?createDatabaseIfNotExist=true&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/r123513412?createDatabaseIfNotExist=true&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
     username: root
     password: "1234"
     driver-class-name: com.mysql.cj.jdbc.Driver

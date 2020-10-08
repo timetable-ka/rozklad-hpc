@@ -19,6 +19,9 @@ public class TimeTableService {
     private final GroupRepository groupRepository;
     private final RoomRepository roomRepository;
 
+    public static void main(String[] args) {
+        System.err.println(Arrays.toString("Захватова Л.В.".split("\\. ")));
+    }
 
     public void createNewLessons(String lessonsName,
                                  long lessonsNumber,
@@ -37,7 +40,9 @@ public class TimeTableService {
 
 
             String[] split = firstTeacherName.split("\\. ");
-            if (split.length == 2) {
+            if (split.length == 1 || firstTeacherName.equals("Ковалець. І.М.")) {
+                saveTeacher(firstTeacherName, secondTeacherName, timeTable);
+            } else if (split.length == 2) {
                 String firstTeacherNameNew = split[0];
                 String[] split1 = firstTeacherNameNew.split(" ");
                 if (split1.length == 2) {
@@ -47,9 +52,7 @@ public class TimeTableService {
                 }
             }
 
-            if (split.length == 1 || firstTeacherName.equals("Ковалець. І.М.")) {
-                saveTeacher(firstTeacherName, secondTeacherName, timeTable);
-            }
+
 
             Room room = new Room();
             room.setName(roomNumber);
@@ -64,12 +67,14 @@ public class TimeTableService {
             // todo main object
 
             timeTable.setLesson(lesson);
-            timeTable.setLessonNumber(getNumber(lessonsNumber));
+            timeTable.setLessonNumber(getLessonNumber(lessonsNumber));
             timeTable.setLessonWeek(lessonsWeek);
 
             timeTable.setRoom(room);
 
             timeTable.setGroup(group);
+
+            timeTable.setDayNumber(getDayNumber(lessonsNumber));
 
             timeTableRepository.saveAndFlush(timeTable);
         } catch (Exception e) {
@@ -93,14 +98,26 @@ public class TimeTableService {
         timeTable.setTeacherSecond(teacherSecond);
     }
 
-    private long getNumber(long lessonsNumber) {
+    private long getDayNumber(long lessonsNumber) {
+        if (lessonsNumber > 0 && lessonsNumber <= 4) {
+            return 1;
+        } else if (lessonsNumber > 4 && lessonsNumber <= 8) {
+            return 2;
+        } else if (lessonsNumber > 8 && lessonsNumber <= 12) {
+            return 3;
+        } else if (lessonsNumber > 12 && lessonsNumber <= 16) {
+            return 4;
+        } else if (lessonsNumber > 16 && lessonsNumber <= 20) {
+            return 5;
+        } else {
+            throw new RuntimeException("Error Lesson number = " + lessonsNumber);
+        }
+    }
+
+    private long getLessonNumber(long lessonsNumber) {
         if (lessonsNumber == 4) {
             return 4;
         }
         return lessonsNumber % 4 == 0 ? 4 : lessonsNumber % 4;
-    }
-
-    public static void main(String[] args) {
-        System.err.println(Arrays.toString("Захватова Л.В.".split("\\. ")));
     }
 }
