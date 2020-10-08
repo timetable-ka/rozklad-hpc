@@ -1,1 +1,825 @@
-{"statusCode":200,"timeStamp":1600071948,"message":"Ok","debugInfo":null,"meta":null,"data":[{"lesson_id":"648","group_id":"49","day_number":"1","day_name":"Понеділок","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"649","group_id":"49","day_number":"1","day_name":"Понеділок","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"652","group_id":"49","day_number":"1","day_name":"Понеділок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"653","group_id":"49","day_number":"1","day_name":"Понеділок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"656","group_id":"49","day_number":"2","day_name":"Вівторок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"1","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"657","group_id":"49","day_number":"2","day_name":"Вівторок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"1","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"664","group_id":"49","day_number":"3","day_name":"Середа","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"665","group_id":"49","day_number":"3","day_name":"Середа","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"672","group_id":"49","day_number":"4","day_name":"Четверг","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"2","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"673","group_id":"49","day_number":"4","day_name":"Четверг","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"2","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"674","group_id":"49","day_number":"4","day_name":"Четверг","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"675","group_id":"49","day_number":"4","day_name":"Четверг","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"211","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"22","room_name":"211","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"682","group_id":"50","day_number":"1","day_name":"Понеділок","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"683","group_id":"50","day_number":"1","day_name":"Понеділок","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"690","group_id":"50","day_number":"2","day_name":"Вівторок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"691","group_id":"50","day_number":"2","day_name":"Вівторок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"694","group_id":"50","day_number":"2","day_name":"Вівторок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"695","group_id":"50","day_number":"2","day_name":"Вівторок","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"696","group_id":"50","day_number":"3","day_name":"Середа","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"697","group_id":"50","day_number":"3","day_name":"Середа","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"702","group_id":"50","day_number":"4","day_name":"Четверг","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"703","group_id":"50","day_number":"4","day_name":"Четверг","lesson_name":"Будова і обслуговування верстатів","lesson_full_name":"Будова і обслуговування верстатів","lesson_number":"1","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"706","group_id":"50","day_number":"4","day_name":"Четверг","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"707","group_id":"50","day_number":"4","day_name":"Четверг","lesson_name":"Технологічне оснащення","lesson_full_name":"Технологічне оснащення","lesson_number":"3","lesson_room":"241","lesson_type":"Лек","teacher_name":"Докторук В.П.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"23","room_name":"241","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"77","teacher_name":"Докторук В.П.","teacher_full_name":"Докторук В.П.","teacher_short_name":"Докторук В.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]}]}
+{
+  "statusCode": 200,
+  "timeStamp": 1600071948,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": [
+    {
+      "lesson_id": "648",
+      "group_id": "49",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "649",
+      "group_id": "49",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "652",
+      "group_id": "49",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "653",
+      "group_id": "49",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "656",
+      "group_id": "49",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "1",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "657",
+      "group_id": "49",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "1",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "664",
+      "group_id": "49",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "665",
+      "group_id": "49",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "672",
+      "group_id": "49",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "2",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "673",
+      "group_id": "49",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "2",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "674",
+      "group_id": "49",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "675",
+      "group_id": "49",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "211",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "22",
+          "room_name": "211",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "682",
+      "group_id": "50",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "683",
+      "group_id": "50",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "690",
+      "group_id": "50",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "691",
+      "group_id": "50",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "694",
+      "group_id": "50",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "695",
+      "group_id": "50",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "696",
+      "group_id": "50",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "697",
+      "group_id": "50",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "702",
+      "group_id": "50",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "703",
+      "group_id": "50",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Будова і обслуговування верстатів",
+      "lesson_full_name": "Будова і обслуговування верстатів",
+      "lesson_number": "1",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "706",
+      "group_id": "50",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "707",
+      "group_id": "50",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Технологічне оснащення",
+      "lesson_full_name": "Технологічне оснащення",
+      "lesson_number": "3",
+      "lesson_room": "241",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук В.П.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "23",
+          "room_name": "241",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "77",
+          "teacher_name": "Докторук В.П.",
+          "teacher_full_name": "Докторук В.П.",
+          "teacher_short_name": "Докторук В.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    }
+  ]
+}

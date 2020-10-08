@@ -1,1 +1,1045 @@
-{"statusCode":200,"timeStamp":1600071948,"message":"Ok","debugInfo":null,"meta":null,"data":[{"lesson_id":"327","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"328","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"329","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Громадянська освіта","lesson_full_name":"Громадянська освіта","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Докторук О.Д.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"17","teacher_name":"Докторук О.Д.","teacher_full_name":"Докторук О.Д.","teacher_short_name":"Докторук О.Д.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"330","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Громадянська освіта","lesson_full_name":"Громадянська освіта","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Докторук О.Д.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"17","teacher_name":"Докторук О.Д.","teacher_full_name":"Докторук О.Д.","teacher_short_name":"Докторук О.Д.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"331","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Хімія","lesson_full_name":"Хімія","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Роїк Н.М.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"10","teacher_name":"Роїк Н.М.","teacher_full_name":"Роїк Н.М.","teacher_short_name":"Роїк Н.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"332","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Хімія","lesson_full_name":"Хімія","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Роїк Н.М.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"10","teacher_name":"Роїк Н.М.","teacher_full_name":"Роїк Н.М.","teacher_short_name":"Роїк Н.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"333","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Українська література","lesson_full_name":"Українська література","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Даценко Л.І.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"29","teacher_name":"Даценко Л.І.","teacher_full_name":"Даценко Л.І.","teacher_short_name":"Даценко Л.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"334","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Українська література","lesson_full_name":"Українська література","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Даценко Л.І.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"29","teacher_name":"Даценко Л.І.","teacher_full_name":"Даценко Л.І.","teacher_short_name":"Даценко Л.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"335","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Українська Мова","lesson_full_name":"Українська Мова","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Слободзян Л.А.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"31","teacher_name":"Слободзян Л.А.","teacher_full_name":"Слободзян Л.А.","teacher_short_name":"Слободзян Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"336","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Українська Мова","lesson_full_name":"Українська Мова","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Слободзян Л.А.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"31","teacher_name":"Слободзян Л.А.","teacher_full_name":"Слободзян Л.А.","teacher_short_name":"Слободзян Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"337","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Зарубіжна література","lesson_full_name":"Зарубіжна література","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Салямон О.І.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"33","teacher_name":"Салямон О.І.","teacher_full_name":"Салямон О.І.","teacher_short_name":"Салямон О.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"338","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Зарубіжна література","lesson_full_name":"Зарубіжна література","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Салямон О.І.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"33","teacher_name":"Салямон О.І.","teacher_full_name":"Салямон О.І.","teacher_short_name":"Салямон О.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"339","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Біологія","lesson_full_name":"Біологія","lesson_number":"4","lesson_room":"121","lesson_type":"Лек","teacher_name":"Бондаренко О.П.","lesson_week":"1","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"34","teacher_name":"Бондаренко О.П.","teacher_full_name":"Бондаренко О.П.","teacher_short_name":"Бондаренко О.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"340","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Хімія","lesson_full_name":"Хімія","lesson_number":"4","lesson_room":"121","lesson_type":"Лек","teacher_name":"Роїк Н.М.","lesson_week":"2","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"10","teacher_name":"Роїк Н.М.","teacher_full_name":"Роїк Н.М.","teacher_short_name":"Роїк Н.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"343","group_id":"7","day_number":"3","day_name":"Середа","lesson_name":"Історія України","lesson_full_name":"Історія України","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Лункіна О.М.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"15","teacher_name":"Лункіна О.М.","teacher_full_name":"Лункіна О.М.","teacher_short_name":"Лункіна О.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"344","group_id":"7","day_number":"3","day_name":"Середа","lesson_name":"Історія України","lesson_full_name":"Історія України","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Лункіна О.М.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"15","teacher_name":"Лункіна О.М.","teacher_full_name":"Лункіна О.М.","teacher_short_name":"Лункіна О.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"345","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Математика","lesson_full_name":"Математика","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Халавчук Ю.С.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"11","teacher_name":"Халавчук Ю.С.","teacher_full_name":"Халавчук Ю.С.","teacher_short_name":"Халавчук Ю.С.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"346","group_id":"7","day_number":"2","day_name":"Вівторок","lesson_name":"Математика","lesson_full_name":"Математика","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Халавчук Ю.С.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"11","teacher_name":"Халавчук Ю.С.","teacher_full_name":"Халавчук Ю.С.","teacher_short_name":"Халавчук Ю.С.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"347","group_id":"7","day_number":"4","day_name":"Четверг","lesson_name":"Фізика","lesson_full_name":"Фізика","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Перетятко І.М.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"19","teacher_name":"Перетятко І.М.","teacher_full_name":"Перетятко І.М.","teacher_short_name":"Перетятко І.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"348","group_id":"7","day_number":"4","day_name":"Четверг","lesson_name":"Фізика","lesson_full_name":"Фізика","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Перетятко І.М.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"19","teacher_name":"Перетятко І.М.","teacher_full_name":"Перетятко І.М.","teacher_short_name":"Перетятко І.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"349","group_id":"7","day_number":"4","day_name":"Четверг","lesson_name":"Зарубіжна література","lesson_full_name":"Зарубіжна література","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Салямон О.І.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"33","teacher_name":"Салямон О.І.","teacher_full_name":"Салямон О.І.","teacher_short_name":"Салямон О.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"350","group_id":"7","day_number":"4","day_name":"Четверг","lesson_name":"Зарубіжна література","lesson_full_name":"Зарубіжна література","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Салямон О.І.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"33","teacher_name":"Салямон О.І.","teacher_full_name":"Салямон О.І.","teacher_short_name":"Салямон О.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"351","group_id":"7","day_number":"4","day_name":"Четверг","lesson_name":"Біологія","lesson_full_name":"Біологія","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Бондаренко О.П.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"34","teacher_name":"Бондаренко О.П.","teacher_full_name":"Бондаренко О.П.","teacher_short_name":"Бондаренко О.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"352","group_id":"7","day_number":"4","day_name":"Четверг","lesson_name":"Біологія","lesson_full_name":"Біологія","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Бондаренко О.П.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"34","teacher_name":"Бондаренко О.П.","teacher_full_name":"Бондаренко О.П.","teacher_short_name":"Бондаренко О.П.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"353","group_id":"7","day_number":"5","day_name":"Пятниця","lesson_name":"Громадянська освіта","lesson_full_name":"Громадянська освіта","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Докторук О.Д.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"17","teacher_name":"Докторук О.Д.","teacher_full_name":"Докторук О.Д.","teacher_short_name":"Докторук О.Д.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"354","group_id":"7","day_number":"5","day_name":"Пятниця","lesson_name":"Громадянська освіта","lesson_full_name":"Громадянська освіта","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Докторук О.Д.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"17","teacher_name":"Докторук О.Д.","teacher_full_name":"Докторук О.Д.","teacher_short_name":"Докторук О.Д.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"355","group_id":"7","day_number":"5","day_name":"Пятниця","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Пахолюк О.В.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"36","teacher_name":"Пахолюк О.В.","teacher_full_name":"Пахолюк О.В.","teacher_short_name":"Пахолюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"356","group_id":"7","day_number":"5","day_name":"Пятниця","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"2","lesson_room":"121","lesson_type":"Лек","teacher_name":"Пахолюк О.В.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"36","teacher_name":"Пахолюк О.В.","teacher_full_name":"Пахолюк О.В.","teacher_short_name":"Пахолюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"357","group_id":"7","day_number":"5","day_name":"Пятниця","lesson_name":"Математика","lesson_full_name":"Математика","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Халавчук Ю.С.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"11","teacher_name":"Халавчук Ю.С.","teacher_full_name":"Халавчук Ю.С.","teacher_short_name":"Халавчук Ю.С.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"358","group_id":"7","day_number":"5","day_name":"Пятниця","lesson_name":"Математика","lesson_full_name":"Математика","lesson_number":"3","lesson_room":"121","lesson_type":"Лек","teacher_name":"Халавчук Ю.С.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"11","teacher_name":"Халавчук Ю.С.","teacher_full_name":"Халавчук Ю.С.","teacher_short_name":"Халавчук Ю.С.","teacher_url":"http://google.com","teacher_rating":"5.000"}]}]}
+{
+  "statusCode": 200,
+  "timeStamp": 1600071948,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": [
+    {
+      "lesson_id": "327",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "328",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "329",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Громадянська освіта",
+      "lesson_full_name": "Громадянська освіта",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук О.Д.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "17",
+          "teacher_name": "Докторук О.Д.",
+          "teacher_full_name": "Докторук О.Д.",
+          "teacher_short_name": "Докторук О.Д.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "330",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Громадянська освіта",
+      "lesson_full_name": "Громадянська освіта",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук О.Д.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "17",
+          "teacher_name": "Докторук О.Д.",
+          "teacher_full_name": "Докторук О.Д.",
+          "teacher_short_name": "Докторук О.Д.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "331",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Хімія",
+      "lesson_full_name": "Хімія",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Роїк Н.М.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "10",
+          "teacher_name": "Роїк Н.М.",
+          "teacher_full_name": "Роїк Н.М.",
+          "teacher_short_name": "Роїк Н.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "332",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Хімія",
+      "lesson_full_name": "Хімія",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Роїк Н.М.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "10",
+          "teacher_name": "Роїк Н.М.",
+          "teacher_full_name": "Роїк Н.М.",
+          "teacher_short_name": "Роїк Н.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "333",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Українська література",
+      "lesson_full_name": "Українська література",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Даценко Л.І.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "29",
+          "teacher_name": "Даценко Л.І.",
+          "teacher_full_name": "Даценко Л.І.",
+          "teacher_short_name": "Даценко Л.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "334",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Українська література",
+      "lesson_full_name": "Українська література",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Даценко Л.І.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "29",
+          "teacher_name": "Даценко Л.І.",
+          "teacher_full_name": "Даценко Л.І.",
+          "teacher_short_name": "Даценко Л.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "335",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Українська Мова",
+      "lesson_full_name": "Українська Мова",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Слободзян Л.А.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "31",
+          "teacher_name": "Слободзян Л.А.",
+          "teacher_full_name": "Слободзян Л.А.",
+          "teacher_short_name": "Слободзян Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "336",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Українська Мова",
+      "lesson_full_name": "Українська Мова",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Слободзян Л.А.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "31",
+          "teacher_name": "Слободзян Л.А.",
+          "teacher_full_name": "Слободзян Л.А.",
+          "teacher_short_name": "Слободзян Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "337",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Зарубіжна література",
+      "lesson_full_name": "Зарубіжна література",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Салямон О.І.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "33",
+          "teacher_name": "Салямон О.І.",
+          "teacher_full_name": "Салямон О.І.",
+          "teacher_short_name": "Салямон О.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "338",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Зарубіжна література",
+      "lesson_full_name": "Зарубіжна література",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Салямон О.І.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "33",
+          "teacher_name": "Салямон О.І.",
+          "teacher_full_name": "Салямон О.І.",
+          "teacher_short_name": "Салямон О.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "339",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Біологія",
+      "lesson_full_name": "Біологія",
+      "lesson_number": "4",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Бондаренко О.П.",
+      "lesson_week": "1",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "34",
+          "teacher_name": "Бондаренко О.П.",
+          "teacher_full_name": "Бондаренко О.П.",
+          "teacher_short_name": "Бондаренко О.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "340",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Хімія",
+      "lesson_full_name": "Хімія",
+      "lesson_number": "4",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Роїк Н.М.",
+      "lesson_week": "2",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "10",
+          "teacher_name": "Роїк Н.М.",
+          "teacher_full_name": "Роїк Н.М.",
+          "teacher_short_name": "Роїк Н.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "343",
+      "group_id": "7",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Історія України",
+      "lesson_full_name": "Історія України",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Лункіна О.М.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "15",
+          "teacher_name": "Лункіна О.М.",
+          "teacher_full_name": "Лункіна О.М.",
+          "teacher_short_name": "Лункіна О.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "344",
+      "group_id": "7",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Історія України",
+      "lesson_full_name": "Історія України",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Лункіна О.М.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "15",
+          "teacher_name": "Лункіна О.М.",
+          "teacher_full_name": "Лункіна О.М.",
+          "teacher_short_name": "Лункіна О.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "345",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Математика",
+      "lesson_full_name": "Математика",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Халавчук Ю.С.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "11",
+          "teacher_name": "Халавчук Ю.С.",
+          "teacher_full_name": "Халавчук Ю.С.",
+          "teacher_short_name": "Халавчук Ю.С.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "346",
+      "group_id": "7",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Математика",
+      "lesson_full_name": "Математика",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Халавчук Ю.С.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "11",
+          "teacher_name": "Халавчук Ю.С.",
+          "teacher_full_name": "Халавчук Ю.С.",
+          "teacher_short_name": "Халавчук Ю.С.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "347",
+      "group_id": "7",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Фізика",
+      "lesson_full_name": "Фізика",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Перетятко І.М.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "19",
+          "teacher_name": "Перетятко І.М.",
+          "teacher_full_name": "Перетятко І.М.",
+          "teacher_short_name": "Перетятко І.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "348",
+      "group_id": "7",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Фізика",
+      "lesson_full_name": "Фізика",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Перетятко І.М.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "19",
+          "teacher_name": "Перетятко І.М.",
+          "teacher_full_name": "Перетятко І.М.",
+          "teacher_short_name": "Перетятко І.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "349",
+      "group_id": "7",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Зарубіжна література",
+      "lesson_full_name": "Зарубіжна література",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Салямон О.І.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "33",
+          "teacher_name": "Салямон О.І.",
+          "teacher_full_name": "Салямон О.І.",
+          "teacher_short_name": "Салямон О.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "350",
+      "group_id": "7",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Зарубіжна література",
+      "lesson_full_name": "Зарубіжна література",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Салямон О.І.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "33",
+          "teacher_name": "Салямон О.І.",
+          "teacher_full_name": "Салямон О.І.",
+          "teacher_short_name": "Салямон О.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "351",
+      "group_id": "7",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Біологія",
+      "lesson_full_name": "Біологія",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Бондаренко О.П.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "34",
+          "teacher_name": "Бондаренко О.П.",
+          "teacher_full_name": "Бондаренко О.П.",
+          "teacher_short_name": "Бондаренко О.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "352",
+      "group_id": "7",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Біологія",
+      "lesson_full_name": "Біологія",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Бондаренко О.П.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "34",
+          "teacher_name": "Бондаренко О.П.",
+          "teacher_full_name": "Бондаренко О.П.",
+          "teacher_short_name": "Бондаренко О.П.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "353",
+      "group_id": "7",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Громадянська освіта",
+      "lesson_full_name": "Громадянська освіта",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук О.Д.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "17",
+          "teacher_name": "Докторук О.Д.",
+          "teacher_full_name": "Докторук О.Д.",
+          "teacher_short_name": "Докторук О.Д.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "354",
+      "group_id": "7",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Громадянська освіта",
+      "lesson_full_name": "Громадянська освіта",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Докторук О.Д.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "17",
+          "teacher_name": "Докторук О.Д.",
+          "teacher_full_name": "Докторук О.Д.",
+          "teacher_short_name": "Докторук О.Д.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "355",
+      "group_id": "7",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Пахолюк О.В.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "36",
+          "teacher_name": "Пахолюк О.В.",
+          "teacher_full_name": "Пахолюк О.В.",
+          "teacher_short_name": "Пахолюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "356",
+      "group_id": "7",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "2",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Пахолюк О.В.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "36",
+          "teacher_name": "Пахолюк О.В.",
+          "teacher_full_name": "Пахолюк О.В.",
+          "teacher_short_name": "Пахолюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "357",
+      "group_id": "7",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Математика",
+      "lesson_full_name": "Математика",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Халавчук Ю.С.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "11",
+          "teacher_name": "Халавчук Ю.С.",
+          "teacher_full_name": "Халавчук Ю.С.",
+          "teacher_short_name": "Халавчук Ю.С.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "358",
+      "group_id": "7",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Математика",
+      "lesson_full_name": "Математика",
+      "lesson_number": "3",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Халавчук Ю.С.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "11",
+          "teacher_name": "Халавчук Ю.С.",
+          "teacher_full_name": "Халавчук Ю.С.",
+          "teacher_short_name": "Халавчук Ю.С.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    }
+  ]
+}

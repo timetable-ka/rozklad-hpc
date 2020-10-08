@@ -1,1 +1,1237 @@
-{"statusCode":200,"timeStamp":1600071948,"message":"Ok","debugInfo":null,"meta":null,"data":[{"lesson_id":"5","group_id":"1","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"3","lesson_room":"123","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"1","room_name":"123","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"6","group_id":"1","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"3","lesson_room":"123","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"1","room_name":"123","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"23","group_id":"1","day_number":"4","day_name":"Четверг","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"2","lesson_room":"235а","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"16","room_name":"235а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"79","group_id":"3","day_number":"3","day_name":"Середа","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"133а","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"3","room_name":"133а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"80","group_id":"3","day_number":"3","day_name":"Середа","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"133а","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"3","room_name":"133а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"85","group_id":"3","day_number":"4","day_name":"Четверг","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"133а","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"3","room_name":"133а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"148","group_id":"14","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"125","lesson_type":"Лек","teacher_name":"Миколюк О.В., Чернова В.А.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"15","room_name":"125","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"149","group_id":"14","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"125","lesson_type":"Лек","teacher_name":"Миколюк О.В., Чернова В.А.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"15","room_name":"125","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"182","group_id":"11","day_number":"3","day_name":"Середа","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"3","lesson_room":"142","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"11","room_name":"142","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"183","group_id":"11","day_number":"3","day_name":"Середа","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"3","lesson_room":"142","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"11","room_name":"142","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"202","group_id":"12","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"4","lesson_room":"127","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"12","room_name":"127","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"203","group_id":"12","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"4","lesson_room":"127","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"2","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"12","room_name":"127","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"232","group_id":"4","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"131","lesson_type":"Лек","teacher_name":"Миколюк О.В., Соломко Л.А.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"4","room_name":"131","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"24","teacher_name":"Соломко Л.А.","teacher_full_name":"Соломко Л.А.","teacher_short_name":"Соломко Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"243","group_id":"4","day_number":"2","day_name":"Вівторок","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"4","lesson_room":"131","lesson_type":"Лек","teacher_name":"Миколюк О.В., Кузнєцова Н.Ю.","lesson_week":"1","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"4","room_name":"131","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"244","group_id":"4","day_number":"2","day_name":"Вівторок","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"4","lesson_room":"131","lesson_type":"Лек","teacher_name":"Миколюк О.В., Кузнєцова Н.Ю.","lesson_week":"2","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"4","room_name":"131","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"266","group_id":"5","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"2","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Миколюк О.В., Соломко Л.А.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"24","teacher_name":"Соломко Л.А.","teacher_full_name":"Соломко Л.А.","teacher_short_name":"Соломко Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"273","group_id":"5","day_number":"2","day_name":"Вівторок","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Миколюк О.В., Кузнєцова Н.Ю.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"274","group_id":"5","day_number":"2","day_name":"Вівторок","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Миколюк О.В., Кузнєцова Н.Ю.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"297","group_id":"6","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"2","lesson_room":"129","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"6","room_name":"129","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"298","group_id":"6","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"2","lesson_room":"129","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"6","room_name":"129","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"327","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"328","group_id":"7","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"121","lesson_type":"Лек","teacher_name":"Миколюк О.В., Мельник В.М.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"7","room_name":"121","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"5","teacher_name":"Мельник В.М.","teacher_full_name":"Мельник В.М.","teacher_short_name":"Мельник В.М.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"389","group_id":"8","day_number":"5","day_name":"Пятниця","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"2","lesson_room":"132а","lesson_type":"Лек","teacher_name":"Миколюк О.В.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"8","room_name":"132а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"390","group_id":"8","day_number":"5","day_name":"Пятниця","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"2","lesson_room":"132а","lesson_type":"Лек","teacher_name":"Миколюк О.В.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"8","room_name":"132а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"417","group_id":"9","day_number":"5","day_name":"Пятниця","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"135а","lesson_type":"Лек","teacher_name":"Миколюк О.В.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"9","room_name":"135а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"418","group_id":"9","day_number":"5","day_name":"Пятниця","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"135а","lesson_type":"Лек","teacher_name":"Миколюк О.В.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"9","room_name":"135а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"231","group_id":"4","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"1","lesson_room":"131","lesson_type":"Лек","teacher_name":"Соломко Л.А., Миколюк О.В.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"4","room_name":"131","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"24","teacher_name":"Соломко Л.А.","teacher_full_name":"Соломко Л.А.","teacher_short_name":"Соломко Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"258","group_id":"4","day_number":"4","day_name":"Четверг","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"4","lesson_room":"131","lesson_type":"Лек","teacher_name":"Соломко Л.А., Миколюк О.В.","lesson_week":"2","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"4","room_name":"131","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"24","teacher_name":"Соломко Л.А.","teacher_full_name":"Соломко Л.А.","teacher_short_name":"Соломко Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"265","group_id":"5","day_number":"1","day_name":"Понеділок","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"2","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Соломко Л.А., Миколюк О.В.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"24","teacher_name":"Соломко Л.А.","teacher_full_name":"Соломко Л.А.","teacher_short_name":"Соломко Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"285","group_id":"5","day_number":"4","day_name":"Четверг","lesson_name":"Інформатика","lesson_full_name":"Інформатика","lesson_number":"4","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Соломко Л.А., Миколюк О.В.","lesson_week":"2","time_start":"13:20","time_end":"14:40","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"24","teacher_name":"Соломко Л.А.","teacher_full_name":"Соломко Л.А.","teacher_short_name":"Соломко Л.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"}]}]}
+{
+  "statusCode": 200,
+  "timeStamp": 1600071948,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": [
+    {
+      "lesson_id": "5",
+      "group_id": "1",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "3",
+      "lesson_room": "123",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "1",
+          "room_name": "123",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "6",
+      "group_id": "1",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "3",
+      "lesson_room": "123",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "1",
+          "room_name": "123",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "23",
+      "group_id": "1",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "2",
+      "lesson_room": "235а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "16",
+          "room_name": "235а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "79",
+      "group_id": "3",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "133а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "3",
+          "room_name": "133а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "80",
+      "group_id": "3",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "133а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "3",
+          "room_name": "133а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "85",
+      "group_id": "3",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "133а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "3",
+          "room_name": "133а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "148",
+      "group_id": "14",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "125",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Чернова В.А.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "15",
+          "room_name": "125",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "149",
+      "group_id": "14",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "125",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Чернова В.А.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "15",
+          "room_name": "125",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "182",
+      "group_id": "11",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "3",
+      "lesson_room": "142",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "11",
+          "room_name": "142",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "183",
+      "group_id": "11",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "3",
+      "lesson_room": "142",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "11",
+          "room_name": "142",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "202",
+      "group_id": "12",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "4",
+      "lesson_room": "127",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "12",
+          "room_name": "127",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "203",
+      "group_id": "12",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "4",
+      "lesson_room": "127",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "2",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "12",
+          "room_name": "127",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "232",
+      "group_id": "4",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "131",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Соломко Л.А.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "4",
+          "room_name": "131",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "24",
+          "teacher_name": "Соломко Л.А.",
+          "teacher_full_name": "Соломко Л.А.",
+          "teacher_short_name": "Соломко Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "243",
+      "group_id": "4",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "4",
+      "lesson_room": "131",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Кузнєцова Н.Ю.",
+      "lesson_week": "1",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "4",
+          "room_name": "131",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "244",
+      "group_id": "4",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "4",
+      "lesson_room": "131",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Кузнєцова Н.Ю.",
+      "lesson_week": "2",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "4",
+          "room_name": "131",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "266",
+      "group_id": "5",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "2",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Соломко Л.А.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "24",
+          "teacher_name": "Соломко Л.А.",
+          "teacher_full_name": "Соломко Л.А.",
+          "teacher_short_name": "Соломко Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "273",
+      "group_id": "5",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Кузнєцова Н.Ю.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "274",
+      "group_id": "5",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Кузнєцова Н.Ю.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "297",
+      "group_id": "6",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "2",
+      "lesson_room": "129",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "6",
+          "room_name": "129",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "298",
+      "group_id": "6",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "2",
+      "lesson_room": "129",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "6",
+          "room_name": "129",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "327",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "328",
+      "group_id": "7",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "121",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Мельник В.М.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "7",
+          "room_name": "121",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "5",
+          "teacher_name": "Мельник В.М.",
+          "teacher_full_name": "Мельник В.М.",
+          "teacher_short_name": "Мельник В.М.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "389",
+      "group_id": "8",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "2",
+      "lesson_room": "132а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "8",
+          "room_name": "132а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "390",
+      "group_id": "8",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "2",
+      "lesson_room": "132а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "8",
+          "room_name": "132а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "417",
+      "group_id": "9",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "135а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "9",
+          "room_name": "135а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "418",
+      "group_id": "9",
+      "day_number": "5",
+      "day_name": "Пятниця",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "135а",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "9",
+          "room_name": "135а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "231",
+      "group_id": "4",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "1",
+      "lesson_room": "131",
+      "lesson_type": "Лек",
+      "teacher_name": "Соломко Л.А., Миколюк О.В.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "4",
+          "room_name": "131",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "24",
+          "teacher_name": "Соломко Л.А.",
+          "teacher_full_name": "Соломко Л.А.",
+          "teacher_short_name": "Соломко Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "258",
+      "group_id": "4",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "4",
+      "lesson_room": "131",
+      "lesson_type": "Лек",
+      "teacher_name": "Соломко Л.А., Миколюк О.В.",
+      "lesson_week": "2",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "4",
+          "room_name": "131",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "24",
+          "teacher_name": "Соломко Л.А.",
+          "teacher_full_name": "Соломко Л.А.",
+          "teacher_short_name": "Соломко Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "265",
+      "group_id": "5",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "2",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Соломко Л.А., Миколюк О.В.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "24",
+          "teacher_name": "Соломко Л.А.",
+          "teacher_full_name": "Соломко Л.А.",
+          "teacher_short_name": "Соломко Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "285",
+      "group_id": "5",
+      "day_number": "4",
+      "day_name": "Четверг",
+      "lesson_name": "Інформатика",
+      "lesson_full_name": "Інформатика",
+      "lesson_number": "4",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Соломко Л.А., Миколюк О.В.",
+      "lesson_week": "2",
+      "time_start": "13:20",
+      "time_end": "14:40",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "24",
+          "teacher_name": "Соломко Л.А.",
+          "teacher_full_name": "Соломко Л.А.",
+          "teacher_short_name": "Соломко Л.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,329 @@
-{"statusCode":200,"timeStamp":1600071948,"message":"Ok","debugInfo":null,"meta":null,"data":[{"lesson_id":"313","group_id":"5","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"2","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Чернова В.А., Кузнєцова Н.Ю.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"314","group_id":"5","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"2","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Чернова В.А., Кузнєцова Н.Ю.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"341","group_id":"5","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"1","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Чернова В.А., Кузнєцова Н.Ю.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"342","group_id":"5","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"1","lesson_room":"134а","lesson_type":"Лек","teacher_name":"Чернова В.А., Кузнєцова Н.Ю.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"5","room_name":"134а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"28","teacher_name":"Кузнєцова Н.Ю.","teacher_full_name":"Кузнєцова Н.Ю.","teacher_short_name":"Кузнєцова Н.Ю.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"370","group_id":"8","day_number":"2","day_name":"Вівторок","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"132а","lesson_type":"Лек","teacher_name":"Чернова В.А.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"8","room_name":"132а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"371","group_id":"8","day_number":"2","day_name":"Вівторок","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"132а","lesson_type":"Лек","teacher_name":"Чернова В.А.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"8","room_name":"132а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"148","group_id":"14","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"125","lesson_type":"Лек","teacher_name":"Миколюк О.В., Чернова В.А.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"15","room_name":"125","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"149","group_id":"14","day_number":"3","day_name":"Середа","lesson_name":"Іноземна мова","lesson_full_name":"Іноземна мова","lesson_number":"3","lesson_room":"125","lesson_type":"Лек","teacher_name":"Миколюк О.В., Чернова В.А.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"15","room_name":"125","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"22","teacher_name":"Миколюк О.В.","teacher_full_name":"Миколюк О.В.","teacher_short_name":"Миколюк О.В.","teacher_url":"http://google.com","teacher_rating":"5.000"},{"teacher_id":"35","teacher_name":"Чернова В.А.","teacher_full_name":"Чернова В.А.","teacher_short_name":"Чернова В.А.","teacher_url":"http://google.com","teacher_rating":"5.000"}]}]}
+{
+  "statusCode": 200,
+  "timeStamp": 1600071948,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": [
+    {
+      "lesson_id": "313",
+      "group_id": "5",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "2",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Чернова В.А., Кузнєцова Н.Ю.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "314",
+      "group_id": "5",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "2",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Чернова В.А., Кузнєцова Н.Ю.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "341",
+      "group_id": "5",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "1",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Чернова В.А., Кузнєцова Н.Ю.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "342",
+      "group_id": "5",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "1",
+      "lesson_room": "134а",
+      "lesson_type": "Лек",
+      "teacher_name": "Чернова В.А., Кузнєцова Н.Ю.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "5",
+          "room_name": "134а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "28",
+          "teacher_name": "Кузнєцова Н.Ю.",
+          "teacher_full_name": "Кузнєцова Н.Ю.",
+          "teacher_short_name": "Кузнєцова Н.Ю.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "370",
+      "group_id": "8",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "132а",
+      "lesson_type": "Лек",
+      "teacher_name": "Чернова В.А.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "8",
+          "room_name": "132а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "371",
+      "group_id": "8",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "132а",
+      "lesson_type": "Лек",
+      "teacher_name": "Чернова В.А.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "8",
+          "room_name": "132а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "148",
+      "group_id": "14",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "125",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Чернова В.А.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "15",
+          "room_name": "125",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "149",
+      "group_id": "14",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Іноземна мова",
+      "lesson_full_name": "Іноземна мова",
+      "lesson_number": "3",
+      "lesson_room": "125",
+      "lesson_type": "Лек",
+      "teacher_name": "Миколюк О.В., Чернова В.А.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "15",
+          "room_name": "125",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "22",
+          "teacher_name": "Миколюк О.В.",
+          "teacher_full_name": "Миколюк О.В.",
+          "teacher_short_name": "Миколюк О.В.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        },
+        {
+          "teacher_id": "35",
+          "teacher_name": "Чернова В.А.",
+          "teacher_full_name": "Чернова В.А.",
+          "teacher_short_name": "Чернова В.А.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    }
+  ]
+}

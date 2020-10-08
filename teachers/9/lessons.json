@@ -1,1 +1,485 @@
-{"statusCode":200,"timeStamp":1600071948,"message":"Ok","debugInfo":null,"meta":null,"data":[{"lesson_id":"15","group_id":"1","day_number":"3","day_name":"Середа","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"1","lesson_room":"123","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"1","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"1","room_name":"123","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"16","group_id":"1","day_number":"3","day_name":"Середа","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"1","lesson_room":"123","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"2","time_start":"08:30","time_end":"09:50","rate":null,"rooms":[{"room_id":"1","room_name":"123","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"49","group_id":"2","day_number":"3","day_name":"Середа","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"2","lesson_room":"131а","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"2","room_name":"131а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"50","group_id":"2","day_number":"3","day_name":"Середа","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"2","lesson_room":"131а","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"2","room_name":"131а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"83","group_id":"3","day_number":"3","day_name":"Середа","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"3","lesson_room":"133а","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"3","room_name":"133а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"84","group_id":"3","day_number":"3","day_name":"Середа","lesson_name":"Фізична культура","lesson_full_name":"Фізична культура","lesson_number":"3","lesson_room":"133а","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"3","room_name":"133а","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"460","group_id":"42","day_number":"1","day_name":"Понеділок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"2","lesson_room":"221","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"17","room_name":"221","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"461","group_id":"42","day_number":"1","day_name":"Понеділок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"2","lesson_room":"221","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"17","room_name":"221","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"470","group_id":"42","day_number":"2","day_name":"Вівторок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"3","lesson_room":"221","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"1","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"17","room_name":"221","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"471","group_id":"42","day_number":"2","day_name":"Вівторок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"3","lesson_room":"221","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"2","time_start":"11:50","time_end":"13:10","rate":null,"rooms":[{"room_id":"17","room_name":"221","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"495","group_id":"53","day_number":"1","day_name":"Понеділок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"2","lesson_room":"231","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"18","room_name":"231","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"496","group_id":"53","day_number":"1","day_name":"Понеділок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"2","lesson_room":"231","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"18","room_name":"231","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"499","group_id":"53","day_number":"2","day_name":"Вівторок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"2","lesson_room":"231","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"1","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"18","room_name":"231","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]},{"lesson_id":"500","group_id":"53","day_number":"2","day_name":"Вівторок","lesson_name":"Фізичне виховання","lesson_full_name":"Фізичне виховання","lesson_number":"2","lesson_room":"231","lesson_type":"Лек","teacher_name":"Шимків І.І.","lesson_week":"2","time_start":"10:00","time_end":"11:20","rate":null,"rooms":[{"room_id":"18","room_name":"231","room_latitude":"49.4330545","room_longitude":"27.0043892"}],"teachers":[{"teacher_id":"9","teacher_name":"Шимків І.І.","teacher_full_name":"Шимків І.І.","teacher_short_name":"Шимків І.І.","teacher_url":"http://google.com","teacher_rating":"5.000"}]}]}
+{
+  "statusCode": 200,
+  "timeStamp": 1600071948,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": [
+    {
+      "lesson_id": "15",
+      "group_id": "1",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "1",
+      "lesson_room": "123",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "1",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "1",
+          "room_name": "123",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "16",
+      "group_id": "1",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "1",
+      "lesson_room": "123",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "2",
+      "time_start": "08:30",
+      "time_end": "09:50",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "1",
+          "room_name": "123",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "49",
+      "group_id": "2",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "2",
+      "lesson_room": "131а",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "2",
+          "room_name": "131а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "50",
+      "group_id": "2",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "2",
+      "lesson_room": "131а",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "2",
+          "room_name": "131а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "83",
+      "group_id": "3",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "3",
+      "lesson_room": "133а",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "3",
+          "room_name": "133а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "84",
+      "group_id": "3",
+      "day_number": "3",
+      "day_name": "Середа",
+      "lesson_name": "Фізична культура",
+      "lesson_full_name": "Фізична культура",
+      "lesson_number": "3",
+      "lesson_room": "133а",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "3",
+          "room_name": "133а",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "460",
+      "group_id": "42",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "2",
+      "lesson_room": "221",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "17",
+          "room_name": "221",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "461",
+      "group_id": "42",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "2",
+      "lesson_room": "221",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "17",
+          "room_name": "221",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "470",
+      "group_id": "42",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "3",
+      "lesson_room": "221",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "1",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "17",
+          "room_name": "221",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "471",
+      "group_id": "42",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "3",
+      "lesson_room": "221",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "2",
+      "time_start": "11:50",
+      "time_end": "13:10",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "17",
+          "room_name": "221",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "495",
+      "group_id": "53",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "2",
+      "lesson_room": "231",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "18",
+          "room_name": "231",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "496",
+      "group_id": "53",
+      "day_number": "1",
+      "day_name": "Понеділок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "2",
+      "lesson_room": "231",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "18",
+          "room_name": "231",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "499",
+      "group_id": "53",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "2",
+      "lesson_room": "231",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "1",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "18",
+          "room_name": "231",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    },
+    {
+      "lesson_id": "500",
+      "group_id": "53",
+      "day_number": "2",
+      "day_name": "Вівторок",
+      "lesson_name": "Фізичне виховання",
+      "lesson_full_name": "Фізичне виховання",
+      "lesson_number": "2",
+      "lesson_room": "231",
+      "lesson_type": "Лек",
+      "teacher_name": "Шимків І.І.",
+      "lesson_week": "2",
+      "time_start": "10:00",
+      "time_end": "11:20",
+      "rate": null,
+      "rooms": [
+        {
+          "room_id": "18",
+          "room_name": "231",
+          "room_latitude": "49.4330545",
+          "room_longitude": "27.0043892"
+        }
+      ],
+      "teachers": [
+        {
+          "teacher_id": "9",
+          "teacher_name": "Шимків І.І.",
+          "teacher_full_name": "Шимків І.І.",
+          "teacher_short_name": "Шимків І.І.",
+          "teacher_url": "http://google.com",
+          "teacher_rating": "5.000"
+        }
+      ]
+    }
+  ]
+}

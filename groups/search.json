@@ -1,1 +1,433 @@
-{"statusCode":200,"timeStamp":1600071948,"message":"Ok","debugInfo":null,"meta":null,"data":[{"group_id":1,"group_full_name":"КІ-201","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":2,"group_full_name":"КІ-202","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":3,"group_full_name":"КІ-203","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":4,"group_full_name":"ПІ-201","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":5,"group_full_name":"ПІ-202","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":6,"group_full_name":"МЕ-201","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":7,"group_full_name":"МЕ-202","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":8,"group_full_name":"ЕК-201","group_prefix":"ек","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":9,"group_full_name":"ЕК-202","group_prefix":"ек","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":10,"group_full_name":"МГ-201","group_prefix":"мг","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":11,"group_full_name":"ПМ-201","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":12,"group_full_name":"ПМ-202","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":13,"group_full_name":"АТ-201","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":14,"group_full_name":"АТ-202","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":15,"group_full_name":"КІ-191","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":16,"group_full_name":"КІ-192","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":17,"group_full_name":"КІ-193","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":18,"group_full_name":"ПІ-191","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":19,"group_full_name":"ПІ-192","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":20,"group_full_name":"МЕ-191","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":21,"group_full_name":"МЕ-192","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":22,"group_full_name":"ЕК-191","group_prefix":"ек","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":23,"group_full_name":"ЕК-192","group_prefix":"ек","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":24,"group_full_name":"МГ-191","group_prefix":"мг","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":25,"group_full_name":"ПМ-191","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":26,"group_full_name":"ПМ-192","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":27,"group_full_name":"АТ-191","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":28,"group_full_name":"АТ-192","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":29,"group_full_name":"КІ-181","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":30,"group_full_name":"КІ-182","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":31,"group_full_name":"КІ-183","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":32,"group_full_name":"ПІ-181","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":33,"group_full_name":"ПІ-182","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":34,"group_full_name":"МЕ-181","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":35,"group_full_name":"МЕ-182","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":36,"group_full_name":"ЕК-181","group_prefix":"ек","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":37,"group_full_name":"МГ-181","group_prefix":"мг","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":38,"group_full_name":"ПМ-181","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":39,"group_full_name":"ПМ-182","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":40,"group_full_name":"АТ-181","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":41,"group_full_name":"АТ-182","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":42,"group_full_name":"КІ-171","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":43,"group_full_name":"КІ-172","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":44,"group_full_name":"ПІ-171","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":45,"group_full_name":"ПІ-172","group_prefix":"пі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":46,"group_full_name":"МЕ-171","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":47,"group_full_name":"МЕ-172","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":48,"group_full_name":"МГ-171","group_prefix":"мг","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":49,"group_full_name":"ПМ-171","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":50,"group_full_name":"ПМ-172","group_prefix":"пм","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":51,"group_full_name":"АТ-171","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":52,"group_full_name":"АТ-172","group_prefix":"ат","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"},{"group_id":53,"group_full_name":"КІ-173","group_prefix":"кі","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"}]}
+{
+  "statusCode": 200,
+  "timeStamp": 1600071948,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": [
+    {
+      "group_id": 1,
+      "group_full_name": "КІ-201",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 2,
+      "group_full_name": "КІ-202",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 3,
+      "group_full_name": "КІ-203",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 4,
+      "group_full_name": "ПІ-201",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 5,
+      "group_full_name": "ПІ-202",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 6,
+      "group_full_name": "МЕ-201",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 7,
+      "group_full_name": "МЕ-202",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 8,
+      "group_full_name": "ЕК-201",
+      "group_prefix": "ек",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 9,
+      "group_full_name": "ЕК-202",
+      "group_prefix": "ек",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 10,
+      "group_full_name": "МГ-201",
+      "group_prefix": "мг",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 11,
+      "group_full_name": "ПМ-201",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 12,
+      "group_full_name": "ПМ-202",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 13,
+      "group_full_name": "АТ-201",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 14,
+      "group_full_name": "АТ-202",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 15,
+      "group_full_name": "КІ-191",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 16,
+      "group_full_name": "КІ-192",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 17,
+      "group_full_name": "КІ-193",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 18,
+      "group_full_name": "ПІ-191",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 19,
+      "group_full_name": "ПІ-192",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 20,
+      "group_full_name": "МЕ-191",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 21,
+      "group_full_name": "МЕ-192",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 22,
+      "group_full_name": "ЕК-191",
+      "group_prefix": "ек",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 23,
+      "group_full_name": "ЕК-192",
+      "group_prefix": "ек",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 24,
+      "group_full_name": "МГ-191",
+      "group_prefix": "мг",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 25,
+      "group_full_name": "ПМ-191",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 26,
+      "group_full_name": "ПМ-192",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 27,
+      "group_full_name": "АТ-191",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 28,
+      "group_full_name": "АТ-192",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 29,
+      "group_full_name": "КІ-181",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 30,
+      "group_full_name": "КІ-182",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 31,
+      "group_full_name": "КІ-183",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 32,
+      "group_full_name": "ПІ-181",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 33,
+      "group_full_name": "ПІ-182",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 34,
+      "group_full_name": "МЕ-181",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 35,
+      "group_full_name": "МЕ-182",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 36,
+      "group_full_name": "ЕК-181",
+      "group_prefix": "ек",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 37,
+      "group_full_name": "МГ-181",
+      "group_prefix": "мг",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 38,
+      "group_full_name": "ПМ-181",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 39,
+      "group_full_name": "ПМ-182",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 40,
+      "group_full_name": "АТ-181",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 41,
+      "group_full_name": "АТ-182",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 42,
+      "group_full_name": "КІ-171",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 43,
+      "group_full_name": "КІ-172",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 44,
+      "group_full_name": "ПІ-171",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 45,
+      "group_full_name": "ПІ-172",
+      "group_prefix": "пі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 46,
+      "group_full_name": "МЕ-171",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 47,
+      "group_full_name": "МЕ-172",
+      "group_prefix": "ме",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 48,
+      "group_full_name": "МГ-171",
+      "group_prefix": "мг",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 49,
+      "group_full_name": "ПМ-171",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 50,
+      "group_full_name": "ПМ-172",
+      "group_prefix": "пм",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 51,
+      "group_full_name": "АТ-171",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 52,
+      "group_full_name": "АТ-172",
+      "group_prefix": "ат",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    },
+    {
+      "group_id": 53,
+      "group_full_name": "КІ-173",
+      "group_prefix": "кі",
+      "group_okr": "bachelor",
+      "group_type": "extramural",
+      "group_url": "http://google.com"
+    }
+  ]
+}

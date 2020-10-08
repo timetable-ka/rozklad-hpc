@@ -1,1 +1,15 @@
-{"statusCode":200,"timeStamp":1600071948,"message":"Ok","debugInfo":null,"meta":null,"data":{"group_id":21,"group_full_name":"МЕ-192","group_prefix":"ме","group_okr":"bachelor","group_type":"extramural","group_url":"http://google.com"}}
+{
+  "statusCode": 200,
+  "timeStamp": 1600071948,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": {
+    "group_id": 21,
+    "group_full_name": "МЕ-192",
+    "group_prefix": "ме",
+    "group_okr": "bachelor",
+    "group_type": "extramural",
+    "group_url": "http://google.com"
+  }
+}
