@@ -99,35 +99,37 @@ public class ExportService {
         //  2, 3, 4
         //  1, 2, 3, 4
 
+        String roomNumber = groupInfo[1].replace("ауд.", "");
+        String groupName = groupInfo[0];
         if (row1 != null && row2 != null) {
             if (row3 != null && row4 != null) {
                 // 1, 2, 3, 4
                 // create 1,2 lessons
-                timeTableService.createNewLessons(row1, i, 1, row2, null, groupInfo[1],  groupInfo[0]);
-                timeTableService.createNewLessons(row3, i, 2, row4, null, groupInfo[1],  groupInfo[0]);
+                timeTableService.createNewLessons(row1, i, 1, row2, null, roomNumber, groupName);
+                timeTableService.createNewLessons(row3, i, 2, row4, null, roomNumber, groupName);
                 return;
             }
             // 1, 2
             // create 1 lessons
-            timeTableService.createNewLessons(row1, i, 1, row2, null, groupInfo[1],  groupInfo[0]);
+            timeTableService.createNewLessons(row1, i, 1, row2, null, roomNumber, groupName);
             return;
         } else if (row2 != null && row3 != null) {
             if (row4 != null) {
-                timeTableService.createNewLessons(row2, i, 1, row3, row4, groupInfo[1],  groupInfo[0]);
-                timeTableService.createNewLessons(row2, i, 2, row3, row4, groupInfo[1],  groupInfo[0]);
+                timeTableService.createNewLessons(row2, i, 1, row3, row4, roomNumber, groupName);
+                timeTableService.createNewLessons(row2, i, 2, row3, row4, roomNumber, groupName);
                 // 2, 3, 4
                 // create 1,2 lessons
                 return;
             }
             // 2, 3
             // create 1,2 lessons
-            timeTableService.createNewLessons(row2, i, 1, row3, null, groupInfo[1],  groupInfo[0]);
-            timeTableService.createNewLessons(row2, i, 2, row3, null, groupInfo[1],  groupInfo[0]);
+            timeTableService.createNewLessons(row2, i, 1, row3, null, roomNumber, groupName);
+            timeTableService.createNewLessons(row2, i, 2, row3, null, roomNumber, groupName);
             return;
         } else if (row3 != null && row4 != null) {
             // 3, 4
             // create 2 lessons
-            timeTableService.createNewLessons(row3, i, 2, row4, null, groupInfo[1],  groupInfo[0]);
+            timeTableService.createNewLessons(row3, i, 2, row4, null, roomNumber, groupName);
             return;
         } else if (row1 == null && row2 == null && row3 == null && row4 == null) {
             log.info("NULL");
