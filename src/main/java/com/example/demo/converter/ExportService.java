@@ -29,8 +29,7 @@ public class ExportService {
     public void convertExcel() {
         XSSFWorkbook myExcelBook = getSheets();
 
-        Stream.of(1).forEach(course -> {
-//        Stream.of(1, 2, 3, 4).forEach(course -> {
+        Stream.of(1, 2, 3, 4).forEach(course -> {
             log.info(course + "////////////////////////////");
             processSheet(myExcelBook, course);
         });
