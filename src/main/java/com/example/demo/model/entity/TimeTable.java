@@ -20,32 +20,32 @@ public class TimeTable {
     private Long id;
 
     @Fetch(FetchMode.JOIN)
-    @ManyToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne
     @JoinColumn(name = "teacher_id")
     private Teacher teacher;
 
     @Fetch(FetchMode.JOIN)
-    @ManyToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne
     @JoinColumn(name = "teacher_id_optional")
     private Teacher teacherSecond;
 
     @Fetch(FetchMode.JOIN)
-    @ManyToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne
     @JoinColumn(name = "lesson_room_id")
     private Room room;
 
     @Fetch(FetchMode.JOIN)
-    @ManyToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne
     @JoinColumn(name = "lesson_room_id_optional")
     private Room roomSecond;
 
     @Fetch(FetchMode.JOIN)
-    @ManyToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne
     @JoinColumn(name = "lesson_id")
     private Lesson lesson;
 
     @Fetch(FetchMode.JOIN)
-    @ManyToOne(cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne
     @JoinColumn(name = "group_id")
     private Group group;
 

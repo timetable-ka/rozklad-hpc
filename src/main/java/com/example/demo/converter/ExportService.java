@@ -14,6 +14,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @Slf4j
@@ -80,6 +82,7 @@ public class ExportService {
     private void openOneGroup(int i, XSSFSheet sheet, int columnIndex, int rowIndex, String group) {
         String[] groupInfo = group.replace("(", "")
                 .replace(")", "")
+                .replace("ауд ", "ауд.")
                 .replace(". ", ".")
                 .split(" ");
 
@@ -101,7 +104,7 @@ public class ExportService {
                 // 1, 2, 3, 4
                 // create 1,2 lessons
                 timeTableService.createNewLessons(row1, i, 1, row2, null, groupInfo[1],  groupInfo[0]);
-                timeTableService.createNewLessons(row2, i, 2, row3, null, groupInfo[1],  groupInfo[0]);
+                timeTableService.createNewLessons(row3, i, 2, row4, null, groupInfo[1],  groupInfo[0]);
                 return;
             }
             // 1, 2

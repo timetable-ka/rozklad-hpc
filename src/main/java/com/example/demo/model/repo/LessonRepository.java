@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
 
-public interface GroupRepository extends JpaRepository<Group, Long> {
+public interface LessonRepository extends JpaRepository<Lesson, Long> {
 
-    Optional<Group> findByName(String name);
+    Optional<Lesson> findByName(String name);
 }
