@@ -105,13 +105,29 @@ public class ExportService {
             if (row3 != null && row4 != null) {
                 // 1, 2, 3, 4
                 // create 1,2 lessons
-                timeTableService.createNewLessons(row1, i, 1, row2, null, roomNumber, groupName);
-                timeTableService.createNewLessons(row3, i, 2, row4, null, roomNumber, groupName);
+                String[] teacherNames = row2.trim().split("\\. ");
+                if (teacherNames.length > 1) {
+                    timeTableService.createNewLessons(row1, i, 1,teacherNames[0], teacherNames[1], roomNumber, groupName);
+                } else {
+                    timeTableService.createNewLessons(row1, i, 1, row2, null, roomNumber, groupName);
+                }
+
+                String[] teacherNames2 = row4.trim().split("\\. ");
+                if (teacherNames2.length > 1) {
+                    timeTableService.createNewLessons(row3, i, 2, teacherNames2[0], teacherNames2[1], roomNumber, groupName);
+                } else {
+                    timeTableService.createNewLessons(row3, i, 2, row4, null, roomNumber, groupName);
+                }
                 return;
             }
             // 1, 2
             // create 1 lessons
-            timeTableService.createNewLessons(row1, i, 1, row2, null, roomNumber, groupName);
+            String[] teacherNames = row2.trim().split("\\. ");
+            if (teacherNames.length > 1) {
+                timeTableService.createNewLessons(row1, i, 1, teacherNames[0], teacherNames[1], roomNumber, groupName);
+            } else {
+                timeTableService.createNewLessons(row1, i, 1, row2, null, roomNumber, groupName);
+            }
             return;
         } else if (row2 != null && row3 != null) {
             if (row4 != null) {
@@ -123,13 +139,25 @@ public class ExportService {
             }
             // 2, 3
             // create 1,2 lessons
-            timeTableService.createNewLessons(row2, i, 1, row3, null, roomNumber, groupName);
-            timeTableService.createNewLessons(row2, i, 2, row3, null, roomNumber, groupName);
+            String[] teacherNames = row3.trim().split("\\. ");
+            if (teacherNames.length > 1) {
+                timeTableService.createNewLessons(row2, i, 1, teacherNames[0], teacherNames[1], roomNumber, groupName);
+                timeTableService.createNewLessons(row2, i, 2, teacherNames[0], teacherNames[1], roomNumber, groupName);
+            } else {
+                timeTableService.createNewLessons(row2, i, 1, row3, null, roomNumber, groupName);
+                timeTableService.createNewLessons(row2, i, 2, row3, null, roomNumber, groupName);
+            }
+
             return;
         } else if (row3 != null && row4 != null) {
             // 3, 4
             // create 2 lessons
-            timeTableService.createNewLessons(row3, i, 2, row4, null, roomNumber, groupName);
+            String[] teacherNames = row4.trim().split("\\. ");
+            if (teacherNames.length > 1) {
+                timeTableService.createNewLessons(row3, i, 2, teacherNames[0], teacherNames[1], roomNumber, groupName);
+            } else {
+                timeTableService.createNewLessons(row3, i, 2, row4, null, roomNumber, groupName);
+            }
             return;
         } else if (row1 == null && row2 == null && row3 == null && row4 == null) {
             log.info("NULL");
