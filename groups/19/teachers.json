@@ -1,0 +1,246 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "teacher_id" : "72",
+    "teacher_name" : "Верхола С.О.",
+    "teacher_full_name" : "Верхола С.О.",
+    "teacher_short_name" : "Верхола С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "72",
+    "teacher_name" : "Верхола С.О.",
+    "teacher_full_name" : "Верхола С.О.",
+    "teacher_short_name" : "Верхола С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "70",
+    "teacher_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_full_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_short_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "70",
+    "teacher_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_full_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_short_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "39",
+    "teacher_name" : "Бондаренко О.П.",
+    "teacher_full_name" : "Бондаренко О.П.",
+    "teacher_short_name" : "Бондаренко О.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "39",
+    "teacher_name" : "Бондаренко О.П.",
+    "teacher_full_name" : "Бондаренко О.П.",
+    "teacher_short_name" : "Бондаренко О.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "71",
+    "teacher_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_full_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_short_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "69",
+    "teacher_name" : "Бєльський А.В.",
+    "teacher_full_name" : "Бєльський А.В.",
+    "teacher_short_name" : "Бєльський А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "69",
+    "teacher_name" : "Бєльський А.В.",
+    "teacher_full_name" : "Бєльський А.В.",
+    "teacher_short_name" : "Бєльський А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "70",
+    "teacher_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_full_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_short_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "70",
+    "teacher_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_full_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_short_name" : "Гуменна В.В.Соломко Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "16",
+    "teacher_name" : "Ковалець І.М.",
+    "teacher_full_name" : "Ковалець І.М.",
+    "teacher_short_name" : "Ковалець І.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "16",
+    "teacher_name" : "Ковалець І.М.",
+    "teacher_full_name" : "Ковалець І.М.",
+    "teacher_short_name" : "Ковалець І.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "71",
+    "teacher_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_full_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_short_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "71",
+    "teacher_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_full_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_short_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "30",
+    "teacher_name" : "Даценко Л.І.",
+    "teacher_full_name" : "Даценко Л.І.",
+    "teacher_short_name" : "Даценко Л.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "30",
+    "teacher_name" : "Даценко Л.І.",
+    "teacher_full_name" : "Даценко Л.І.",
+    "teacher_short_name" : "Даценко Л.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "30",
+    "teacher_name" : "Даценко Л.І.",
+    "teacher_full_name" : "Даценко Л.І.",
+    "teacher_short_name" : "Даценко Л.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "30",
+    "teacher_name" : "Даценко Л.І.",
+    "teacher_full_name" : "Даценко Л.І.",
+    "teacher_short_name" : "Даценко Л.І.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "72",
+    "teacher_name" : "Верхола С.О.",
+    "teacher_full_name" : "Верхола С.О.",
+    "teacher_short_name" : "Верхола С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "72",
+    "teacher_name" : "Верхола С.О.",
+    "teacher_full_name" : "Верхола С.О.",
+    "teacher_short_name" : "Верхола С.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "71",
+    "teacher_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_full_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_short_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "71",
+    "teacher_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_full_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_short_name" : "Соломко Л.А.Федосюк Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "66",
+    "teacher_name" : "Даць С.В..",
+    "teacher_full_name" : "Даць С.В..",
+    "teacher_short_name" : "Даць С.В..",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "66",
+    "teacher_name" : "Даць С.В..",
+    "teacher_full_name" : "Даць С.В..",
+    "teacher_short_name" : "Даць С.В..",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  } ]
+}

@@ -1,0 +1,66 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1712",
+    "group_id" : "52",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Основи автоматизованого проект",
+    "lesson_full_name" : "Основи автоматизованого проект",
+    "lesson_number" : "4",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Чорнний М.А.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "153",
+      "teacher_name" : "Чорнний М.А.",
+      "teacher_full_name" : "Чорнний М.А.",
+      "teacher_short_name" : "Чорнний М.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1713",
+    "group_id" : "52",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Основи автоматизованого проект",
+    "lesson_full_name" : "Основи автоматизованого проект",
+    "lesson_number" : "4",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Чорнний М.А.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "153",
+      "teacher_name" : "Чорнний М.А.",
+      "teacher_full_name" : "Чорнний М.А.",
+      "teacher_short_name" : "Чорнний М.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

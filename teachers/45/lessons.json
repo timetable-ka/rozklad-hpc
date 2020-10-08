@@ -236,5 +236,121 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "470",
+    "group_id" : "15",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізична культура",
+    "lesson_full_name" : "Фізична культура",
+    "lesson_number" : "1",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Янков С.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "45",
+      "teacher_name" : "Янков С.В.",
+      "teacher_full_name" : "Янков С.В.",
+      "teacher_short_name" : "Янков С.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "471",
+    "group_id" : "15",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізична культура",
+    "lesson_full_name" : "Фізична культура",
+    "lesson_number" : "1",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Янков С.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "45",
+      "teacher_name" : "Янков С.В.",
+      "teacher_full_name" : "Янков С.В.",
+      "teacher_short_name" : "Янков С.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "504",
+    "group_id" : "16",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізична культура",
+    "lesson_full_name" : "Фізична культура",
+    "lesson_number" : "2",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Янков С.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "45",
+      "teacher_name" : "Янков С.В.",
+      "teacher_full_name" : "Янков С.В.",
+      "teacher_short_name" : "Янков С.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "505",
+    "group_id" : "16",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізична культура",
+    "lesson_full_name" : "Фізична культура",
+    "lesson_number" : "2",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Янков С.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "45",
+      "teacher_name" : "Янков С.В.",
+      "teacher_full_name" : "Янков С.В.",
+      "teacher_short_name" : "Янков С.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

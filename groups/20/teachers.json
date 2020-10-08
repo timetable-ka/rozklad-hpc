@@ -1,0 +1,267 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "teacher_id" : "73",
+    "teacher_name" : "Савіцький А.В.",
+    "teacher_full_name" : "Савіцький А.В.",
+    "teacher_short_name" : "Савіцький А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "73",
+    "teacher_name" : "Савіцький А.В.",
+    "teacher_full_name" : "Савіцький А.В.",
+    "teacher_short_name" : "Савіцький А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "74",
+    "teacher_name" : "Фримерштейн В.Г.",
+    "teacher_full_name" : "Фримерштейн В.Г.",
+    "teacher_short_name" : "Фримерштейн В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "74",
+    "teacher_name" : "Фримерштейн В.Г.",
+    "teacher_full_name" : "Фримерштейн В.Г.",
+    "teacher_short_name" : "Фримерштейн В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "27",
+    "teacher_name" : "Лункіна О.М.",
+    "teacher_full_name" : "Лункіна О.М.",
+    "teacher_short_name" : "Лункіна О.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "27",
+    "teacher_name" : "Лункіна О.М.",
+    "teacher_full_name" : "Лункіна О.М.",
+    "teacher_short_name" : "Лункіна О.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "75",
+    "teacher_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_full_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_short_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "75",
+    "teacher_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_full_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_short_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "76",
+    "teacher_name" : "Фрімерштейн Г.О.",
+    "teacher_full_name" : "Фрімерштейн Г.О.",
+    "teacher_short_name" : "Фрімерштейн Г.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "76",
+    "teacher_name" : "Фрімерштейн Г.О.",
+    "teacher_full_name" : "Фрімерштейн Г.О.",
+    "teacher_short_name" : "Фрімерштейн Г.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "41",
+    "teacher_name" : "Пахолюк О.В.",
+    "teacher_full_name" : "Пахолюк О.В.",
+    "teacher_short_name" : "Пахолюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "41",
+    "teacher_name" : "Пахолюк О.В.",
+    "teacher_full_name" : "Пахолюк О.В.",
+    "teacher_short_name" : "Пахолюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "77",
+    "teacher_name" : "Ляховець В.В.",
+    "teacher_full_name" : "Ляховець В.В.",
+    "teacher_short_name" : "Ляховець В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "77",
+    "teacher_name" : "Ляховець В.В.",
+    "teacher_full_name" : "Ляховець В.В.",
+    "teacher_short_name" : "Ляховець В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "78",
+    "teacher_name" : "Ребедюк Н.О.",
+    "teacher_full_name" : "Ребедюк Н.О.",
+    "teacher_short_name" : "Ребедюк Н.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "78",
+    "teacher_name" : "Ребедюк Н.О.",
+    "teacher_full_name" : "Ребедюк Н.О.",
+    "teacher_short_name" : "Ребедюк Н.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "75",
+    "teacher_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_full_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_short_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "75",
+    "teacher_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_full_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_short_name" : "Миколюк М.Потапкіна Л.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "76",
+    "teacher_name" : "Фрімерштейн Г.О.",
+    "teacher_full_name" : "Фрімерштейн Г.О.",
+    "teacher_short_name" : "Фрімерштейн Г.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "76",
+    "teacher_name" : "Фрімерштейн Г.О.",
+    "teacher_full_name" : "Фрімерштейн Г.О.",
+    "teacher_short_name" : "Фрімерштейн Г.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "74",
+    "teacher_name" : "Фримерштейн В.Г.",
+    "teacher_full_name" : "Фримерштейн В.Г.",
+    "teacher_short_name" : "Фримерштейн В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "36",
+    "teacher_name" : "Слободзян Л.А.",
+    "teacher_full_name" : "Слободзян Л.А.",
+    "teacher_short_name" : "Слободзян Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "36",
+    "teacher_name" : "Слободзян Л.А.",
+    "teacher_full_name" : "Слободзян Л.А.",
+    "teacher_short_name" : "Слободзян Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "36",
+    "teacher_name" : "Слободзян Л.А.",
+    "teacher_full_name" : "Слободзян Л.А.",
+    "teacher_short_name" : "Слободзян Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "36",
+    "teacher_name" : "Слободзян Л.А.",
+    "teacher_full_name" : "Слободзян Л.А.",
+    "teacher_short_name" : "Слободзян Л.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "18",
+    "teacher_name" : "Супрун Л.В.",
+    "teacher_full_name" : "Супрун Л.В.",
+    "teacher_short_name" : "Супрун Л.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "18",
+    "teacher_name" : "Супрун Л.В.",
+    "teacher_full_name" : "Супрун Л.В.",
+    "teacher_short_name" : "Супрун Л.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "78",
+    "teacher_name" : "Ребедюк Н.О.",
+    "teacher_full_name" : "Ребедюк Н.О.",
+    "teacher_short_name" : "Ребедюк Н.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "78",
+    "teacher_name" : "Ребедюк Н.О.",
+    "teacher_full_name" : "Ребедюк Н.О.",
+    "teacher_short_name" : "Ребедюк Н.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "73",
+    "teacher_name" : "Савіцький А.В.",
+    "teacher_full_name" : "Савіцький А.В.",
+    "teacher_short_name" : "Савіцький А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "73",
+    "teacher_name" : "Савіцький А.В.",
+    "teacher_full_name" : "Савіцький А.В.",
+    "teacher_short_name" : "Савіцький А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "29",
+    "teacher_name" : "Кузнєцова Н.Ю.",
+    "teacher_full_name" : "Кузнєцова Н.Ю.",
+    "teacher_short_name" : "Кузнєцова Н.Ю.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "29",
+    "teacher_name" : "Кузнєцова Н.Ю.",
+    "teacher_full_name" : "Кузнєцова Н.Ю.",
+    "teacher_short_name" : "Кузнєцова Н.Ю.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "77",
+    "teacher_name" : "Ляховець В.В.",
+    "teacher_full_name" : "Ляховець В.В.",
+    "teacher_short_name" : "Ляховець В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "77",
+    "teacher_name" : "Ляховець В.В.",
+    "teacher_full_name" : "Ляховець В.В.",
+    "teacher_short_name" : "Ляховець В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "79",
+    "teacher_name" : "Чернова В.А",
+    "teacher_full_name" : "Чернова В.А",
+    "teacher_short_name" : "Чернова В.А",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "79",
+    "teacher_name" : "Чернова В.А",
+    "teacher_full_name" : "Чернова В.А",
+    "teacher_short_name" : "Чернова В.А",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  } ]
+}

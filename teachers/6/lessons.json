@@ -468,5 +468,614 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "875",
+    "group_id" : "27",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Право",
+    "lesson_full_name" : "Право",
+    "lesson_number" : "1",
+    "lesson_room" : "144а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "27",
+      "room_name" : "144а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "876",
+    "group_id" : "27",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Право",
+    "lesson_full_name" : "Право",
+    "lesson_number" : "1",
+    "lesson_room" : "144а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "27",
+      "room_name" : "144а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "911",
+    "group_id" : "28",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Право",
+    "lesson_full_name" : "Право",
+    "lesson_number" : "2",
+    "lesson_room" : "141",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "28",
+      "room_name" : "141",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "912",
+    "group_id" : "28",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Право",
+    "lesson_full_name" : "Право",
+    "lesson_number" : "2",
+    "lesson_room" : "141",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "28",
+      "room_name" : "141",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1362",
+    "group_id" : "42",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Політологія",
+    "lesson_full_name" : "Політологія",
+    "lesson_number" : "1",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1363",
+    "group_id" : "42",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Політологія",
+    "lesson_full_name" : "Політологія",
+    "lesson_number" : "1",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1384",
+    "group_id" : "42",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Політологія",
+    "lesson_full_name" : "Політологія",
+    "lesson_number" : "4",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1588",
+    "group_id" : "49",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "2",
+    "lesson_room" : "211",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "48",
+      "room_name" : "211",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1589",
+    "group_id" : "49",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "2",
+    "lesson_room" : "211",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "48",
+      "room_name" : "211",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1614",
+    "group_id" : "49",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "1",
+    "lesson_room" : "211",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "48",
+      "room_name" : "211",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1624",
+    "group_id" : "50",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "3",
+    "lesson_room" : "241",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "49",
+      "room_name" : "241",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1625",
+    "group_id" : "50",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "3",
+    "lesson_room" : "241",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "49",
+      "room_name" : "241",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1649",
+    "group_id" : "50",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "1",
+    "lesson_room" : "241",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "49",
+      "room_name" : "241",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1666",
+    "group_id" : "51",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "4",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1667",
+    "group_id" : "51",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "4",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1680",
+    "group_id" : "51",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "4",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1681",
+    "group_id" : "51",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "4",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1696",
+    "group_id" : "52",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "3",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1697",
+    "group_id" : "52",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "3",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1710",
+    "group_id" : "52",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "3",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1711",
+    "group_id" : "52",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Соціологія",
+    "lesson_full_name" : "Соціологія",
+    "lesson_number" : "3",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Малахова Н.Б.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "6",
+      "teacher_name" : "Малахова Н.Б.",
+      "teacher_full_name" : "Малахова Н.Б.",
+      "teacher_short_name" : "Малахова Н.Б.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

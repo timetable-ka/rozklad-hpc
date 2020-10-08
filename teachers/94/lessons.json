@@ -1,0 +1,124 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "827",
+    "group_id" : "25",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Хімія",
+    "lesson_full_name" : "Хімія",
+    "lesson_number" : "2",
+    "lesson_room" : "147",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Суркова Т.О.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "25",
+      "room_name" : "147",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "94",
+      "teacher_name" : "Суркова Т.О.",
+      "teacher_full_name" : "Суркова Т.О.",
+      "teacher_short_name" : "Суркова Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "828",
+    "group_id" : "25",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Хімія",
+    "lesson_full_name" : "Хімія",
+    "lesson_number" : "2",
+    "lesson_room" : "147",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Суркова Т.О.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "25",
+      "room_name" : "147",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "94",
+      "teacher_name" : "Суркова Т.О.",
+      "teacher_full_name" : "Суркова Т.О.",
+      "teacher_short_name" : "Суркова Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "866",
+    "group_id" : "26",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Хімія",
+    "lesson_full_name" : "Хімія",
+    "lesson_number" : "3",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Суркова Т.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "94",
+      "teacher_name" : "Суркова Т.О.",
+      "teacher_full_name" : "Суркова Т.О.",
+      "teacher_short_name" : "Суркова Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "867",
+    "group_id" : "26",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Хімія",
+    "lesson_full_name" : "Хімія",
+    "lesson_number" : "3",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Суркова Т.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "94",
+      "teacher_name" : "Суркова Т.О.",
+      "teacher_full_name" : "Суркова Т.О.",
+      "teacher_short_name" : "Суркова Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

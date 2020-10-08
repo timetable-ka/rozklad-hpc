@@ -1,0 +1,356 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1658",
+    "group_id" : "51",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "3",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1659",
+    "group_id" : "51",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "3",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1668",
+    "group_id" : "51",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "1",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1669",
+    "group_id" : "51",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "1",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1676",
+    "group_id" : "51",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "2",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1677",
+    "group_id" : "51",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "2",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1686",
+    "group_id" : "52",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "2",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1687",
+    "group_id" : "52",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "2",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1692",
+    "group_id" : "52",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "1",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1693",
+    "group_id" : "52",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "1",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1706",
+    "group_id" : "52",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "1",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1707",
+    "group_id" : "52",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "ТЕА",
+    "lesson_full_name" : "ТЕА",
+    "lesson_number" : "1",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пірог Л.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "152",
+      "teacher_name" : "Пірог Л.В.",
+      "teacher_full_name" : "Пірог Л.В.",
+      "teacher_short_name" : "Пірог Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

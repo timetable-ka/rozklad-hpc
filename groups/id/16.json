@@ -1,15 +1,15 @@
 {
-  "statusCode": 200,
-  "timeStamp": 1600071948,
-  "message": "Ok",
-  "debugInfo": null,
-  "meta": null,
-  "data": {
-    "group_id": 16,
-    "group_full_name": "КІ-192",
-    "group_prefix": "кі",
-    "group_okr": "bachelor",
-    "group_type": "extramural",
-    "group_url": "http://google.com"
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : {
+    "group_id" : 16,
+    "group_full_name" : "КІ-192",
+    "group_prefix" : "кі",
+    "group_okr" : "bachelor",
+    "group_type" : "extramural",
+    "group_url" : "http://google.com"
   }
 }

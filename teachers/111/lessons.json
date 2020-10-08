@@ -1,0 +1,472 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1102",
+    "group_id" : "34",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "3",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1103",
+    "group_id" : "34",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "3",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1104",
+    "group_id" : "34",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "4",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1105",
+    "group_id" : "34",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "4",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1124",
+    "group_id" : "34",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "4",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1125",
+    "group_id" : "34",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "4",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1132",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1133",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1134",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1135",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1158",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1159",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1184",
+    "group_id" : "36",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Фінансовий облік",
+    "lesson_full_name" : "Фінансовий облік",
+    "lesson_number" : "1",
+    "lesson_room" : "136а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "35",
+      "room_name" : "136а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1185",
+    "group_id" : "36",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Фінансовий облік",
+    "lesson_full_name" : "Фінансовий облік",
+    "lesson_number" : "1",
+    "lesson_room" : "136а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "35",
+      "room_name" : "136а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1186",
+    "group_id" : "36",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Фінансовий облік",
+    "lesson_full_name" : "Фінансовий облік",
+    "lesson_number" : "2",
+    "lesson_room" : "136а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "35",
+      "room_name" : "136а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1187",
+    "group_id" : "36",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Фінансовий облік",
+    "lesson_full_name" : "Фінансовий облік",
+    "lesson_number" : "2",
+    "lesson_room" : "136а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "35",
+      "room_name" : "136а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

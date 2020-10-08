@@ -236,5 +236,237 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "1502",
+    "group_id" : "46",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "3",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1503",
+    "group_id" : "46",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "3",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1514",
+    "group_id" : "46",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "2",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1515",
+    "group_id" : "46",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "2",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1532",
+    "group_id" : "47",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "2",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1533",
+    "group_id" : "47",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "2",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1546",
+    "group_id" : "47",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "3",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1547",
+    "group_id" : "47",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Господарське право",
+    "lesson_full_name" : "Господарське право",
+    "lesson_number" : "3",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матіяш Т.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "17",
+      "teacher_name" : "Матіяш Т.О.",
+      "teacher_full_name" : "Матіяш Т.О.",
+      "teacher_short_name" : "Матіяш Т.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

@@ -220,5 +220,77 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "1204",
+    "group_id" : "37",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Іноземна мова",
+    "lesson_full_name" : "Іноземна мова",
+    "lesson_number" : "1",
+    "lesson_room" : "234",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гадзира Л.М., Соломна О.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "36",
+      "room_name" : "234",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "55",
+      "teacher_name" : "Гадзира Л.М.",
+      "teacher_full_name" : "Гадзира Л.М.",
+      "teacher_short_name" : "Гадзира Л.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "50",
+      "teacher_name" : "Соломна О.В.",
+      "teacher_full_name" : "Соломна О.В.",
+      "teacher_short_name" : "Соломна О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1205",
+    "group_id" : "37",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Іноземна мова",
+    "lesson_full_name" : "Іноземна мова",
+    "lesson_number" : "1",
+    "lesson_room" : "234",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гадзира Л.М., Соломна О.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "36",
+      "room_name" : "234",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "55",
+      "teacher_name" : "Гадзира Л.М.",
+      "teacher_full_name" : "Гадзира Л.М.",
+      "teacher_short_name" : "Гадзира Л.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "50",
+      "teacher_name" : "Соломна О.В.",
+      "teacher_full_name" : "Соломна О.В.",
+      "teacher_short_name" : "Соломна О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

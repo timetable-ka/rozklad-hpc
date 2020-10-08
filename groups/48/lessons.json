@@ -1,1029 +1,1022 @@
 {
-  "statusCode": 200,
-  "timeStamp": 1600071948,
-  "message": "Ok",
-  "debugInfo": null,
-  "meta": null,
-  "data": [
-    {
-      "lesson_id": "779",
-      "group_id": "48",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Фізичне виховання",
-      "lesson_full_name": "Фізичне виховання",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Пахолюк О.В.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "36",
-          "teacher_name": "Пахолюк О.В.",
-          "teacher_full_name": "Пахолюк О.В.",
-          "teacher_short_name": "Пахолюк О.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "780",
-      "group_id": "48",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Фізичне виховання",
-      "lesson_full_name": "Фізичне виховання",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Пахолюк О.В.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "36",
-          "teacher_name": "Пахолюк О.В.",
-          "teacher_full_name": "Пахолюк О.В.",
-          "teacher_short_name": "Пахолюк О.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "781",
-      "group_id": "48",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "782",
-      "group_id": "48",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "785",
-      "group_id": "48",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Технологічні основи програмування",
-      "lesson_full_name": "Технологічні основи програмування",
-      "lesson_number": "4",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Койфман А.М.",
-      "lesson_week": "1",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "88",
-          "teacher_name": "Койфман А.М.",
-          "teacher_full_name": "Койфман А.М.",
-          "teacher_short_name": "Койфман А.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "786",
-      "group_id": "48",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Технологічні основи програмування",
-      "lesson_full_name": "Технологічні основи програмування",
-      "lesson_number": "4",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Койфман А.М.",
-      "lesson_week": "2",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "88",
-          "teacher_name": "Койфман А.М.",
-          "teacher_full_name": "Койфман А.М.",
-          "teacher_short_name": "Койфман А.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "787",
-      "group_id": "48",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "788",
-      "group_id": "48",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "789",
-      "group_id": "48",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Осн автоматиз проектування",
-      "lesson_full_name": "Осн автоматиз проектування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "790",
-      "group_id": "48",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Осн автоматиз проектування",
-      "lesson_full_name": "Осн автоматиз проектування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "791",
-      "group_id": "48",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Технологічні основи програмування",
-      "lesson_full_name": "Технологічні основи програмування",
-      "lesson_number": "3",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Койфман А.М.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "88",
-          "teacher_name": "Койфман А.М.",
-          "teacher_full_name": "Койфман А.М.",
-          "teacher_short_name": "Койфман А.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "792",
-      "group_id": "48",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Технологічні основи програмування",
-      "lesson_full_name": "Технологічні основи програмування",
-      "lesson_number": "3",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Койфман А.М.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "88",
-          "teacher_name": "Койфман А.М.",
-          "teacher_full_name": "Койфман А.М.",
-          "teacher_short_name": "Койфман А.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "795",
-      "group_id": "48",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "796",
-      "group_id": "48",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "797",
-      "group_id": "48",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Осн автоматиз проектування",
-      "lesson_full_name": "Осн автоматиз проектування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "798",
-      "group_id": "48",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Осн автоматиз проектування",
-      "lesson_full_name": "Осн автоматиз проектування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "799",
-      "group_id": "48",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Основи управління виробництвом",
-      "lesson_full_name": "Основи управління виробництвом",
-      "lesson_number": "3",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Кайдановська О.М.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "72",
-          "teacher_name": "Кайдановська О.М.",
-          "teacher_full_name": "Кайдановська О.М.",
-          "teacher_short_name": "Кайдановська О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "800",
-      "group_id": "48",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Основи управління виробництвом",
-      "lesson_full_name": "Основи управління виробництвом",
-      "lesson_number": "3",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Кайдановська О.М.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "72",
-          "teacher_name": "Кайдановська О.М.",
-          "teacher_full_name": "Кайдановська О.М.",
-          "teacher_short_name": "Кайдановська О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "801",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Фізична культура",
-      "lesson_full_name": "Фізична культура",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Пахолюк О.В.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "36",
-          "teacher_name": "Пахолюк О.В.",
-          "teacher_full_name": "Пахолюк О.В.",
-          "teacher_short_name": "Пахолюк О.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "802",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Фізична культура",
-      "lesson_full_name": "Фізична культура",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Пахолюк О.В.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "36",
-          "teacher_name": "Пахолюк О.В.",
-          "teacher_full_name": "Пахолюк О.В.",
-          "teacher_short_name": "Пахолюк О.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "803",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "804",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Технологія машинобудування",
-      "lesson_full_name": "Технологія машинобудування",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "805",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Осн автоматиз проектування",
-      "lesson_full_name": "Осн автоматиз проектування",
-      "lesson_number": "3",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Торопов Є.Є.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "87",
-          "teacher_name": "Торопов Є.Є.",
-          "teacher_full_name": "Торопов Є.Є.",
-          "teacher_short_name": "Торопов Є.Є.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "806",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Економіка",
-      "lesson_full_name": "Економіка",
-      "lesson_number": "3",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Громик О.М.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "79",
-          "teacher_name": "Громик О.М.",
-          "teacher_full_name": "Громик О.М.",
-          "teacher_short_name": "Громик О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "807",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Технологічні основи програмування",
-      "lesson_full_name": "Технологічні основи програмування",
-      "lesson_number": "4",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Койфман А.М.",
-      "lesson_week": "1",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "88",
-          "teacher_name": "Койфман А.М.",
-          "teacher_full_name": "Койфман А.М.",
-          "teacher_short_name": "Койфман А.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "808",
-      "group_id": "48",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Технологічні основи програмування",
-      "lesson_full_name": "Технологічні основи програмування",
-      "lesson_number": "4",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Койфман А.М.",
-      "lesson_week": "2",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "88",
-          "teacher_name": "Койфман А.М.",
-          "teacher_full_name": "Койфман А.М.",
-          "teacher_short_name": "Койфман А.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "809",
-      "group_id": "48",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Гідропневмоавтоматика",
-      "lesson_full_name": "Гідропневмоавтоматика",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Матвєєв О.В.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "89",
-          "teacher_name": "Матвєєв О.В.",
-          "teacher_full_name": "Матвєєв О.В.",
-          "teacher_short_name": "Матвєєв О.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "810",
-      "group_id": "48",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Гідропневмоавтоматика",
-      "lesson_full_name": "Гідропневмоавтоматика",
-      "lesson_number": "1",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Матвєєв О.В.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "89",
-          "teacher_name": "Матвєєв О.В.",
-          "teacher_full_name": "Матвєєв О.В.",
-          "teacher_short_name": "Матвєєв О.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "811",
-      "group_id": "48",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Економіка",
-      "lesson_full_name": "Економіка",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Громик О.М.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "79",
-          "teacher_name": "Громик О.М.",
-          "teacher_full_name": "Громик О.М.",
-          "teacher_short_name": "Громик О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "812",
-      "group_id": "48",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Економіка",
-      "lesson_full_name": "Економіка",
-      "lesson_number": "2",
-      "lesson_room": "236",
-      "lesson_type": "Лек",
-      "teacher_name": "Громик О.М.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "26",
-          "room_name": "236",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "79",
-          "teacher_name": "Громик О.М.",
-          "teacher_full_name": "Громик О.М.",
-          "teacher_short_name": "Громик О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    }
-  ]
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1552",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пахолюк О.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "41",
+      "teacher_name" : "Пахолюк О.В.",
+      "teacher_full_name" : "Пахолюк О.В.",
+      "teacher_short_name" : "Пахолюк О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1553",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пахолюк О.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "41",
+      "teacher_name" : "Пахолюк О.В.",
+      "teacher_full_name" : "Пахолюк О.В.",
+      "teacher_short_name" : "Пахолюк О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1554",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1555",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1556",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Комп моделювання",
+    "lesson_full_name" : "Комп моделювання",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Логінов М.Г., Гордєєв О.А.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "124",
+      "teacher_name" : "Логінов М.Г.",
+      "teacher_full_name" : "Логінов М.Г.",
+      "teacher_short_name" : "Логінов М.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "117",
+      "teacher_name" : "Гордєєв О.А.",
+      "teacher_full_name" : "Гордєєв О.А.",
+      "teacher_short_name" : "Гордєєв О.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1557",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Комп моделювання",
+    "lesson_full_name" : "Комп моделювання",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Логінов М.Г., Гордєєв О.А.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "124",
+      "teacher_name" : "Логінов М.Г.",
+      "teacher_full_name" : "Логінов М.Г.",
+      "teacher_short_name" : "Логінов М.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "117",
+      "teacher_name" : "Гордєєв О.А.",
+      "teacher_full_name" : "Гордєєв О.А.",
+      "teacher_short_name" : "Гордєєв О.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1558",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Технологічні основи програмування",
+    "lesson_full_name" : "Технологічні основи програмування",
+    "lesson_number" : "4",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Койфман А.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "150",
+      "teacher_name" : "Койфман А.М.",
+      "teacher_full_name" : "Койфман А.М.",
+      "teacher_short_name" : "Койфман А.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1559",
+    "group_id" : "48",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Технологічні основи програмування",
+    "lesson_full_name" : "Технологічні основи програмування",
+    "lesson_number" : "4",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Койфман А.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "150",
+      "teacher_name" : "Койфман А.М.",
+      "teacher_full_name" : "Койфман А.М.",
+      "teacher_short_name" : "Койфман А.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1560",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1561",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1562",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Осн автоматиз проектування",
+    "lesson_full_name" : "Осн автоматиз проектування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1563",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Осн автоматиз проектування",
+    "lesson_full_name" : "Осн автоматиз проектування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1564",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Технологічні основи програмування",
+    "lesson_full_name" : "Технологічні основи програмування",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Койфман А.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "150",
+      "teacher_name" : "Койфман А.М.",
+      "teacher_full_name" : "Койфман А.М.",
+      "teacher_short_name" : "Койфман А.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1565",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Технологічні основи програмування",
+    "lesson_full_name" : "Технологічні основи програмування",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Койфман А.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "150",
+      "teacher_name" : "Койфман А.М.",
+      "teacher_full_name" : "Койфман А.М.",
+      "teacher_short_name" : "Койфман А.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1566",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Комп моделювання",
+    "lesson_full_name" : "Комп моделювання",
+    "lesson_number" : "4",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Логінов М.Г., Гордєєв О.А.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "124",
+      "teacher_name" : "Логінов М.Г.",
+      "teacher_full_name" : "Логінов М.Г.",
+      "teacher_short_name" : "Логінов М.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "117",
+      "teacher_name" : "Гордєєв О.А.",
+      "teacher_full_name" : "Гордєєв О.А.",
+      "teacher_short_name" : "Гордєєв О.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1567",
+    "group_id" : "48",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Комп моделювання",
+    "lesson_full_name" : "Комп моделювання",
+    "lesson_number" : "4",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Логінов М.Г., Гордєєв О.А.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "124",
+      "teacher_name" : "Логінов М.Г.",
+      "teacher_full_name" : "Логінов М.Г.",
+      "teacher_short_name" : "Логінов М.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "117",
+      "teacher_name" : "Гордєєв О.А.",
+      "teacher_full_name" : "Гордєєв О.А.",
+      "teacher_short_name" : "Гордєєв О.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1568",
+    "group_id" : "48",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1569",
+    "group_id" : "48",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1570",
+    "group_id" : "48",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Осн автоматиз проектування",
+    "lesson_full_name" : "Осн автоматиз проектування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1571",
+    "group_id" : "48",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Осн автоматиз проектування",
+    "lesson_full_name" : "Осн автоматиз проектування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1572",
+    "group_id" : "48",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Основи управління виробництвом",
+    "lesson_full_name" : "Основи управління виробництвом",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кайдановська О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "145",
+      "teacher_name" : "Кайдановська О.М.",
+      "teacher_full_name" : "Кайдановська О.М.",
+      "teacher_short_name" : "Кайдановська О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1573",
+    "group_id" : "48",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Основи управління виробництвом",
+    "lesson_full_name" : "Основи управління виробництвом",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кайдановська О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "145",
+      "teacher_name" : "Кайдановська О.М.",
+      "teacher_full_name" : "Кайдановська О.М.",
+      "teacher_short_name" : "Кайдановська О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1574",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пахолюк О.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "41",
+      "teacher_name" : "Пахолюк О.В.",
+      "teacher_full_name" : "Пахолюк О.В.",
+      "teacher_short_name" : "Пахолюк О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1575",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Пахолюк О.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "41",
+      "teacher_name" : "Пахолюк О.В.",
+      "teacher_full_name" : "Пахолюк О.В.",
+      "teacher_short_name" : "Пахолюк О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1576",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1577",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Технологія машинобудування",
+    "lesson_full_name" : "Технологія машинобудування",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1578",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Осн автоматиз проектування",
+    "lesson_full_name" : "Осн автоматиз проектування",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Торопов Є.Є.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "149",
+      "teacher_name" : "Торопов Є.Є.",
+      "teacher_full_name" : "Торопов Є.Є.",
+      "teacher_short_name" : "Торопов Є.Є.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1579",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1580",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Технологічні основи програмування",
+    "lesson_full_name" : "Технологічні основи програмування",
+    "lesson_number" : "4",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Койфман А.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "150",
+      "teacher_name" : "Койфман А.М.",
+      "teacher_full_name" : "Койфман А.М.",
+      "teacher_short_name" : "Койфман А.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1581",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Технологічні основи програмування",
+    "lesson_full_name" : "Технологічні основи програмування",
+    "lesson_number" : "4",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Койфман А.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "150",
+      "teacher_name" : "Койфман А.М.",
+      "teacher_full_name" : "Койфман А.М.",
+      "teacher_short_name" : "Койфман А.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1582",
+    "group_id" : "48",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1583",
+    "group_id" : "48",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1584",
+    "group_id" : "48",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Гідропневмоавтоматика",
+    "lesson_full_name" : "Гідропневмоавтоматика",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матвєєв О.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "121",
+      "teacher_name" : "Матвєєв О.В.",
+      "teacher_full_name" : "Матвєєв О.В.",
+      "teacher_short_name" : "Матвєєв О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1585",
+    "group_id" : "48",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Гідропневмоавтоматика",
+    "lesson_full_name" : "Гідропневмоавтоматика",
+    "lesson_number" : "2",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Матвєєв О.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "121",
+      "teacher_name" : "Матвєєв О.В.",
+      "teacher_full_name" : "Матвєєв О.В.",
+      "teacher_short_name" : "Матвєєв О.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
 }

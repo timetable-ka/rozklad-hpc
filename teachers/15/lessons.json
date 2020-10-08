@@ -112,5 +112,329 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "460",
+    "group_id" : "15",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Програмування",
+    "lesson_full_name" : "Програмування",
+    "lesson_number" : "4",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б,      Стецюк П.П.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "63",
+      "teacher_name" : "     Стецюк П.П.",
+      "teacher_full_name" : "     Стецюк П.П.",
+      "teacher_short_name" : "     Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "461",
+    "group_id" : "15",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Програмування",
+    "lesson_full_name" : "Програмування",
+    "lesson_number" : "4",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б,      Стецюк П.П.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "63",
+      "teacher_name" : "     Стецюк П.П.",
+      "teacher_full_name" : "     Стецюк П.П.",
+      "teacher_short_name" : "     Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "468",
+    "group_id" : "15",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Програмування",
+    "lesson_full_name" : "Програмування",
+    "lesson_number" : "4",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б,      Стецюк П.П.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "63",
+      "teacher_name" : "     Стецюк П.П.",
+      "teacher_full_name" : "     Стецюк П.П.",
+      "teacher_short_name" : "     Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "489",
+    "group_id" : "16",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Програмування",
+    "lesson_full_name" : "Програмування",
+    "lesson_number" : "2",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б,      Стецюк П.П.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "63",
+      "teacher_name" : "     Стецюк П.П.",
+      "teacher_full_name" : "     Стецюк П.П.",
+      "teacher_short_name" : "     Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "516",
+    "group_id" : "16",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Вища математика",
+    "lesson_full_name" : "Вища математика",
+    "lesson_number" : "1",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б, Стецюк П.П.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "68",
+      "teacher_name" : "Стецюк П.П.",
+      "teacher_full_name" : "Стецюк П.П.",
+      "teacher_short_name" : "Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "517",
+    "group_id" : "16",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Вища математика",
+    "lesson_full_name" : "Вища математика",
+    "lesson_number" : "1",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б, Стецюк П.П.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "68",
+      "teacher_name" : "Стецюк П.П.",
+      "teacher_full_name" : "Стецюк П.П.",
+      "teacher_short_name" : "Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "524",
+    "group_id" : "17",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Програмування",
+    "lesson_full_name" : "Програмування",
+    "lesson_number" : "2",
+    "lesson_room" : "139а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б,      Стецюк П.П.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "17",
+      "room_name" : "139а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "63",
+      "teacher_name" : "     Стецюк П.П.",
+      "teacher_full_name" : "     Стецюк П.П.",
+      "teacher_short_name" : "     Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "552",
+    "group_id" : "17",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Програмування ",
+    "lesson_full_name" : "Програмування ",
+    "lesson_number" : "2",
+    "lesson_room" : "139а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б, Стецюк П.П.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "17",
+      "room_name" : "139а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "68",
+      "teacher_name" : "Стецюк П.П.",
+      "teacher_full_name" : "Стецюк П.П.",
+      "teacher_short_name" : "Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "553",
+    "group_id" : "17",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Програмування ",
+    "lesson_full_name" : "Програмування ",
+    "lesson_number" : "2",
+    "lesson_room" : "139а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ілаш Н.Б, Стецюк П.П.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "17",
+      "room_name" : "139а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "15",
+      "teacher_name" : "Ілаш Н.Б",
+      "teacher_full_name" : "Ілаш Н.Б",
+      "teacher_short_name" : "Ілаш Н.Б",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "68",
+      "teacher_name" : "Стецюк П.П.",
+      "teacher_full_name" : "Стецюк П.П.",
+      "teacher_short_name" : "Стецюк П.П.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

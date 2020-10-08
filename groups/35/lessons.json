@@ -1,0 +1,964 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1132",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1133",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1134",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1135",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1136",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Бойко А.А.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "103",
+      "teacher_name" : "Бойко А.А.",
+      "teacher_full_name" : "Бойко А.А.",
+      "teacher_short_name" : "Бойко А.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1137",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Бойко А.А.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "103",
+      "teacher_name" : "Бойко А.А.",
+      "teacher_full_name" : "Бойко А.А.",
+      "teacher_short_name" : "Бойко А.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1138",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Іноземна мова",
+    "lesson_full_name" : "Іноземна мова",
+    "lesson_number" : "4",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Чернова В.А.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "40",
+      "teacher_name" : "Чернова В.А.",
+      "teacher_full_name" : "Чернова В.А.",
+      "teacher_short_name" : "Чернова В.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1139",
+    "group_id" : "35",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Іноземна мова",
+    "lesson_full_name" : "Іноземна мова",
+    "lesson_number" : "4",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Чернова В.А.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "40",
+      "teacher_name" : "Чернова В.А.",
+      "teacher_full_name" : "Чернова В.А.",
+      "teacher_short_name" : "Чернова В.А.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1140",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка підприємства",
+    "lesson_full_name" : "Економіка підприємства",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Валявіна О.Т.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "113",
+      "teacher_name" : "Валявіна О.Т.",
+      "teacher_full_name" : "Валявіна О.Т.",
+      "teacher_short_name" : "Валявіна О.Т.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1141",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка підприємства",
+    "lesson_full_name" : "Економіка підприємства",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Валявіна О.Т.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "113",
+      "teacher_name" : "Валявіна О.Т.",
+      "teacher_full_name" : "Валявіна О.Т.",
+      "teacher_short_name" : "Валявіна О.Т.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1142",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Інформаційні системи",
+    "lesson_full_name" : "Інформаційні системи",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Потапкіна Л.В., Мельник В.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "93",
+      "teacher_name" : "Потапкіна Л.В.",
+      "teacher_full_name" : "Потапкіна Л.В.",
+      "teacher_short_name" : "Потапкіна Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "5",
+      "teacher_name" : "Мельник В.М.",
+      "teacher_full_name" : "Мельник В.М.",
+      "teacher_short_name" : "Мельник В.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1143",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Інформаційні системи",
+    "lesson_full_name" : "Інформаційні системи",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Потапкіна Л.В., Мельник В.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "93",
+      "teacher_name" : "Потапкіна Л.В.",
+      "teacher_full_name" : "Потапкіна Л.В.",
+      "teacher_short_name" : "Потапкіна Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "5",
+      "teacher_name" : "Мельник В.М.",
+      "teacher_full_name" : "Мельник В.М.",
+      "teacher_short_name" : "Мельник В.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1144",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1145",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1146",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Інформаційні системи",
+    "lesson_full_name" : "Інформаційні системи",
+    "lesson_number" : "4",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Потапкіна Л.В., Мельник В.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "93",
+      "teacher_name" : "Потапкіна Л.В.",
+      "teacher_full_name" : "Потапкіна Л.В.",
+      "teacher_short_name" : "Потапкіна Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "5",
+      "teacher_name" : "Мельник В.М.",
+      "teacher_full_name" : "Мельник В.М.",
+      "teacher_short_name" : "Мельник В.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1147",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Інформаційні системи",
+    "lesson_full_name" : "Інформаційні системи",
+    "lesson_number" : "4",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Потапкіна Л.В., Мельник В.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "93",
+      "teacher_name" : "Потапкіна Л.В.",
+      "teacher_full_name" : "Потапкіна Л.В.",
+      "teacher_short_name" : "Потапкіна Л.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "5",
+      "teacher_name" : "Мельник В.М.",
+      "teacher_full_name" : "Мельник В.М.",
+      "teacher_short_name" : "Мельник В.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1148",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1149",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1150",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Етика ділового спілкування",
+    "lesson_full_name" : "Етика ділового спілкування",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Докторук О.Д",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "114",
+      "teacher_name" : "Докторук О.Д",
+      "teacher_full_name" : "Докторук О.Д",
+      "teacher_short_name" : "Докторук О.Д",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1151",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Етика ділового спілкування",
+    "lesson_full_name" : "Етика ділового спілкування",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Докторук О.Д",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "114",
+      "teacher_name" : "Докторук О.Д",
+      "teacher_full_name" : "Докторук О.Д",
+      "teacher_short_name" : "Докторук О.Д",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1152",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Свіцельський М.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "56",
+      "teacher_name" : "Свіцельський М.О.",
+      "teacher_full_name" : "Свіцельський М.О.",
+      "teacher_short_name" : "Свіцельський М.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1153",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Свіцельський М.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "56",
+      "teacher_name" : "Свіцельський М.О.",
+      "teacher_full_name" : "Свіцельський М.О.",
+      "teacher_short_name" : "Свіцельський М.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1154",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1155",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1156",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка підприємства",
+    "lesson_full_name" : "Економіка підприємства",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Валявіна О.Т.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "113",
+      "teacher_name" : "Валявіна О.Т.",
+      "teacher_full_name" : "Валявіна О.Т.",
+      "teacher_short_name" : "Валявіна О.Т.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1157",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка підприємства",
+    "lesson_full_name" : "Економіка підприємства",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Валявіна О.Т.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "113",
+      "teacher_name" : "Валявіна О.Т.",
+      "teacher_full_name" : "Валявіна О.Т.",
+      "teacher_short_name" : "Валявіна О.Т.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1158",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1159",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Бухгалтерський облік",
+    "lesson_full_name" : "Бухгалтерський облік",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гавронська Н.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "111",
+      "teacher_name" : "Гавронська Н.М.",
+      "teacher_full_name" : "Гавронська Н.М.",
+      "teacher_short_name" : "Гавронська Н.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1160",
+    "group_id" : "35",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Свіцельський М.О.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "56",
+      "teacher_name" : "Свіцельський М.О.",
+      "teacher_full_name" : "Свіцельський М.О.",
+      "teacher_short_name" : "Свіцельський М.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1161",
+    "group_id" : "35",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Свіцельський М.О.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "56",
+      "teacher_name" : "Свіцельський М.О.",
+      "teacher_full_name" : "Свіцельський М.О.",
+      "teacher_short_name" : "Свіцельський М.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1162",
+    "group_id" : "35",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Інтелектуальна власність",
+    "lesson_full_name" : "Інтелектуальна власність",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Фримерштейн В.Г.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "74",
+      "teacher_name" : "Фримерштейн В.Г.",
+      "teacher_full_name" : "Фримерштейн В.Г.",
+      "teacher_short_name" : "Фримерштейн В.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1163",
+    "group_id" : "35",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Інтелектуальна власність",
+    "lesson_full_name" : "Інтелектуальна власність",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Фримерштейн В.Г.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "74",
+      "teacher_name" : "Фримерштейн В.Г.",
+      "teacher_full_name" : "Фримерштейн В.Г.",
+      "teacher_short_name" : "Фримерштейн В.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

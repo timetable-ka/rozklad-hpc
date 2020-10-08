@@ -1,0 +1,1081 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1106",
+    "group_id" : "34",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1107",
+    "group_id" : "34",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1120",
+    "group_id" : "34",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "2",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1121",
+    "group_id" : "34",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "2",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1130",
+    "group_id" : "34",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "3",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1131",
+    "group_id" : "34",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "3",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1144",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1145",
+    "group_id" : "35",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "3",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1148",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1149",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1154",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1155",
+    "group_id" : "35",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Організація виробництва",
+    "lesson_full_name" : "Організація виробництва",
+    "lesson_number" : "1",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1298",
+    "group_id" : "40",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "1",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1299",
+    "group_id" : "40",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "1",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1324",
+    "group_id" : "40",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "3",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1325",
+    "group_id" : "40",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "3",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1346",
+    "group_id" : "41",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "2",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1347",
+    "group_id" : "41",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "2",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1354",
+    "group_id" : "41",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "4",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1355",
+    "group_id" : "41",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "4",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1579",
+    "group_id" : "48",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "3",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1582",
+    "group_id" : "48",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1583",
+    "group_id" : "48",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "1",
+    "lesson_room" : "236",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "47",
+      "room_name" : "236",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1596",
+    "group_id" : "49",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "2",
+    "lesson_room" : "211",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "48",
+      "room_name" : "211",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1597",
+    "group_id" : "49",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "2",
+    "lesson_room" : "211",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "48",
+      "room_name" : "211",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1600",
+    "group_id" : "49",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "4",
+    "lesson_room" : "211",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "48",
+      "room_name" : "211",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1601",
+    "group_id" : "49",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "4",
+    "lesson_room" : "211",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "48",
+      "room_name" : "211",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1626",
+    "group_id" : "50",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "4",
+    "lesson_room" : "241",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "49",
+      "room_name" : "241",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1627",
+    "group_id" : "50",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "4",
+    "lesson_room" : "241",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "49",
+      "room_name" : "241",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1650",
+    "group_id" : "50",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "2",
+    "lesson_room" : "241",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "49",
+      "room_name" : "241",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1651",
+    "group_id" : "50",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Економіка",
+    "lesson_full_name" : "Економіка",
+    "lesson_number" : "2",
+    "lesson_room" : "241",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "49",
+      "room_name" : "241",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1656",
+    "group_id" : "51",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Організація та планув підпр.",
+    "lesson_full_name" : "Організація та планув підпр.",
+    "lesson_number" : "2",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1657",
+    "group_id" : "51",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Організація та планув підпр.",
+    "lesson_full_name" : "Організація та планув підпр.",
+    "lesson_number" : "2",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1673",
+    "group_id" : "51",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Організація та планув підпр.",
+    "lesson_full_name" : "Організація та планув підпр.",
+    "lesson_number" : "3",
+    "lesson_room" : "239",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "50",
+      "room_name" : "239",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1688",
+    "group_id" : "52",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Організація та планув підпр.",
+    "lesson_full_name" : "Організація та планув підпр.",
+    "lesson_number" : "3",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1689",
+    "group_id" : "52",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Організація та планув підпр.",
+    "lesson_full_name" : "Організація та планув підпр.",
+    "lesson_number" : "3",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1704",
+    "group_id" : "52",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Організація та планув підпр.",
+    "lesson_full_name" : "Організація та планув підпр.",
+    "lesson_number" : "3",
+    "lesson_room" : "222",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Громик О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "51",
+      "room_name" : "222",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "112",
+      "teacher_name" : "Громик О.М.",
+      "teacher_full_name" : "Громик О.М.",
+      "teacher_short_name" : "Громик О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

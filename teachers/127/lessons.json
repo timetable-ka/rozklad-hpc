@@ -1,0 +1,356 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1300",
+    "group_id" : "40",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "2",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1301",
+    "group_id" : "40",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "2",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1306",
+    "group_id" : "40",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "1",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1307",
+    "group_id" : "40",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "1",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1316",
+    "group_id" : "40",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "2",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1317",
+    "group_id" : "40",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "2",
+    "lesson_room" : "237",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "39",
+      "room_name" : "237",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1330",
+    "group_id" : "41",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "1",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1331",
+    "group_id" : "41",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "1",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1338",
+    "group_id" : "41",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "2",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1339",
+    "group_id" : "41",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "2",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1344",
+    "group_id" : "41",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "1",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1345",
+    "group_id" : "41",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Автомобільні двигуни",
+    "lesson_full_name" : "Автомобільні двигуни",
+    "lesson_number" : "1",
+    "lesson_room" : "242",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Нижник О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "40",
+      "room_name" : "242",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "127",
+      "teacher_name" : "Нижник О.М.",
+      "teacher_full_name" : "Нижник О.М.",
+      "teacher_short_name" : "Нижник О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

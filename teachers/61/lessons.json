@@ -1,349 +1,356 @@
 {
-  "statusCode": 200,
-  "timeStamp": 1600071948,
-  "message": "Ok",
-  "debugInfo": null,
-  "meta": null,
-  "data": [
-    {
-      "lesson_id": "462",
-      "group_id": "42",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "3",
-      "lesson_room": "221",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "17",
-          "room_name": "221",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "463",
-      "group_id": "42",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "3",
-      "lesson_room": "221",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "17",
-          "room_name": "221",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "464",
-      "group_id": "42",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "4",
-      "lesson_room": "221",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "1",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "17",
-          "room_name": "221",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "465",
-      "group_id": "42",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "4",
-      "lesson_room": "221",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "2",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "17",
-          "room_name": "221",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "486",
-      "group_id": "42",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "3",
-      "lesson_room": "221",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "17",
-          "room_name": "221",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "491",
-      "group_id": "53",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "1",
-      "lesson_room": "231",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "18",
-          "room_name": "231",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "492",
-      "group_id": "53",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "1",
-      "lesson_room": "231",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "18",
-          "room_name": "231",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "493",
-      "group_id": "53",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "2",
-      "lesson_room": "231",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "18",
-          "room_name": "231",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "494",
-      "group_id": "53",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "2",
-      "lesson_room": "231",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "18",
-          "room_name": "231",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "515",
-      "group_id": "53",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "3",
-      "lesson_room": "231",
-      "lesson_type": "Лек",
-      "teacher_name": "Безрук В.В.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "18",
-          "room_name": "231",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "61",
-          "teacher_name": "Безрук В.В.",
-          "teacher_full_name": "Безрук В.В.",
-          "teacher_short_name": "Безрук В.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    }
-  ]
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "454",
+    "group_id" : "15",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "1",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "455",
+    "group_id" : "15",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "1",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "456",
+    "group_id" : "15",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українськам література",
+    "lesson_full_name" : "Українськам література",
+    "lesson_number" : "2",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "457",
+    "group_id" : "15",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українськам література",
+    "lesson_full_name" : "Українськам література",
+    "lesson_number" : "2",
+    "lesson_room" : "141а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "15",
+      "room_name" : "141а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "490",
+    "group_id" : "16",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "3",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "491",
+    "group_id" : "16",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "3",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "492",
+    "group_id" : "16",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українськам література",
+    "lesson_full_name" : "Українськам література",
+    "lesson_number" : "4",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "493",
+    "group_id" : "16",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Українськам література",
+    "lesson_full_name" : "Українськам література",
+    "lesson_number" : "4",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "578",
+    "group_id" : "18",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "2",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "579",
+    "group_id" : "18",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "2",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "580",
+    "group_id" : "18",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Українськам література",
+    "lesson_full_name" : "Українськам література",
+    "lesson_number" : "3",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "581",
+    "group_id" : "18",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Українськам література",
+    "lesson_full_name" : "Українськам література",
+    "lesson_number" : "3",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Тарасюк В.Ф.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "61",
+      "teacher_name" : "Тарасюк В.Ф.",
+      "teacher_full_name" : "Тарасюк В.Ф.",
+      "teacher_short_name" : "Тарасюк В.Ф.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
 }

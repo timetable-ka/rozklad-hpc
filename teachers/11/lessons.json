@@ -468,5 +468,63 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "838",
+    "group_id" : "26",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Алгебра",
+    "lesson_full_name" : "Алгебра",
+    "lesson_number" : "4",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Халавчук Ю.С.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "11",
+      "teacher_name" : "Халавчук Ю.С.",
+      "teacher_full_name" : "Халавчук Ю.С.",
+      "teacher_short_name" : "Халавчук Ю.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "839",
+    "group_id" : "26",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Алгебра",
+    "lesson_full_name" : "Алгебра",
+    "lesson_number" : "4",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Халавчук Ю.С.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "11",
+      "teacher_name" : "Халавчук Ю.С.",
+      "teacher_full_name" : "Халавчук Ю.С.",
+      "teacher_short_name" : "Халавчук Ю.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

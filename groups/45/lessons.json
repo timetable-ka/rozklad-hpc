@@ -1,1225 +1,1055 @@
 {
-  "statusCode": 200,
-  "timeStamp": 1600071948,
-  "message": "Ok",
-  "debugInfo": null,
-  "meta": null,
-  "data": [
-    {
-      "lesson_id": "556",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Надійність, діагностика",
-      "lesson_full_name": "Надійність, діагностика",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Ковальчук С.О.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "557",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Надійність, діагностика",
-      "lesson_full_name": "Надійність, діагностика",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Ковальчук С.О.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "558",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Конструювання прогр забезпечення",
-      "lesson_full_name": "Конструювання прогр забезпечення",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "559",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Конструювання прогр забезпечення",
-      "lesson_full_name": "Конструювання прогр забезпечення",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "560",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Архітектура та проектування ПЗ",
-      "lesson_full_name": "Архітектура та проектування ПЗ",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Гутник І.І., Ковальчук С.О.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "68",
-          "teacher_name": "Гутник І.І.",
-          "teacher_full_name": "Гутник І.І.",
-          "teacher_short_name": "Гутник І.І.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "561",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Архітектура та проектування ПЗ",
-      "lesson_full_name": "Архітектура та проектування ПЗ",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Гутник І.І., Ковальчук С.О.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "68",
-          "teacher_name": "Гутник І.І.",
-          "teacher_full_name": "Гутник І.І.",
-          "teacher_short_name": "Гутник І.І.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "562",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "4",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "1",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "563",
-      "group_id": "45",
-      "day_number": "1",
-      "day_name": "Понеділок",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "4",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "2",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "564",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Основи філософських знань",
-      "lesson_full_name": "Основи філософських знань",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Багас Л.М.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "38",
-          "teacher_name": "Багас Л.М.",
-          "teacher_full_name": "Багас Л.М.",
-          "teacher_short_name": "Багас Л.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "565",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Основи філософських знань",
-      "lesson_full_name": "Основи філософських знань",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Багас Л.М.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "38",
-          "teacher_name": "Багас Л.М.",
-          "teacher_full_name": "Багас Л.М.",
-          "teacher_short_name": "Багас Л.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "566",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Людино-машинна взаємодія",
-      "lesson_full_name": "Людино-машинна взаємодія",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Кондратюк Є.С., Щуцький С.В.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "567",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Людино-машинна взаємодія",
-      "lesson_full_name": "Людино-машинна взаємодія",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Кондратюк Є.С., Щуцький С.В.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "568",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Економіка та менеджмент ПІ",
-      "lesson_full_name": "Економіка та менеджмент ПІ",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Бодарецька О.М.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "70",
-          "teacher_name": "Бодарецька О.М.",
-          "teacher_full_name": "Бодарецька О.М.",
-          "teacher_short_name": "Бодарецька О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "569",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Економіка та менеджмент ПІ",
-      "lesson_full_name": "Економіка та менеджмент ПІ",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Бодарецька О.М.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "70",
-          "teacher_name": "Бодарецька О.М.",
-          "teacher_full_name": "Бодарецька О.М.",
-          "teacher_short_name": "Бодарецька О.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "570",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Фізичне виховання",
-      "lesson_full_name": "Фізичне виховання",
-      "lesson_number": "4",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Бєльський А.В.",
-      "lesson_week": "1",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "69",
-          "teacher_name": "Бєльський А.В.",
-          "teacher_full_name": "Бєльський А.В.",
-          "teacher_short_name": "Бєльський А.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "571",
-      "group_id": "45",
-      "day_number": "2",
-      "day_name": "Вівторок",
-      "lesson_name": "Фізичне виховання",
-      "lesson_full_name": "Фізичне виховання",
-      "lesson_number": "4",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Бєльський А.В.",
-      "lesson_week": "2",
-      "time_start": "13:20",
-      "time_end": "14:40",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "69",
-          "teacher_name": "Бєльський А.В.",
-          "teacher_full_name": "Бєльський А.В.",
-          "teacher_short_name": "Бєльський А.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "572",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Конструювання прогр забезпечення",
-      "lesson_full_name": "Конструювання прогр забезпечення",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "573",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Конструювання прогр забезпечення",
-      "lesson_full_name": "Конструювання прогр забезпечення",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "574",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Ліцензування та сертифікація ПП",
-      "lesson_full_name": "Ліцензування та сертифікація ПП",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Фримерштейн В.Г.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "71",
-          "teacher_name": "Фримерштейн В.Г.",
-          "teacher_full_name": "Фримерштейн В.Г.",
-          "teacher_short_name": "Фримерштейн В.Г.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "575",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Ліцензування та сертифікація ПП",
-      "lesson_full_name": "Ліцензування та сертифікація ПП",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Фримерштейн В.Г.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "71",
-          "teacher_name": "Фримерштейн В.Г.",
-          "teacher_full_name": "Фримерштейн В.Г.",
-          "teacher_short_name": "Фримерштейн В.Г.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "576",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Архітектура та проектування ПЗ",
-      "lesson_full_name": "Архітектура та проектування ПЗ",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Гутник І.І., Ковальчук С.О.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "68",
-          "teacher_name": "Гутник І.І.",
-          "teacher_full_name": "Гутник І.І.",
-          "teacher_short_name": "Гутник І.І.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "577",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Архітектура та проектування ПЗ",
-      "lesson_full_name": "Архітектура та проектування ПЗ",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Гутник І.І., Ковальчук С.О.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "68",
-          "teacher_name": "Гутник І.І.",
-          "teacher_full_name": "Гутник І.І.",
-          "teacher_short_name": "Гутник І.І.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "578",
-      "group_id": "45",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Людино-машинна взаємодія",
-      "lesson_full_name": "Людино-машинна взаємодія",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Кондратюк Є.С., Щуцький С.В.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "579",
-      "group_id": "45",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Людино-машинна взаємодія",
-      "lesson_full_name": "Людино-машинна взаємодія",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Кондратюк Є.С., Щуцький С.В.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "580",
-      "group_id": "45",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Конструювання прогр забезпечення",
-      "lesson_full_name": "Конструювання прогр забезпечення",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "581",
-      "group_id": "45",
-      "day_number": "4",
-      "day_name": "Четверг",
-      "lesson_name": "Основи філософських знань",
-      "lesson_full_name": "Основи філософських знань",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Багас Л.М.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "38",
-          "teacher_name": "Багас Л.М.",
-          "teacher_full_name": "Багас Л.М.",
-          "teacher_short_name": "Багас Л.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "582",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Охорона праці",
-      "lesson_full_name": "Охорона праці",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Перетятко І.М.",
-      "lesson_week": "1",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "19",
-          "teacher_name": "Перетятко І.М.",
-          "teacher_full_name": "Перетятко І.М.",
-          "teacher_short_name": "Перетятко І.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "583",
-      "group_id": "45",
-      "day_number": "3",
-      "day_name": "Середа",
-      "lesson_name": "Комп системи і мережі ",
-      "lesson_full_name": "Комп системи і мережі ",
-      "lesson_number": "3",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Щуцький С.В., Кондратюк Є.С.",
-      "lesson_week": "2",
-      "time_start": "11:50",
-      "time_end": "13:10",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "66",
-          "teacher_name": "Щуцький С.В.",
-          "teacher_full_name": "Щуцький С.В.",
-          "teacher_short_name": "Щуцький С.В.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        },
-        {
-          "teacher_id": "67",
-          "teacher_name": "Кондратюк Є.С.",
-          "teacher_full_name": "Кондратюк Є.С.",
-          "teacher_short_name": "Кондратюк Є.С.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "584",
-      "group_id": "45",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Охорона праці",
-      "lesson_full_name": "Охорона праці",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Перетятко І.М.",
-      "lesson_week": "1",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "19",
-          "teacher_name": "Перетятко І.М.",
-          "teacher_full_name": "Перетятко І.М.",
-          "teacher_short_name": "Перетятко І.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "585",
-      "group_id": "45",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Охорона праці",
-      "lesson_full_name": "Охорона праці",
-      "lesson_number": "1",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Перетятко І.М.",
-      "lesson_week": "2",
-      "time_start": "08:30",
-      "time_end": "09:50",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "19",
-          "teacher_name": "Перетятко І.М.",
-          "teacher_full_name": "Перетятко І.М.",
-          "teacher_short_name": "Перетятко І.М.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "586",
-      "group_id": "45",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Надійність, діагностика",
-      "lesson_full_name": "Надійність, діагностика",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Ковальчук С.О.",
-      "lesson_week": "1",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    },
-    {
-      "lesson_id": "587",
-      "group_id": "45",
-      "day_number": "5",
-      "day_name": "Пятниця",
-      "lesson_name": "Надійність, діагностика",
-      "lesson_full_name": "Надійність, діагностика",
-      "lesson_number": "2",
-      "lesson_room": "232",
-      "lesson_type": "Лек",
-      "teacher_name": "Ковальчук С.О.",
-      "lesson_week": "2",
-      "time_start": "10:00",
-      "time_end": "11:20",
-      "rate": null,
-      "rooms": [
-        {
-          "room_id": "19",
-          "room_name": "232",
-          "room_latitude": "49.4330545",
-          "room_longitude": "27.0043892"
-        }
-      ],
-      "teachers": [
-        {
-          "teacher_id": "62",
-          "teacher_name": "Ковальчук С.О.",
-          "teacher_full_name": "Ковальчук С.О.",
-          "teacher_short_name": "Ковальчук С.О.",
-          "teacher_url": "http://google.com",
-          "teacher_rating": "5.000"
-        }
-      ]
-    }
-  ]
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1460",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Програмування в Інтернет",
+    "lesson_full_name" : "Програмування в Інтернет",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ковальчук С.О.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1461",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Програмування в Інтернет",
+    "lesson_full_name" : "Програмування в Інтернет",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ковальчук С.О.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1462",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Конструювання прогр забезпечення",
+    "lesson_full_name" : "Конструювання прогр забезпечення",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1463",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Конструювання прогр забезпечення",
+    "lesson_full_name" : "Конструювання прогр забезпечення",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1464",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Архітектура та проектування ПЗ",
+    "lesson_full_name" : "Архітектура та проектування ПЗ",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гутник І.І., Ковальчук С.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "110",
+      "teacher_name" : "Гутник І.І.",
+      "teacher_full_name" : "Гутник І.І.",
+      "teacher_short_name" : "Гутник І.І.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1465",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Архітектура та проектування ПЗ",
+    "lesson_full_name" : "Архітектура та проектування ПЗ",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гутник І.І., Ковальчук С.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "110",
+      "teacher_name" : "Гутник І.І.",
+      "teacher_full_name" : "Гутник І.І.",
+      "teacher_short_name" : "Гутник І.І.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1466",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Основи командної розробки ПЗ",
+    "lesson_full_name" : "Основи командної розробки ПЗ",
+    "lesson_number" : "4",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1467",
+    "group_id" : "45",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Основи командної розробки ПЗ",
+    "lesson_full_name" : "Основи командної розробки ПЗ",
+    "lesson_number" : "4",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1468",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Основи філософських знань",
+    "lesson_full_name" : "Основи філософських знань",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Багас Л.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "43",
+      "teacher_name" : "Багас Л.М.",
+      "teacher_full_name" : "Багас Л.М.",
+      "teacher_short_name" : "Багас Л.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1469",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Основи філософських знань",
+    "lesson_full_name" : "Основи філософських знань",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Багас Л.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "43",
+      "teacher_name" : "Багас Л.М.",
+      "teacher_full_name" : "Багас Л.М.",
+      "teacher_short_name" : "Багас Л.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1470",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Людино-машинна взаємодія",
+    "lesson_full_name" : "Людино-машинна взаємодія",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кондратюк Є.С., Щуцький С.В. ",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "142",
+      "teacher_name" : "Щуцький С.В. ",
+      "teacher_full_name" : "Щуцький С.В. ",
+      "teacher_short_name" : "Щуцький С.В. ",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1471",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Людино-машинна взаємодія",
+    "lesson_full_name" : "Людино-машинна взаємодія",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кондратюк Є.С., Щуцький С.В. ",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "142",
+      "teacher_name" : "Щуцький С.В. ",
+      "teacher_full_name" : "Щуцький С.В. ",
+      "teacher_short_name" : "Щуцький С.В. ",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1472",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка та менеджмент ПІ",
+    "lesson_full_name" : "Економіка та менеджмент ПІ",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Бодарецька О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "141",
+      "teacher_name" : "Бодарецька О.М.",
+      "teacher_full_name" : "Бодарецька О.М.",
+      "teacher_short_name" : "Бодарецька О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1473",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Економіка та менеджмент ПІ",
+    "lesson_full_name" : "Економіка та менеджмент ПІ",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Бодарецька О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "141",
+      "teacher_name" : "Бодарецька О.М.",
+      "teacher_full_name" : "Бодарецька О.М.",
+      "teacher_short_name" : "Бодарецька О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1474",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "4",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Бєльський А.В.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "69",
+      "teacher_name" : "Бєльський А.В.",
+      "teacher_full_name" : "Бєльський А.В.",
+      "teacher_short_name" : "Бєльський А.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1475",
+    "group_id" : "45",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізичне виховання",
+    "lesson_full_name" : "Фізичне виховання",
+    "lesson_number" : "4",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Бєльський А.В.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "69",
+      "teacher_name" : "Бєльський А.В.",
+      "teacher_full_name" : "Бєльський А.В.",
+      "teacher_short_name" : "Бєльський А.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1476",
+    "group_id" : "45",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Конструювання прогр забезпечення",
+    "lesson_full_name" : "Конструювання прогр забезпечення",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1477",
+    "group_id" : "45",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Конструювання прогр забезпечення",
+    "lesson_full_name" : "Конструювання прогр забезпечення",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1478",
+    "group_id" : "45",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Ліцензування та сертифікація ПП",
+    "lesson_full_name" : "Ліцензування та сертифікація ПП",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Фримерштейн В.Г.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "74",
+      "teacher_name" : "Фримерштейн В.Г.",
+      "teacher_full_name" : "Фримерштейн В.Г.",
+      "teacher_short_name" : "Фримерштейн В.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1479",
+    "group_id" : "45",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Ліцензування та сертифікація ПП",
+    "lesson_full_name" : "Ліцензування та сертифікація ПП",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Фримерштейн В.Г.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "74",
+      "teacher_name" : "Фримерштейн В.Г.",
+      "teacher_full_name" : "Фримерштейн В.Г.",
+      "teacher_short_name" : "Фримерштейн В.Г.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1480",
+    "group_id" : "45",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Архітектура та проектування ПЗ",
+    "lesson_full_name" : "Архітектура та проектування ПЗ",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гутник І.І., Ковальчук С.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "110",
+      "teacher_name" : "Гутник І.І.",
+      "teacher_full_name" : "Гутник І.І.",
+      "teacher_short_name" : "Гутник І.І.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1481",
+    "group_id" : "45",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Архітектура та проектування ПЗ",
+    "lesson_full_name" : "Архітектура та проектування ПЗ",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Гутник І.І., Ковальчук С.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "110",
+      "teacher_name" : "Гутник І.І.",
+      "teacher_full_name" : "Гутник І.І.",
+      "teacher_short_name" : "Гутник І.І.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1482",
+    "group_id" : "45",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Людино-машинна взаємодія",
+    "lesson_full_name" : "Людино-машинна взаємодія",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кондратюк Є.С., Щуцький С.В. ",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "142",
+      "teacher_name" : "Щуцький С.В. ",
+      "teacher_full_name" : "Щуцький С.В. ",
+      "teacher_short_name" : "Щуцький С.В. ",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1483",
+    "group_id" : "45",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Людино-машинна взаємодія",
+    "lesson_full_name" : "Людино-машинна взаємодія",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кондратюк Є.С., Щуцький С.В. ",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "142",
+      "teacher_name" : "Щуцький С.В. ",
+      "teacher_full_name" : "Щуцький С.В. ",
+      "teacher_short_name" : "Щуцький С.В. ",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1484",
+    "group_id" : "45",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Конструювання прогр забезпечення",
+    "lesson_full_name" : "Конструювання прогр забезпечення",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1485",
+    "group_id" : "45",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Основи філософських знань",
+    "lesson_full_name" : "Основи філософських знань",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Багас Л.М, 232",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "136",
+      "teacher_name" : "Багас Л.М",
+      "teacher_full_name" : "Багас Л.М",
+      "teacher_short_name" : "Багас Л.М",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "144",
+      "teacher_name" : "232",
+      "teacher_full_name" : "232",
+      "teacher_short_name" : "232",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1486",
+    "group_id" : "45",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Охорона праці",
+    "lesson_full_name" : "Охорона праці",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Перетятко І.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "21",
+      "teacher_name" : "Перетятко І.М.",
+      "teacher_full_name" : "Перетятко І.М.",
+      "teacher_short_name" : "Перетятко І.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1487",
+    "group_id" : "45",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Основи командної розробки ПЗ",
+    "lesson_full_name" : "Основи командної розробки ПЗ",
+    "lesson_number" : "3",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Щуцький С.В, Кондратюк Є.С.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "139",
+      "teacher_name" : "Щуцький С.В",
+      "teacher_full_name" : "Щуцький С.В",
+      "teacher_short_name" : "Щуцький С.В",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "140",
+      "teacher_name" : "Кондратюк Є.С.",
+      "teacher_full_name" : "Кондратюк Є.С.",
+      "teacher_short_name" : "Кондратюк Є.С.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1488",
+    "group_id" : "45",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Охорона праці",
+    "lesson_full_name" : "Охорона праці",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Перетятко І.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "21",
+      "teacher_name" : "Перетятко І.М.",
+      "teacher_full_name" : "Перетятко І.М.",
+      "teacher_short_name" : "Перетятко І.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1489",
+    "group_id" : "45",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Охорона праці",
+    "lesson_full_name" : "Охорона праці",
+    "lesson_number" : "1",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Перетятко І.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "21",
+      "teacher_name" : "Перетятко І.М.",
+      "teacher_full_name" : "Перетятко І.М.",
+      "teacher_short_name" : "Перетятко І.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1490",
+    "group_id" : "45",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Програмування в Інтернет",
+    "lesson_full_name" : "Програмування в Інтернет",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ковальчук С.О.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1491",
+    "group_id" : "45",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Програмування в Інтернет",
+    "lesson_full_name" : "Програмування в Інтернет",
+    "lesson_number" : "2",
+    "lesson_room" : "232",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ковальчук С.О.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "44",
+      "room_name" : "232",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "134",
+      "teacher_name" : "Ковальчук С.О.",
+      "teacher_full_name" : "Ковальчук С.О.",
+      "teacher_short_name" : "Ковальчук С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
 }

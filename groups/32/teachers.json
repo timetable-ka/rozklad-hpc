@@ -1,0 +1,330 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "69",
+    "teacher_name" : "Бєльський А.В.",
+    "teacher_full_name" : "Бєльський А.В.",
+    "teacher_short_name" : "Бєльський А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "69",
+    "teacher_name" : "Бєльський А.В.",
+    "teacher_full_name" : "Бєльський А.В.",
+    "teacher_short_name" : "Бєльський А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "16",
+    "teacher_name" : "Ковалець І.М.",
+    "teacher_full_name" : "Ковалець І.М.",
+    "teacher_short_name" : "Ковалець І.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "16",
+    "teacher_name" : "Ковалець І.М.",
+    "teacher_full_name" : "Ковалець І.М.",
+    "teacher_short_name" : "Ковалець І.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "108",
+    "teacher_name" : "Гуменна В.В.",
+    "teacher_full_name" : "Гуменна В.В.",
+    "teacher_short_name" : "Гуменна В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "108",
+    "teacher_name" : "Гуменна В.В.",
+    "teacher_full_name" : "Гуменна В.В.",
+    "teacher_short_name" : "Гуменна В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "104",
+    "teacher_name" : "Задніпровський В.Г.",
+    "teacher_full_name" : "Задніпровський В.Г.",
+    "teacher_short_name" : "Задніпровський В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "104",
+    "teacher_name" : "Задніпровський В.Г.",
+    "teacher_full_name" : "Задніпровський В.Г.",
+    "teacher_short_name" : "Задніпровський В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "108",
+    "teacher_name" : "Гуменна В.В.",
+    "teacher_full_name" : "Гуменна В.В.",
+    "teacher_short_name" : "Гуменна В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "108",
+    "teacher_name" : "Гуменна В.В.",
+    "teacher_full_name" : "Гуменна В.В.",
+    "teacher_short_name" : "Гуменна В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "42",
+    "teacher_name" : "Желавська І.А.",
+    "teacher_full_name" : "Желавська І.А.",
+    "teacher_short_name" : "Желавська І.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "42",
+    "teacher_name" : "Желавська І.А.",
+    "teacher_full_name" : "Желавська І.А.",
+    "teacher_short_name" : "Желавська І.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "69",
+    "teacher_name" : "Бєльський А.В.",
+    "teacher_full_name" : "Бєльський А.В.",
+    "teacher_short_name" : "Бєльський А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "69",
+    "teacher_name" : "Бєльський А.В.",
+    "teacher_full_name" : "Бєльський А.В.",
+    "teacher_short_name" : "Бєльський А.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "108",
+    "teacher_name" : "Гуменна В.В.",
+    "teacher_full_name" : "Гуменна В.В.",
+    "teacher_short_name" : "Гуменна В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "108",
+    "teacher_name" : "Гуменна В.В.",
+    "teacher_full_name" : "Гуменна В.В.",
+    "teacher_short_name" : "Гуменна В.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "104",
+    "teacher_name" : "Задніпровський В.Г.",
+    "teacher_full_name" : "Задніпровський В.Г.",
+    "teacher_short_name" : "Задніпровський В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "104",
+    "teacher_name" : "Задніпровський В.Г.",
+    "teacher_full_name" : "Задніпровський В.Г.",
+    "teacher_short_name" : "Задніпровський В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "42",
+    "teacher_name" : "Желавська І.А.",
+    "teacher_full_name" : "Желавська І.А.",
+    "teacher_short_name" : "Желавська І.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "26",
+    "teacher_name" : "Студницька Л.М.",
+    "teacher_full_name" : "Студницька Л.М.",
+    "teacher_short_name" : "Студницька Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "104",
+    "teacher_name" : "Задніпровський В.Г.",
+    "teacher_full_name" : "Задніпровський В.Г.",
+    "teacher_short_name" : "Задніпровський В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "104",
+    "teacher_name" : "Задніпровський В.Г.",
+    "teacher_full_name" : "Задніпровський В.Г.",
+    "teacher_short_name" : "Задніпровський В.Г.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "28",
+    "teacher_name" : "Микитюк О.В.",
+    "teacher_full_name" : "Микитюк О.В.",
+    "teacher_short_name" : "Микитюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "28",
+    "teacher_name" : "Микитюк О.В.",
+    "teacher_full_name" : "Микитюк О.В.",
+    "teacher_short_name" : "Микитюк О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "109",
+    "teacher_name" : "Федосюк  Г.В.",
+    "teacher_full_name" : "Федосюк  Г.В.",
+    "teacher_short_name" : "Федосюк  Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "109",
+    "teacher_name" : "Федосюк  Г.В.",
+    "teacher_full_name" : "Федосюк  Г.В.",
+    "teacher_short_name" : "Федосюк  Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "107",
+    "teacher_name" : "Григоровський Є.С.",
+    "teacher_full_name" : "Григоровський Є.С.",
+    "teacher_short_name" : "Григоровський Є.С.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "109",
+    "teacher_name" : "Федосюк  Г.В.",
+    "teacher_full_name" : "Федосюк  Г.В.",
+    "teacher_short_name" : "Федосюк  Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "109",
+    "teacher_name" : "Федосюк  Г.В.",
+    "teacher_full_name" : "Федосюк  Г.В.",
+    "teacher_short_name" : "Федосюк  Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "109",
+    "teacher_name" : "Федосюк  Г.В.",
+    "teacher_full_name" : "Федосюк  Г.В.",
+    "teacher_short_name" : "Федосюк  Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "109",
+    "teacher_name" : "Федосюк  Г.В.",
+    "teacher_full_name" : "Федосюк  Г.В.",
+    "teacher_short_name" : "Федосюк  Г.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  } ]
+}

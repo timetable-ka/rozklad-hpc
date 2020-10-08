@@ -497,5 +497,237 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "772",
+    "group_id" : "24",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "3",
+    "lesson_room" : "147а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "24",
+      "room_name" : "147а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "773",
+    "group_id" : "24",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "3",
+    "lesson_room" : "147а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "24",
+      "room_name" : "147а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "871",
+    "group_id" : "27",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "3",
+    "lesson_room" : "144а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "27",
+      "room_name" : "144а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "872",
+    "group_id" : "27",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "3",
+    "lesson_room" : "144а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "27",
+      "room_name" : "144а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "895",
+    "group_id" : "27",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "4",
+    "lesson_room" : "144а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "27",
+      "room_name" : "144а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "903",
+    "group_id" : "28",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "1",
+    "lesson_room" : "141",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "28",
+      "room_name" : "141",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "904",
+    "group_id" : "28",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "2",
+    "lesson_room" : "141",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "28",
+      "room_name" : "141",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "905",
+    "group_id" : "28",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "2",
+    "lesson_room" : "141",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Дуда Л.О.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "28",
+      "room_name" : "141",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "47",
+      "teacher_name" : "Дуда Л.О.",
+      "teacher_full_name" : "Дуда Л.О.",
+      "teacher_short_name" : "Дуда Л.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

@@ -294,5 +294,295 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "488",
+    "group_id" : "16",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "2",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "502",
+    "group_id" : "16",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "1",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "503",
+    "group_id" : "16",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "1",
+    "lesson_room" : "126",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "16",
+      "room_name" : "126",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "525",
+    "group_id" : "17",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "2",
+    "lesson_room" : "139а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "17",
+      "room_name" : "139а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "540",
+    "group_id" : "17",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "2",
+    "lesson_room" : "139а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "17",
+      "room_name" : "139а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "541",
+    "group_id" : "17",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "2",
+    "lesson_room" : "139а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "17",
+      "room_name" : "139а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "807",
+    "group_id" : "25",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "3",
+    "lesson_room" : "147",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "25",
+      "room_name" : "147",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "808",
+    "group_id" : "25",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "3",
+    "lesson_room" : "147",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "25",
+      "room_name" : "147",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "846",
+    "group_id" : "26",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "4",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "847",
+    "group_id" : "26",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Фізика",
+    "lesson_full_name" : "Фізика",
+    "lesson_number" : "4",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Палій Н.В.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "53",
+      "teacher_name" : "Палій Н.В.",
+      "teacher_full_name" : "Палій Н.В.",
+      "teacher_short_name" : "Палій Н.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

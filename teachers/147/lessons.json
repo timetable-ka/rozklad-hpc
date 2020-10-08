@@ -1,0 +1,356 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1498",
+    "group_id" : "46",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "1",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1499",
+    "group_id" : "46",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "1",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1500",
+    "group_id" : "46",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_full_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_number" : "2",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1501",
+    "group_id" : "46",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_full_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_number" : "2",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1508",
+    "group_id" : "46",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_full_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_number" : "2",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1509",
+    "group_id" : "46",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_full_name" : "Зовнішньоекономічна діяльн підпр",
+    "lesson_number" : "2",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1512",
+    "group_id" : "46",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "1",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1513",
+    "group_id" : "46",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "1",
+    "lesson_room" : "133",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "45",
+      "room_name" : "133",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1530",
+    "group_id" : "47",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "1",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1531",
+    "group_id" : "47",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "1",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1544",
+    "group_id" : "47",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "2",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1545",
+    "group_id" : "47",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Менеджмент",
+    "lesson_full_name" : "Менеджмент",
+    "lesson_number" : "2",
+    "lesson_room" : "138",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Овчарук В.В.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "46",
+      "room_name" : "138",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "147",
+      "teacher_name" : "Овчарук В.В.",
+      "teacher_full_name" : "Овчарук В.В.",
+      "teacher_short_name" : "Овчарук В.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

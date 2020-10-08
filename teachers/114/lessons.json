@@ -1,0 +1,124 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1112",
+    "group_id" : "34",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Етика ділового спілкування",
+    "lesson_full_name" : "Етика ділового спілкування",
+    "lesson_number" : "1",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Докторук О.Д",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "114",
+      "teacher_name" : "Докторук О.Д",
+      "teacher_full_name" : "Докторук О.Д",
+      "teacher_short_name" : "Докторук О.Д",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1113",
+    "group_id" : "34",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Етика ділового спілкування",
+    "lesson_full_name" : "Етика ділового спілкування",
+    "lesson_number" : "1",
+    "lesson_room" : "149а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Докторук О.Д",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "33",
+      "room_name" : "149а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "114",
+      "teacher_name" : "Докторук О.Д",
+      "teacher_full_name" : "Докторук О.Д",
+      "teacher_short_name" : "Докторук О.Д",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1150",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Етика ділового спілкування",
+    "lesson_full_name" : "Етика ділового спілкування",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Докторук О.Д",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "114",
+      "teacher_name" : "Докторук О.Д",
+      "teacher_full_name" : "Докторук О.Д",
+      "teacher_short_name" : "Докторук О.Д",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1151",
+    "group_id" : "35",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Етика ділового спілкування",
+    "lesson_full_name" : "Етика ділового спілкування",
+    "lesson_number" : "2",
+    "lesson_room" : "138а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Докторук О.Д",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "34",
+      "room_name" : "138а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "114",
+      "teacher_name" : "Докторук О.Д",
+      "teacher_full_name" : "Докторук О.Д",
+      "teacher_short_name" : "Докторук О.Д",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

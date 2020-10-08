@@ -352,5 +352,121 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "850",
+    "group_id" : "26",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "2",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кульбаба С.О.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "8",
+      "teacher_name" : "Кульбаба С.О.",
+      "teacher_full_name" : "Кульбаба С.О.",
+      "teacher_short_name" : "Кульбаба С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "851",
+    "group_id" : "26",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Українська мова",
+    "lesson_full_name" : "Українська мова",
+    "lesson_number" : "2",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кульбаба С.О.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "8",
+      "teacher_name" : "Кульбаба С.О.",
+      "teacher_full_name" : "Кульбаба С.О.",
+      "teacher_short_name" : "Кульбаба С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "852",
+    "group_id" : "26",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Українська література",
+    "lesson_full_name" : "Українська література",
+    "lesson_number" : "3",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кульбаба С.О.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "8",
+      "teacher_name" : "Кульбаба С.О.",
+      "teacher_full_name" : "Кульбаба С.О.",
+      "teacher_short_name" : "Кульбаба С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "853",
+    "group_id" : "26",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Українська література",
+    "lesson_full_name" : "Українська література",
+    "lesson_number" : "3",
+    "lesson_room" : "143а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Кульбаба С.О.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "26",
+      "room_name" : "143а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "8",
+      "teacher_name" : "Кульбаба С.О.",
+      "teacher_full_name" : "Кульбаба С.О.",
+      "teacher_short_name" : "Кульбаба С.О.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

@@ -1,0 +1,704 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "960",
+    "group_id" : "29",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "3",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "961",
+    "group_id" : "29",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "3",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "966",
+    "group_id" : "29",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "3",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "967",
+    "group_id" : "29",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "3",
+    "lesson_room" : "231а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "18",
+      "room_name" : "231а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "970",
+    "group_id" : "30",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "244а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "29",
+      "room_name" : "244а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "971",
+    "group_id" : "30",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "244а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "29",
+      "room_name" : "244а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "978",
+    "group_id" : "30",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "244а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "29",
+      "room_name" : "244а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "979",
+    "group_id" : "30",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "244а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "29",
+      "room_name" : "244а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1000",
+    "group_id" : "31",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "247",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "30",
+      "room_name" : "247",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1001",
+    "group_id" : "31",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "247",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "30",
+      "room_name" : "247",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1008",
+    "group_id" : "31",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "247",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "30",
+      "room_name" : "247",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1009",
+    "group_id" : "31",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "247",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "30",
+      "room_name" : "247",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1376",
+    "group_id" : "42",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "4",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1377",
+    "group_id" : "42",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "4",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1387",
+    "group_id" : "42",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1388",
+    "group_id" : "42",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1393",
+    "group_id" : "42",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1394",
+    "group_id" : "42",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "2",
+    "lesson_room" : "221",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "10:00",
+    "time_end" : "11:20",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "41",
+      "room_name" : "221",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1405",
+    "group_id" : "43",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "3",
+    "lesson_room" : "233",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "42",
+      "room_name" : "233",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1406",
+    "group_id" : "43",
+    "day_number" : "2",
+    "day_name" : "Вівторок",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "3",
+    "lesson_room" : "233",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "11:50",
+    "time_end" : "13:10",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "42",
+      "room_name" : "233",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1415",
+    "group_id" : "43",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "233",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "42",
+      "room_name" : "233",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1416",
+    "group_id" : "43",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "233",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "42",
+      "room_name" : "233",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1422",
+    "group_id" : "43",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "233",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "42",
+      "room_name" : "233",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "1423",
+    "group_id" : "43",
+    "day_number" : "5",
+    "day_name" : "Пятниця",
+    "lesson_name" : "Захист інформації",
+    "lesson_full_name" : "Захист інформації",
+    "lesson_number" : "1",
+    "lesson_room" : "233",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Марчук О.М.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "42",
+      "room_name" : "233",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "105",
+      "teacher_name" : "Марчук О.М.",
+      "teacher_full_name" : "Марчук О.М.",
+      "teacher_short_name" : "Марчук О.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}

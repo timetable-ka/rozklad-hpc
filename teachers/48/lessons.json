@@ -220,5 +220,149 @@
       "teacher_url" : "http://google.com",
       "teacher_rating" : "5.000"
     } ]
+  }, {
+    "lesson_id" : "766",
+    "group_id" : "24",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Нарисна геометрія",
+    "lesson_full_name" : "Нарисна геометрія",
+    "lesson_number" : "4",
+    "lesson_room" : "147а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Остроушко О.Ю., Федосюк Г.В.",
+    "lesson_week" : "1",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "24",
+      "room_name" : "147а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "84",
+      "teacher_name" : "Остроушко О.Ю.",
+      "teacher_full_name" : "Остроушко О.Ю.",
+      "teacher_short_name" : "Остроушко О.Ю.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "48",
+      "teacher_name" : "Федосюк Г.В.",
+      "teacher_full_name" : "Федосюк Г.В.",
+      "teacher_short_name" : "Федосюк Г.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "767",
+    "group_id" : "24",
+    "day_number" : "1",
+    "day_name" : "Понеділок",
+    "lesson_name" : "Нарисна геометрія",
+    "lesson_full_name" : "Нарисна геометрія",
+    "lesson_number" : "4",
+    "lesson_room" : "147а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Остроушко О.Ю., Федосюк Г.В.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "24",
+      "room_name" : "147а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "84",
+      "teacher_name" : "Остроушко О.Ю.",
+      "teacher_full_name" : "Остроушко О.Ю.",
+      "teacher_short_name" : "Остроушко О.Ю.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "48",
+      "teacher_name" : "Федосюк Г.В.",
+      "teacher_full_name" : "Федосюк Г.В.",
+      "teacher_short_name" : "Федосюк Г.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "776",
+    "group_id" : "24",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Нарисна геометрія",
+    "lesson_full_name" : "Нарисна геометрія",
+    "lesson_number" : "1",
+    "lesson_room" : "147а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Остроушко О.Ю., Федосюк Г.В.",
+    "lesson_week" : "1",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "24",
+      "room_name" : "147а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "84",
+      "teacher_name" : "Остроушко О.Ю.",
+      "teacher_full_name" : "Остроушко О.Ю.",
+      "teacher_short_name" : "Остроушко О.Ю.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "48",
+      "teacher_name" : "Федосюк Г.В.",
+      "teacher_full_name" : "Федосюк Г.В.",
+      "teacher_short_name" : "Федосюк Г.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  }, {
+    "lesson_id" : "777",
+    "group_id" : "24",
+    "day_number" : "3",
+    "day_name" : "Середа",
+    "lesson_name" : "Нарисна геометрія",
+    "lesson_full_name" : "Нарисна геометрія",
+    "lesson_number" : "1",
+    "lesson_room" : "147а",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Остроушко О.Ю., Федосюк Г.В.",
+    "lesson_week" : "2",
+    "time_start" : "08:30",
+    "time_end" : "09:50",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "24",
+      "room_name" : "147а",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "84",
+      "teacher_name" : "Остроушко О.Ю.",
+      "teacher_full_name" : "Остроушко О.Ю.",
+      "teacher_short_name" : "Остроушко О.Ю.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "48",
+      "teacher_name" : "Федосюк Г.В.",
+      "teacher_full_name" : "Федосюк Г.В.",
+      "teacher_short_name" : "Федосюк Г.В.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
   } ]
 }

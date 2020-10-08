@@ -1,0 +1,295 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "86",
+    "teacher_name" : "Докторук В.П.",
+    "teacher_full_name" : "Докторук В.П.",
+    "teacher_short_name" : "Докторук В.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "86",
+    "teacher_name" : "Докторук В.П.",
+    "teacher_full_name" : "Докторук В.П.",
+    "teacher_short_name" : "Докторук В.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "43",
+    "teacher_name" : "Багас Л.М.",
+    "teacher_full_name" : "Багас Л.М.",
+    "teacher_short_name" : "Багас Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "43",
+    "teacher_name" : "Багас Л.М.",
+    "teacher_full_name" : "Багас Л.М.",
+    "teacher_short_name" : "Багас Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "89",
+    "teacher_name" : "Гавронський В.Є.",
+    "teacher_full_name" : "Гавронський В.Є.",
+    "teacher_short_name" : "Гавронський В.Є.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "89",
+    "teacher_name" : "Гавронський В.Є.",
+    "teacher_full_name" : "Гавронський В.Є.",
+    "teacher_short_name" : "Гавронський В.Є.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "55",
+    "teacher_name" : "Гадзира Л.М.",
+    "teacher_full_name" : "Гадзира Л.М.",
+    "teacher_short_name" : "Гадзира Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "55",
+    "teacher_name" : "Гадзира Л.М.",
+    "teacher_full_name" : "Гадзира Л.М.",
+    "teacher_short_name" : "Гадзира Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "118",
+    "teacher_name" : "Старцун П.Р.",
+    "teacher_full_name" : "Старцун П.Р.",
+    "teacher_short_name" : "Старцун П.Р.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "118",
+    "teacher_name" : "Старцун П.Р.",
+    "teacher_full_name" : "Старцун П.Р.",
+    "teacher_short_name" : "Старцун П.Р.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "89",
+    "teacher_name" : "Гавронський В.Є.",
+    "teacher_full_name" : "Гавронський В.Є.",
+    "teacher_short_name" : "Гавронський В.Є.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "89",
+    "teacher_name" : "Гавронський В.Є.",
+    "teacher_full_name" : "Гавронський В.Є.",
+    "teacher_short_name" : "Гавронський В.Є.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "43",
+    "teacher_name" : "Багас Л.М.",
+    "teacher_full_name" : "Багас Л.М.",
+    "teacher_short_name" : "Багас Л.М.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "103",
+    "teacher_name" : "Бойко А.А.",
+    "teacher_full_name" : "Бойко А.А.",
+    "teacher_short_name" : "Бойко А.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "100",
+    "teacher_name" : "Мельник Р.Ф.",
+    "teacher_full_name" : "Мельник Р.Ф.",
+    "teacher_short_name" : "Мельник Р.Ф.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "100",
+    "teacher_name" : "Мельник Р.Ф.",
+    "teacher_full_name" : "Мельник Р.Ф.",
+    "teacher_short_name" : "Мельник Р.Ф.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "118",
+    "teacher_name" : "Старцун П.Р.",
+    "teacher_full_name" : "Старцун П.Р.",
+    "teacher_short_name" : "Старцун П.Р.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "118",
+    "teacher_name" : "Старцун П.Р.",
+    "teacher_full_name" : "Старцун П.Р.",
+    "teacher_short_name" : "Старцун П.Р.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "100",
+    "teacher_name" : "Мельник Р.Ф.",
+    "teacher_full_name" : "Мельник Р.Ф.",
+    "teacher_short_name" : "Мельник Р.Ф.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "100",
+    "teacher_name" : "Мельник Р.Ф.",
+    "teacher_full_name" : "Мельник Р.Ф.",
+    "teacher_short_name" : "Мельник Р.Ф.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "119",
+    "teacher_name" : "Гадзира Л.М",
+    "teacher_full_name" : "Гадзира Л.М",
+    "teacher_short_name" : "Гадзира Л.М",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "117",
+    "teacher_name" : "Гордєєв О.А.",
+    "teacher_full_name" : "Гордєєв О.А.",
+    "teacher_short_name" : "Гордєєв О.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "86",
+    "teacher_name" : "Докторук В.П.",
+    "teacher_full_name" : "Докторук В.П.",
+    "teacher_short_name" : "Докторук В.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "86",
+    "teacher_name" : "Докторук В.П.",
+    "teacher_full_name" : "Докторук В.П.",
+    "teacher_short_name" : "Докторук В.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "86",
+    "teacher_name" : "Докторук В.П.",
+    "teacher_full_name" : "Докторук В.П.",
+    "teacher_short_name" : "Докторук В.П.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "103",
+    "teacher_name" : "Бойко А.А.",
+    "teacher_full_name" : "Бойко А.А.",
+    "teacher_short_name" : "Бойко А.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "103",
+    "teacher_name" : "Бойко А.А.",
+    "teacher_full_name" : "Бойко А.А.",
+    "teacher_short_name" : "Бойко А.А.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "90",
+    "teacher_name" : "Нижник М.О.",
+    "teacher_full_name" : "Нижник М.О.",
+    "teacher_short_name" : "Нижник М.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "90",
+    "teacher_name" : "Нижник М.О.",
+    "teacher_full_name" : "Нижник М.О.",
+    "teacher_short_name" : "Нижник М.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "50",
+    "teacher_name" : "Соломна О.В.",
+    "teacher_full_name" : "Соломна О.В.",
+    "teacher_short_name" : "Соломна О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "50",
+    "teacher_name" : "Соломна О.В.",
+    "teacher_full_name" : "Соломна О.В.",
+    "teacher_short_name" : "Соломна О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "90",
+    "teacher_name" : "Нижник М.О.",
+    "teacher_full_name" : "Нижник М.О.",
+    "teacher_short_name" : "Нижник М.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "90",
+    "teacher_name" : "Нижник М.О.",
+    "teacher_full_name" : "Нижник М.О.",
+    "teacher_short_name" : "Нижник М.О.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  }, {
+    "teacher_id" : "120",
+    "teacher_name" : " Соломна О.В.",
+    "teacher_full_name" : " Соломна О.В.",
+    "teacher_short_name" : " Соломна О.В.",
+    "teacher_url" : "http://google.com",
+    "teacher_rating" : "5.000"
+  } ]
+}

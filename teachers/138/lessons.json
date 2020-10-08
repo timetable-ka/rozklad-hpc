@@ -1,0 +1,44 @@
+{
+  "statusCode" : 200,
+  "timeStamp" : 1600071948,
+  "message" : "Ok",
+  "debugInfo" : null,
+  "meta" : null,
+  "data" : [ {
+    "lesson_id" : "1421",
+    "group_id" : "43",
+    "day_number" : "4",
+    "day_name" : "Четверг",
+    "lesson_name" : "ООП",
+    "lesson_full_name" : "ООП",
+    "lesson_number" : "4",
+    "lesson_room" : "233",
+    "lesson_type" : "Лек",
+    "teacher_name" : "Ковальчук С.О, Стукан А.М.",
+    "lesson_week" : "2",
+    "time_start" : "13:20",
+    "time_end" : "14:40",
+    "rate" : null,
+    "rooms" : [ {
+      "room_id" : "42",
+      "room_name" : "233",
+      "room_latitude" : "49.4330545",
+      "room_longitude" : "27.0043892"
+    } ],
+    "teachers" : [ {
+      "teacher_id" : "138",
+      "teacher_name" : "Ковальчук С.О",
+      "teacher_full_name" : "Ковальчук С.О",
+      "teacher_short_name" : "Ковальчук С.О",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    }, {
+      "teacher_id" : "106",
+      "teacher_name" : "Стукан А.М.",
+      "teacher_full_name" : "Стукан А.М.",
+      "teacher_short_name" : "Стукан А.М.",
+      "teacher_url" : "http://google.com",
+      "teacher_rating" : "5.000"
+    } ]
+  } ]
+}
