@@ -7,6 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
+import java.util.Optional;
 
 @Slf4j
 @Service
@@ -53,7 +54,6 @@ public class TimeTableService {
             }
 
 
-
             Room room = new Room();
             room.setName(roomNumber);
             room = roomRepository.findByName(roomNumber).orElse(room);
@@ -85,16 +85,21 @@ public class TimeTableService {
     }
 
     private void saveTeachers(String firstTeacherName, String secondTeacherName, TimeTable timeTable) {
-        timeTable.setTeacher(getTeacher(firstTeacherName));
-        timeTable.setTeacherSecond(getTeacher(secondTeacherName));
+        getTeacher(firstTeacherName)
+                .ifPresent(timeTable::setTeacher);
+        getTeacher(secondTeacherName)
+                .ifPresent(timeTable::setTeacherSecond);
     }
 
-    private Teacher getTeacher(String firstTeacherName) {
-        Teacher teacher = new Teacher();
-        teacher.setName(firstTeacherName);
-        teacher = teacherRepository.findByName(firstTeacherName).orElse(teacher);
-        teacherRepository.saveAndFlush(teacher);
-        return teacher;
+    private Optional<Teacher> getTeacher(String name) {
+        return Optional.ofNullable(name)
+                .map(s -> {
+                    Teacher teacher = new Teacher();
+                    teacher.setName(name);
+                    teacher = teacherRepository.findByName(name).orElse(teacher);
+                    teacherRepository.saveAndFlush(teacher);
+                    return teacher;
+                });
     }
 
     private long getDayNumber(long lessonsNumber) {
