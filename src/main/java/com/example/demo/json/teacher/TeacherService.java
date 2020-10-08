@@ -50,7 +50,7 @@ public class TeacherService {
                String json = null;
                try {
                    ResponseDto<Object> responseDto = ResponseDto.builder().data(teacherDtos).build();
-                   json = objectMapper.writeValueAsString(responseDto);
+                   json = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(responseDto);
                } catch (Exception e) {
                    log.error("Error", e);
                }

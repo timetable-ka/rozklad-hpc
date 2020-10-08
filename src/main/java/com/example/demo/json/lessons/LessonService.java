@@ -44,7 +44,7 @@ public class LessonService {
             String json = null;
             try {
                 ResponseDto<Object> responseDto = ResponseDto.builder().data(lessonsDto).build();
-                json = objectMapper.writeValueAsString(responseDto);
+                json = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(responseDto);
             } catch (Exception e) {
                 log.error("Error", e);
             }
@@ -71,7 +71,7 @@ public class LessonService {
                 String json = null;
                 try {
                     ResponseDto<Object> responseDto = ResponseDto.builder().data(lessonsDtos).build();
-                    json = objectMapper.writeValueAsString(responseDto);
+                    json = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(responseDto);
                 } catch (Exception e) {
                     log.error("Error", e);
                 }

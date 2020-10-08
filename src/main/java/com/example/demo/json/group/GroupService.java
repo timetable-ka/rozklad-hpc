@@ -35,7 +35,7 @@ public class GroupService {
         String json = null;
         try {
             ResponseDto<Object> responseDto = ResponseDto.builder().data(groupDtos).build();
-            json = objectMapper.writeValueAsString(responseDto);
+            json = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(responseDto);
         } catch (Exception e) {
             log.error("Error", e);
         }
@@ -61,7 +61,7 @@ public class GroupService {
                     String json;
                     try {
                         ResponseDto<Object> responseDto = ResponseDto.builder().data(groupDto).build();
-                        json = objectMapper.writeValueAsString(responseDto);
+                        json = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(responseDto);
                         createFile(json.getBytes(), "groups\\" + prefix + "\\" + groupDtoFunction.apply(groupDto) + ".json");
                     } catch (Exception e) {
                         log.error("Error", e);
